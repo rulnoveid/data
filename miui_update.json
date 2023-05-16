@@ -1,4 +1,5 @@
 [
+  "data": [
 	{
 		"android": "13.0",
 		"codename": "agate",
@@ -2559,4 +2560,5 @@
 		"name": "Xiaomi MIX Fold 2",
 		"version": "V14.0.9.0.TLRCNXM"
 	}
-]
+    ]
+}
