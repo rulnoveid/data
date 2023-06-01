@@ -3,14 +3,530 @@
 	{
 		"android": "13.0",
 		"branch": "Stable Beta",
-		"codename": "nuwa_ru_global",
-		"date": "2023-05-22T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.6.0.TMBRUXM/miui_NUWARUGlobal_V14.0.6.0.TMBRUXM_e95181d62e_13.0.zip",
-		"md5": "e95181d62ea68775a531c29aa452667c",
+		"codename": "sea_eea_global",
+		"date": "2023-06-01T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.THZEUXM/miui_SEAEEAGlobal_V14.0.2.0.THZEUXM_3208a2929a_13.0.zip",
+		"md5": "3208a2929a1686f818fcb20b4175f737",
 		"method": "Recovery",
-		"name": "Xiaomi 13 Pro Russia",
-		"size": "5.6 GB",
-		"version": "V14.0.6.0.TMBRUXM"
+		"name": "Redmi Note 12S EEA",
+		"size": "4.0 GB",
+		"version": "V14.0.2.0.THZEUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "sea_ru_global",
+		"date": "2023-06-01T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.THZRUXM/miui_SEARUGlobal_V14.0.2.0.THZRUXM_d54dcd20e0_13.0.zip",
+		"md5": "d54dcd20e0a85b40d17a98bcb9fabe12",
+		"method": "Recovery",
+		"name": "Redmi Note 12S Russia",
+		"size": "4.0 GB",
+		"version": "V14.0.2.0.THZRUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "moonstone_tr_global",
+		"date": "2023-05-31T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TMPTRXM/miui_MOONSTONETRGlobal_V14.0.2.0.TMPTRXM_9a29688717_13.0.zip",
+		"md5": "9a2968871762f026e99dba6a85038aed",
+		"method": "Recovery",
+		"name": "POCO X5 5G  Turkey",
+		"size": "3.5 GB",
+		"version": "V14.0.2.0.TMPTRXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "yuechu",
+		"date": "2023-05-31T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.5.0.TMICNXM/miui_YUECHU_V14.0.5.0.TMICNXM_6b3f863826_13.0.zip",
+		"md5": "6b3f8638264b6bae88cf74f9c1762ce7",
+		"method": "Recovery",
+		"name": "Xiaomi Civi 3 China",
+		"size": "6.2 GB",
+		"version": "V14.0.5.0.TMICNXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "pearl",
+		"date": "2023-05-31T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.TLHCNXM/miui_PEARL_V14.0.3.0.TLHCNXM_2d7375d91e_13.0.zip",
+		"md5": "2d7375d91e079580c0c62e909e87785f",
+		"method": "Recovery",
+		"name": "Redmi Note 12T Pro China",
+		"size": "5.9 GB",
+		"version": "V14.0.3.0.TLHCNXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable Beta",
+		"codename": "opal_ru_global",
+		"date": "2023-05-30T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.1.0.SGLRUXM/miui_OPALRUGlobal_V13.0.1.0.SGLRUXM_9071162570_12.0.zip",
+		"md5": "9071162570376c1b0c4007508d2612dc",
+		"method": "Recovery",
+		"name": "Redmi Note 11S 5G Russia",
+		"size": "3.2 GB",
+		"version": "V13.0.1.0.SGLRUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "redwood_tw_global",
+		"date": "2023-05-30T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TMSTWXM/miui_REDWOODTWGlobal_V14.0.2.0.TMSTWXM_671b9a8fff_13.0.zip",
+		"md5": "671b9a8fff98f7c8801e1b15b079a46c",
+		"method": "Recovery",
+		"name": "POCO X5 Pro 5G Taiwan",
+		"size": "4.6 GB",
+		"version": "V14.0.2.0.TMSTWXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "star",
+		"date": "2023-05-29T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.9.0.TKACNXM/miui_STAR_V14.0.9.0.TKACNXM_88fb6d9f79_13.0.zip",
+		"md5": "88fb6d9f7904d8d8326c6f9d1d7b5951",
+		"method": "Recovery",
+		"name": "Mi 11 Pro / Ultra China",
+		"size": "5.8 GB",
+		"version": "V14.0.9.0.TKACNXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "nabu_ru_global",
+		"date": "2023-05-29T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.TKXRUXM/miui_NABURUGlobal_V14.0.3.0.TKXRUXM_46023ea435_13.0.zip",
+		"md5": "46023ea435dc33f963e42fb0596fecd9",
+		"method": "Recovery",
+		"name": "Xiaomi Pad 5 Russia",
+		"size": "3.3 GB",
+		"version": "V14.0.3.0.TKXRUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "nabu_tr_global",
+		"date": "2023-05-29T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TKXTRXM/miui_NABUTRGlobal_V14.0.2.0.TKXTRXM_2520db95b4_13.0.zip",
+		"md5": "2520db95b4f910556de7a7ee4dcdc9ba",
+		"method": "Recovery",
+		"name": "Xiaomi Pad 5 Turkey",
+		"size": "3.3 GB",
+		"version": "V14.0.2.0.TKXTRXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "nabu_tw_global",
+		"date": "2023-05-29T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TKXTWXM/miui_NABUTWGlobal_V14.0.2.0.TKXTWXM_e7de4640cb_13.0.zip",
+		"md5": "e7de4640cb62c703f23fa19d928b427a",
+		"method": "Recovery",
+		"name": "Xiaomi Pad 5 Taiwan",
+		"size": "3.2 GB",
+		"version": "V14.0.2.0.TKXTWXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "agate_tr_global",
+		"date": "2023-05-29T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TKWTRXM/miui_AGATETRGlobal_V14.0.2.0.TKWTRXM_468465eb81_13.0.zip",
+		"md5": "468465eb81462b70c7010cd5a62f0f9c",
+		"method": "Recovery",
+		"name": "Xiaomi 11T Turkey",
+		"size": "3.8 GB",
+		"version": "V14.0.2.0.TKWTRXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "vida_in_global",
+		"date": "2023-05-29T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.1.0.TGDINXM/miui_VIDAINGlobal_V14.0.1.0.TGDINXM_dfe584a0d1_13.0.zip",
+		"md5": "dfe584a0d15dab67c4d3d0258d6cfacc",
+		"method": "Recovery",
+		"name": "Redmi Note 11 Pro 4G India",
+		"size": "3.5 GB",
+		"version": "V14.0.1.0.TGDINXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "topaz_ru_global",
+		"date": "2023-05-29T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.TMGRUXM/miui_TOPAZRUGlobal_V14.0.3.0.TMGRUXM_f23fc019b4_13.0.zip",
+		"md5": "f23fc019b4e9f67389e31768744aea87",
+		"method": "Recovery",
+		"name": "Redmi Note 12 4G NFC Russia",
+		"size": "4.2 GB",
+		"version": "V14.0.3.0.TMGRUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "plato_tw_global",
+		"date": "2023-05-28T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.4.0.TLQTWXM/miui_PLATOTWGlobal_V14.0.4.0.TLQTWXM_4da264bbff_13.0.zip",
+		"md5": "4da264bbff65822747630d306bc40d6a",
+		"method": "Recovery",
+		"name": "Xiaomi 12T Taiwan",
+		"size": "5.0 GB",
+		"version": "V14.0.4.0.TLQTWXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "cmi_eea_global",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.TJAEUXM/miui_CMIEEAGlobal_V14.0.3.0.TJAEUXM_d97dc491ac_13.0.zip",
+		"md5": "d97dc491ac47d119f8aab9795d6c9d3d",
+		"method": "Recovery",
+		"name": "Mi 10 Pro EEA",
+		"size": "4.2 GB",
+		"version": "V14.0.3.0.TJAEUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "cmi_global",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.5.0.TJAMIXM/miui_CMIGlobal_V14.0.5.0.TJAMIXM_3a405e0f11_13.0.zip",
+		"md5": "3a405e0f11d8128462718bd930453b39",
+		"method": "Recovery",
+		"name": "Mi 10 Pro Global",
+		"size": "4.2 GB",
+		"version": "V14.0.5.0.TJAMIXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "fleur_eea_global",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.TKEEUXM/miui_FLEUREEAGlobal_V14.0.3.0.TKEEUXM_607e8f303a_13.0.zip",
+		"md5": "607e8f303a710ef069d7eae904a845ca",
+		"method": "Recovery",
+		"name": "Redmi Note 11S 4G / POCO M4 Pro 4G EEA",
+		"size": "3.7 GB",
+		"version": "V14.0.3.0.TKEEUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "veux",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.1.0.TKCCNXM/miui_VEUX_V14.0.1.0.TKCCNXM_0ebe59b3b1_13.0.zip",
+		"md5": "0ebe59b3b11bfae8ff1b2685c2ff57ca",
+		"method": "Recovery",
+		"name": "Redmi Note 11E Pro China",
+		"size": "4.6 GB",
+		"version": "V14.0.1.0.TKCCNXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "rosemary_p_global",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TFFMIXM/miui_ROSEMARYPGlobal_V14.0.2.0.TFFMIXM_a2a7b26cea_13.0.zip",
+		"md5": "a2a7b26ceac4fa4ff4f0df9b8d5afd3f",
+		"method": "Recovery",
+		"name": "POCO M5S Global",
+		"size": "3.8 GB",
+		"version": "V14.0.2.0.TFFMIXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "ziyi_tr_global",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.1.0.TLLTRXM/miui_ZIYITRGlobal_V14.0.1.0.TLLTRXM_279ae5c9c1_13.0.zip",
+		"md5": "279ae5c9c127646819737bb45999d7c1",
+		"method": "Recovery",
+		"name": "Xiaomi 13 Lite Turkey",
+		"size": "4.9 GB",
+		"version": "V14.0.1.0.TLLTRXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "tapas_in_global",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.5.0.TMTINXM/miui_TAPASINGlobal_V14.0.5.0.TMTINXM_6ba75c1422_13.0.zip",
+		"md5": "6ba75c142265a57a8418ed24241dd99b",
+		"method": "Recovery",
+		"name": "Redmi Note 12 4G India",
+		"size": "4.1 GB",
+		"version": "V14.0.5.0.TMTINXM"
+	},
+	{
+		"android": "11.0",
+		"branch": "Stable Beta",
+		"codename": "sweet_k6a_ru_global",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.3.0.RHGRUXM/miui_SWEETK6ARUGlobal_V13.0.3.0.RHGRUXM_55b189d6bf_11.0.zip",
+		"md5": "55b189d6bf5aae7ce51ded02844b2545",
+		"method": "Recovery",
+		"name": "Redmi Note 12 Pro 4G Russia",
+		"size": "3.5 GB",
+		"version": "V13.0.3.0.RHGRUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "umi_eea_global",
+		"date": "2023-05-25T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TJBEUXM/miui_UMIEEAGlobal_V14.0.2.0.TJBEUXM_82a2dca799_13.0.zip",
+		"md5": "82a2dca799aaf9033e316f38236f6f39",
+		"method": "Recovery",
+		"name": "Mi 10 EEA",
+		"size": "4.2 GB",
+		"version": "V14.0.2.0.TJBEUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "daumier",
+		"date": "2023-05-25T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.8.0.TLGCNXM/miui_DAUMIER_V14.0.8.0.TLGCNXM_a3aff9f955_13.0.zip",
+		"md5": "a3aff9f955c8187d2c05b487fc2b3117",
+		"method": "Recovery",
+		"name": "Xiaomi 12 Pro Dimensity China",
+		"size": "6.0 GB",
+		"version": "V14.0.8.0.TLGCNXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "earth",
+		"date": "2023-05-25T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.1.0.TCVCNXM/miui_EARTH_V14.0.1.0.TCVCNXM_16aa946429_13.0.zip",
+		"md5": "16aa946429dacbfd2ceac409a21ccbe2",
+		"method": "Recovery",
+		"name": "Redmi 12C China",
+		"size": "3.2 GB",
+		"version": "V14.0.1.0.TCVCNXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "camellian_tr_global",
+		"date": "2023-05-24T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TKSTRXM/miui_CAMELLIANTRGlobal_V14.0.2.0.TKSTRXM_faee8759e7_13.0.zip",
+		"md5": "faee8759e72c75d6b73b13243531cd48",
+		"method": "Recovery",
+		"name": "Redmi Note 10 5G Turkey",
+		"size": "3.8 GB",
+		"version": "V14.0.2.0.TKSTRXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable Beta",
+		"codename": "mojito_id_global",
+		"date": "2023-05-24T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.4.0.SKGIDXM/miui_MOJITOIDGlobal_V14.0.4.0.SKGIDXM_131d1d768f_12.0.zip",
+		"md5": "131d1d768f91e69f7a74cc2addbc29b6",
+		"method": "Recovery",
+		"name": "Redmi Note 10 Indonesia",
+		"size": "2.9 GB",
+		"version": "V14.0.4.0.SKGIDXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "pissarro_in_global",
+		"date": "2023-05-24T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.TKTINXM/miui_PISSARROINGlobal_V14.0.3.0.TKTINXM_6c6810bd50_13.0.zip",
+		"md5": "6c6810bd5080bedfb2f046d9847458c2",
+		"method": "Recovery",
+		"name": "Xiaomi 11i / Hypercharge India",
+		"size": "3.9 GB",
+		"version": "V14.0.3.0.TKTINXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "ziyi",
+		"date": "2023-05-24T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.12.0.TLLCNXM/miui_ZIYI_V14.0.12.0.TLLCNXM_cb3f94575d_13.0.zip",
+		"md5": "cb3f94575d273632b6df20e36d06aee0",
+		"method": "Recovery",
+		"name": "Xiaomi Civi 2 China",
+		"size": "5.8 GB",
+		"version": "V14.0.12.0.TLLCNXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "redwood_ru_global",
+		"date": "2023-05-24T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.1.0.TMSRUXM/miui_REDWOODRUGlobal_V14.0.1.0.TMSRUXM_4288398401_13.0.zip",
+		"md5": "4288398401d58baf17ea58a831dece5b",
+		"method": "Recovery",
+		"name": "POCO X5 Pro 5G Russia",
+		"size": "4.7 GB",
+		"version": "V14.0.1.0.TMSRUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "liuqin",
+		"date": "2023-05-24T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.5.0.TMYCNXM/miui_LIUQIN_V14.0.5.0.TMYCNXM_e266871c8a_13.0.zip",
+		"md5": "e266871c8a22979789baed2b17b5e084",
+		"method": "Recovery",
+		"name": "Xiaomi Pad 6 Pro China",
+		"size": "5.2 GB",
+		"version": "V14.0.5.0.TMYCNXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "ishtar",
+		"date": "2023-05-24T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.15.0.TMACNXM/miui_ISHTAR_V14.0.15.0.TMACNXM_3078bcb06e_13.0.zip",
+		"md5": "3078bcb06edcb084ec413967e0f696dd",
+		"method": "Recovery",
+		"name": "Xiaomi 13 Ultra China",
+		"size": "7.0 GB",
+		"version": "V14.0.15.0.TMACNXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "camellian_global",
+		"date": "2023-05-23T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.4.0.TKSMIXM/miui_CAMELLIANGlobal_V14.0.4.0.TKSMIXM_8003ebaaf1_13.0.zip",
+		"md5": "8003ebaaf15e1c69ab02f56ac7e12952",
+		"method": "Recovery",
+		"name": "Redmi Note 10 5G Global",
+		"size": "3.9 GB",
+		"version": "V14.0.4.0.TKSMIXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "rosemary_global",
+		"date": "2023-05-23T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.4.0.TKLMIXM/miui_ROSEMARYGlobal_V14.0.4.0.TKLMIXM_5d7c3295fa_13.0.zip",
+		"md5": "5d7c3295fab151513650d57c431d63e9",
+		"method": "Recovery",
+		"name": "Redmi Note 10S Global",
+		"size": "3.5 GB",
+		"version": "V14.0.4.0.TKLMIXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "evergo",
+		"date": "2023-05-23T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TGBCNXM/miui_EVERGO_V14.0.2.0.TGBCNXM_4c16a77b66_13.0.zip",
+		"md5": "4c16a77b663759b0dd20e6d29ebf554c",
+		"method": "Recovery",
+		"name": "Redmi Note 11 5G China",
+		"size": "4.2 GB",
+		"version": "V14.0.2.0.TGBCNXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "ziyi_tw_global",
+		"date": "2023-05-23T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.1.0.TLLTWXM/miui_ZIYITWGlobal_V14.0.1.0.TLLTWXM_18df01202f_13.0.zip",
+		"md5": "18df01202fd8d7b2ee6031258815ff0c",
+		"method": "Recovery",
+		"name": "Xiaomi Civi 2 / 13 Lite Taiwan",
+		"size": "4.8 GB",
+		"version": "V14.0.1.0.TLLTWXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "sea_global",
+		"date": "2023-05-23T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.4.0.THZMIXM/miui_SEAGlobal_V14.0.4.0.THZMIXM_6358f3d569_13.0.zip",
+		"md5": "6358f3d5692d41191aa315a1abe4a634",
+		"method": "Recovery",
+		"name": "Redmi Note 12S Global",
+		"size": "4.0 GB",
+		"version": "V14.0.4.0.THZMIXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable Beta",
+		"codename": "apollo_in_global",
+		"date": "2023-05-22T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.1.0.SJDINXM/miui_APOLLOINGlobal_V14.0.1.0.SJDINXM_0831ed3cd1_12.0.zip",
+		"md5": "0831ed3cd1ec07ae6dd2408f7d746ca4",
+		"method": "Recovery",
+		"name": "Mi 10T / Mi 10T Pro India",
+		"size": "3.4 GB",
+		"version": "V14.0.1.0.SJDINXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "camellian_tw_global",
+		"date": "2023-05-22T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TKSTWXM/miui_CAMELLIANTWGlobal_V14.0.2.0.TKSTWXM_aa26fbca10_13.0.zip",
+		"md5": "aa26fbca10317230764beefebb112b99",
+		"method": "Recovery",
+		"name": "Redmi Note 10 5G Taiwan",
+		"size": "3.7 GB",
+		"version": "V14.0.2.0.TKSTWXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "chopin_global",
+		"date": "2023-05-22T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.TKPMIXM/miui_CHOPINGlobal_V14.0.3.0.TKPMIXM_08c2a7311a_13.0.zip",
+		"md5": "08c2a7311ad41f63cafcc8856c72752a",
+		"method": "Recovery",
+		"name": "POCO X3 GT Global",
+		"size": "4.0 GB",
+		"version": "V14.0.3.0.TKPMIXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "vili_in_global",
+		"date": "2023-05-22T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.TKDINXM/miui_VILIINGlobal_V14.0.3.0.TKDINXM_0b90dc1964_13.0.zip",
+		"md5": "0b90dc1964dec5f673e442ff22aa20fc",
+		"method": "Recovery",
+		"name": "Xiaomi 11T Pro India",
+		"size": "4.8 GB",
+		"version": "V14.0.3.0.TKDINXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "cupid_eea_global",
+		"date": "2023-05-22T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.9.0.TLCEUXM/miui_CUPIDEEAGlobal_V14.0.9.0.TLCEUXM_181c05bd75_13.0.zip",
+		"md5": "181c05bd75c074dac5c2e3b3ba9b7a5c",
+		"method": "Recovery",
+		"name": "Xiaomi 12 EEA",
+		"size": "4.8 GB",
+		"version": "V14.0.9.0.TLCEUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "ziyi_ru_global",
+		"date": "2023-05-22T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.1.0.TLLRUXM/miui_ZIYIRUGlobal_V14.0.1.0.TLLRUXM_16688e853c_13.0.zip",
+		"md5": "16688e853cf296fb29f02691f292ee90",
+		"method": "Recovery",
+		"name": "Xiaomi Civi 2 / 13 Lite Russia",
+		"size": "4.9 GB",
+		"version": "V14.0.1.0.TLLRUXM"
 	},
 	{
 		"android": "13.0",
@@ -25,40 +541,16 @@
 		"version": "V14.0.2.0.TMPTWXM"
 	},
 	{
-		"android": "13.0",
-		"branch": "Stable Beta",
-		"codename": "pipa",
-		"date": "2023-05-20T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.5.0.TMZCNXM/miui_PIPA_V14.0.5.0.TMZCNXM_bc4f78ac79_13.0.zip",
-		"md5": "bc4f78ac7941188b294ba45c83b1991e",
-		"method": "Recovery",
-		"name": "Xiaomi Pad 6 China",
-		"size": "4.7 GB",
-		"version": "V14.0.5.0.TMZCNXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
-		"codename": "vayu_global",
-		"date": "2023-05-18T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.3.0.TJUMIXM/miui_VAYUGlobal_V14.0.3.0.TJUMIXM_6be397120d_13.0.zip",
-		"md5": "6be397120d067503152330f6266eb121",
-		"method": "Recovery",
-		"name": "POCO X3 Pro Global",
-		"size": "4.0 GB",
-		"version": "V14.0.3.0.TJUMIXM"
-	},
-	{
 		"android": "12.0",
 		"branch": "Stable Beta",
-		"codename": "mojito_global",
-		"date": "2023-05-18T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.3.0.SKGMIXM/miui_MOJITOGlobal_V14.0.3.0.SKGMIXM_da45d2227a_12.0.zip",
-		"md5": "da45d2227a678f217ec3e18870fe1786",
+		"codename": "lime_tr_global",
+		"date": "2023-05-19T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.SJQTRXM/miui_LIMETRGlobal_V14.0.3.0.SJQTRXM_5d7c1c3f2e_12.0.zip",
+		"md5": "5d7c1c3f2e817e10c9c6119a1443f0ac",
 		"method": "Recovery",
-		"name": "Redmi Note 10 Global",
-		"size": "2.9 GB",
-		"version": "V14.0.3.0.SKGMIXM"
+		"name": "Redmi 9T Turkey",
+		"size": "3.3 GB",
+		"version": "V14.0.3.0.SJQTRXM"
 	},
 	{
 		"android": "12.0",
@@ -87,18 +579,6 @@
 	{
 		"android": "13.0",
 		"branch": "Stable Beta",
-		"codename": "viva_global",
-		"date": "2023-05-18T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.2.0.TGDMIXM/miui_VIVAGlobal_V14.0.2.0.TGDMIXM_70e8af00f6_13.0.zip",
-		"md5": "70e8af00f6d2708bb659bd414518cdc6",
-		"method": "Recovery",
-		"name": "Redmi Note 11 Pro 4G Global",
-		"size": "3.7 GB",
-		"version": "V14.0.2.0.TGDMIXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
 		"codename": "light_in_global",
 		"date": "2023-05-18T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.4.0.TLSINXM/miui_LIGHTINGlobal_V14.0.4.0.TLSINXM_6f0f2c6476_13.0.zip",
@@ -107,18 +587,6 @@
 		"name": "Redmi 11 Prime 5G / POCO M4 5G India",
 		"size": "3.4 GB",
 		"version": "V14.0.4.0.TLSINXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
-		"codename": "rock_global",
-		"date": "2023-05-18T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.7.0.TLUMIXM/miui_ROCKGlobal_V14.0.7.0.TLUMIXM_b16d8555c3_13.0.zip",
-		"md5": "b16d8555c31114af93b425314e125252",
-		"method": "Recovery",
-		"name": "POCO M5 Global",
-		"size": "3.7 GB",
-		"version": "V14.0.7.0.TLUMIXM"
 	},
 	{
 		"android": "12.0",
@@ -145,42 +613,6 @@
 		"version": "V14.0.2.0.SJETRXM"
 	},
 	{
-		"android": "12.0",
-		"branch": "Stable Beta",
-		"codename": "cannong_tw_global",
-		"date": "2023-05-17T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.2.0.SJETWXM/miui_CANNONGTWGlobal_V14.0.2.0.SJETWXM_7dd370f970_12.0.zip",
-		"md5": "7dd370f9707a5f23feda166cba7c8d89",
-		"method": "Recovery",
-		"name": "Redmi Note 9T Taiwan",
-		"size": "3.2 GB",
-		"version": "V14.0.2.0.SJETWXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable Beta",
-		"codename": "lime_eea_global",
-		"date": "2023-05-17T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.3.0.SJQEUXM/miui_LIMEEEAGlobal_V14.0.3.0.SJQEUXM_e92886abdd_12.0.zip",
-		"md5": "e92886abdd66ca5e9875f19270842f5f",
-		"method": "Recovery",
-		"name": "Redmi 9T EEA",
-		"size": "3.3 GB",
-		"version": "V14.0.3.0.SJQEUXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
-		"codename": "biloba_global",
-		"date": "2023-05-17T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.4.0.TCUMIXM/miui_BILOBAGlobal_V14.0.4.0.TCUMIXM_bf1ba493fe_13.0.zip",
-		"md5": "bf1ba493fe3bb28fe7b75fe1ff8ff0db",
-		"method": "Recovery",
-		"name": "Redmi Note 8 (2021) Global",
-		"size": "3.3 GB",
-		"version": "V14.0.4.0.TCUMIXM"
-	},
-	{
 		"android": "13.0",
 		"branch": "Stable Beta",
 		"codename": "yunluo_ru_global",
@@ -191,66 +623,6 @@
 		"name": "Redmi Pad Russia",
 		"size": "3.9 GB",
 		"version": "V14.0.1.0.TLYRUXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable Beta",
-		"codename": "earth_in_global",
-		"date": "2023-05-17T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.3.0.SCVINXM/miui_EARTHINGlobal_V13.0.3.0.SCVINXM_1bfad882c9_12.0.zip",
-		"md5": "1bfad882c9771748ab344e9c629700e8",
-		"method": "Recovery",
-		"name": "Redmi 12C / POCO C55 India",
-		"size": "3.1 GB",
-		"version": "V13.0.3.0.SCVINXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
-		"codename": "ishtar",
-		"date": "2023-05-17T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.13.0.TMACNXM/miui_ISHTAR_V14.0.13.0.TMACNXM_0c4d6a81ab_13.0.zip",
-		"md5": "0c4d6a81abbab07d9a27a6dfc1d6e01f",
-		"method": "Recovery",
-		"name": "Xiaomi 13 Ultra China",
-		"size": "7.0 GB",
-		"version": "V14.0.13.0.TMACNXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
-		"codename": "courbet_global",
-		"date": "2023-05-16T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.3.0.TKQMIXM/miui_COURBETGlobal_V14.0.3.0.TKQMIXM_6497cb2f42_13.0.zip",
-		"md5": "6497cb2f4224c003d1843f58e92e9a68",
-		"method": "Recovery",
-		"name": "Mi 11 Lite 4G Global",
-		"size": "3.9 GB",
-		"version": "V14.0.3.0.TKQMIXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
-		"codename": "haydn_global",
-		"date": "2023-05-16T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.5.0.TKKMIXM/miui_HAYDNGlobal_V14.0.5.0.TKKMIXM_c49481499a_13.0.zip",
-		"md5": "c49481499aad6ac86ff566e80dc91293",
-		"method": "Recovery",
-		"name": "Mi 11i Global",
-		"size": "4.7 GB",
-		"version": "V14.0.5.0.TKKMIXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
-		"codename": "sweet_eea_global",
-		"date": "2023-05-16T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.3.0.TKFEUXM/miui_SWEETEEAGlobal_V14.0.3.0.TKFEUXM_d1f402084b_13.0.zip",
-		"md5": "d1f402084be72661f6f27c1e4f3bd5be",
-		"method": "Recovery",
-		"name": "Redmi Note 10 Pro EEA",
-		"size": "4.0 GB",
-		"version": "V14.0.3.0.TKFEUXM"
 	},
 	{
 		"android": "13.0",
@@ -291,66 +663,6 @@
 	{
 		"android": "13.0",
 		"branch": "Stable Beta",
-		"codename": "lisa_tr_global",
-		"date": "2023-05-16T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.3.0.TKOTRXM/miui_LISATRGlobal_V14.0.3.0.TKOTRXM_c09d64f1f9_13.0.zip",
-		"md5": "c09d64f1f9b94b3de4f2d20ee3f80d27",
-		"method": "Recovery",
-		"name": "Xiaomi 11 Lite 5G NE Turkey",
-		"size": "4.6 GB",
-		"version": "V14.0.3.0.TKOTRXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
-		"codename": "lisa_tw_global",
-		"date": "2023-05-16T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.3.0.TKOTWXM/miui_LISATWGlobal_V14.0.3.0.TKOTWXM_39481cc2ff_13.0.zip",
-		"md5": "39481cc2ff80daec50d745da61836516",
-		"method": "Recovery",
-		"name": "Xiaomi 11 Lite 5G NE Taiwan",
-		"size": "4.5 GB",
-		"version": "V14.0.3.0.TKOTWXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
-		"codename": "tapas_global",
-		"date": "2023-05-16T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.7.0.TMTMIXM/miui_TAPASGlobal_V14.0.7.0.TMTMIXM_4a86538101_13.0.zip",
-		"md5": "4a8653810133fcb57207686fc0d07b0d",
-		"method": "Recovery",
-		"name": "Redmi Note 12 4G Global",
-		"size": "4.2 GB",
-		"version": "V14.0.7.0.TMTMIXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
-		"codename": "lightcm",
-		"date": "2023-05-16T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.4.0.TLSCNXM/miui_LIGHTCM_V14.0.4.0.TLSCNXM_38112ac52e_13.0.zip",
-		"md5": "38112ac52ec612a74b439ec7abf028a6",
-		"method": "Recovery",
-		"name": "Redmi Note 11R China",
-		"size": "4.2 GB",
-		"version": "V14.0.4.0.TLSCNXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
-		"codename": "cmi",
-		"date": "2023-05-15T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.3.0.TJACNXM/miui_CMI_V14.0.3.0.TJACNXM_03a653ca7b_13.0.zip",
-		"md5": "03a653ca7bba73cda4250e65b87ddaf2",
-		"method": "Recovery",
-		"name": "Mi 10 Pro China",
-		"size": "4.5 GB",
-		"version": "V14.0.3.0.TJACNXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
 		"codename": "umi",
 		"date": "2023-05-15T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.3.0.TJBCNXM/miui_UMI_V14.0.3.0.TJBCNXM_cb59eddd11_13.0.zip",
@@ -387,54 +699,6 @@
 	{
 		"android": "12.0",
 		"branch": "Stable Beta",
-		"codename": "earth",
-		"date": "2023-05-15T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.8.0.SCVCNXM/miui_EARTH_V13.0.8.0.SCVCNXM_dbc7475907_12.0.zip",
-		"md5": "dbc7475907319869146f2fc106e183b4",
-		"method": "Recovery",
-		"name": "Redmi 12C China",
-		"size": "3.4 GB",
-		"version": "V13.0.8.0.SCVCNXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
-		"codename": "topaz_eea_global",
-		"date": "2023-05-15T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.8.0.TMGEUXM/miui_TOPAZEEAGlobal_V14.0.8.0.TMGEUXM_b52dd70b6e_13.0.zip",
-		"md5": "b52dd70b6e7531c4b5fbc6255ba7b7b2",
-		"method": "Recovery",
-		"name": "Redmi Note 12 4G NFC EEA",
-		"size": "4.3 GB",
-		"version": "V14.0.8.0.TMGEUXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable Beta",
-		"codename": "lime_ru_global",
-		"date": "2023-05-12T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.2.0.SJQRUXM/miui_LIMERUGlobal_V14.0.2.0.SJQRUXM_59c28ef472_12.0.zip",
-		"md5": "59c28ef472585ba8ed9657935dcfac25",
-		"method": "Recovery",
-		"name": "Redmi 9T Russia",
-		"size": "3.3 GB",
-		"version": "V14.0.2.0.SJQRUXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable Beta",
-		"codename": "ruby_global",
-		"date": "2023-05-12T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.6.0.SMOMIXM/miui_RUBYGlobal_V14.0.6.0.SMOMIXM_8d6c74adfa_12.0.zip",
-		"md5": "8d6c74adfa4793168b82815c76ebc0ba",
-		"method": "Recovery",
-		"name": "Redmi Note 12 Pro / Pro+ 5G Global",
-		"size": "4.2 GB",
-		"version": "V14.0.6.0.SMOMIXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable Beta",
 		"codename": "viva_id_global",
 		"date": "2023-05-11T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V13.0.7.0.SGDIDXM/miui_VIVAIDGlobal_V13.0.7.0.SGDIDXM_8d9f789df9_12.0.zip",
@@ -455,18 +719,6 @@
 		"name": "Redmi Note 11 NFC Indonesia",
 		"size": "3.1 GB",
 		"version": "V13.0.6.0.SGKIDXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable Beta",
-		"codename": "ruby",
-		"date": "2023-05-11T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.4.0.SMOCNXM/miui_RUBY_V14.0.4.0.SMOCNXM_c5b34104b1_12.0.zip",
-		"md5": "c5b34104b16649735a00a71f8b6b0425",
-		"method": "Recovery",
-		"name": "Redmi Note 12 Pro / Pro+ / Discovery 5G China",
-		"size": "5.3 GB",
-		"version": "V14.0.4.0.SMOCNXM"
 	},
 	{
 		"android": "13.0",
@@ -519,30 +771,6 @@
 	{
 		"android": "13.0",
 		"branch": "Stable Beta",
-		"codename": "sea_global",
-		"date": "2023-05-10T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.1.0.THZMIXM/miui_SEAGlobal_V14.0.1.0.THZMIXM_44264fcd36_13.0.zip",
-		"md5": "44264fcd36bb26a8018b0e9b6a71b014",
-		"method": "Recovery",
-		"name": "Redmi Note 12S Global",
-		"size": "4.1 GB",
-		"version": "V14.0.1.0.THZMIXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
-		"codename": "sea_ru_global",
-		"date": "2023-05-10T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.1.0.THZRUXM/miui_SEARUGlobal_V14.0.1.0.THZRUXM_4e344672e1_13.0.zip",
-		"md5": "4e344672e1b5fb1df9ee546adf744b67",
-		"method": "Recovery",
-		"name": "Redmi Note 12S Russia",
-		"size": "4.0 GB",
-		"version": "V14.0.1.0.THZRUXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
 		"codename": "sea_tr_global",
 		"date": "2023-05-10T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.1.0.THZTRXM/miui_SEATRGlobal_V14.0.1.0.THZTRXM_ba3be1a986_13.0.zip",
@@ -575,30 +803,6 @@
 		"name": "POCO M3 India",
 		"size": "3.2 GB",
 		"version": "V14.0.2.0.SJFINXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
-		"codename": "vili_global",
-		"date": "2023-05-09T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.2.0.TKDMIXM/miui_VILIGlobal_V14.0.2.0.TKDMIXM_a419b72ee9_13.0.zip",
-		"md5": "a419b72ee9d909b3f3c28f6166648df7",
-		"method": "Recovery",
-		"name": "Xiaomi 11T Pro Global",
-		"size": "4.8 GB",
-		"version": "V14.0.2.0.TKDMIXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
-		"codename": "lisa_in_global",
-		"date": "2023-05-09T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.5.0.TKOINXM/miui_LISAINGlobal_V14.0.5.0.TKOINXM_80e214deb0_13.0.zip",
-		"md5": "80e214deb0687cc08f774c7fe30fc519",
-		"method": "Recovery",
-		"name": "Xiaomi 11 Lite 5G NE India",
-		"size": "4.6 GB",
-		"version": "V14.0.5.0.TKOINXM"
 	},
 	{
 		"android": "12.0",
@@ -659,18 +863,6 @@
 		"name": "Redmi Note 12 5G EEA",
 		"size": "3.9 GB",
 		"version": "V14.0.7.0.SMQEUXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
-		"codename": "cmi_global",
-		"date": "2023-05-06T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.3.0.TJAMIXM/miui_CMIGlobal_V14.0.3.0.TJAMIXM_911f5f8a5c_13.0.zip",
-		"md5": "911f5f8a5c77c42c1d97dfb1ae9f8168",
-		"method": "Recovery",
-		"name": "Mi 10 Pro Global",
-		"size": "4.2 GB",
-		"version": "V14.0.3.0.TJAMIXM"
 	},
 	{
 		"android": "12.0",
@@ -779,18 +971,6 @@
 		"name": "POCO F5 Turkey",
 		"size": "4.9 GB",
 		"version": "V14.0.1.0.TMRTRXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
-		"codename": "camellian_global",
-		"date": "2023-05-05T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.3.0.TKSMIXM/miui_CAMELLIANGlobal_V14.0.3.0.TKSMIXM_4d9be1df29_13.0.zip",
-		"md5": "4d9be1df290aa06d575fba403770209c",
-		"method": "Recovery",
-		"name": "Redmi Note 10 5G Global",
-		"size": "3.9 GB",
-		"version": "V14.0.3.0.TKSMIXM"
 	},
 	{
 		"android": "12.0",
@@ -1035,18 +1215,6 @@
 	{
 		"android": "13.0",
 		"branch": "Stable Beta",
-		"codename": "umi_eea_global",
-		"date": "2023-04-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.1.0.TJBEUXM/miui_UMIEEAGlobal_V14.0.1.0.TJBEUXM_60c8bc7945_13.0.zip",
-		"md5": "60c8bc7945bd1d3cfa3349ecb596ae02",
-		"method": "Recovery",
-		"name": "Mi 10 EEA",
-		"size": "4.2 GB",
-		"version": "V14.0.1.0.TJBEUXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
 		"codename": "biloba_ru_global",
 		"date": "2023-04-19T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.4.0.TCURUXM/miui_BILOBARUGlobal_V14.0.4.0.TCURUXM_c135d243f4_13.0.zip",
@@ -1179,42 +1347,6 @@
 	{
 		"android": "12.0",
 		"branch": "Stable Beta",
-		"codename": "ziyi_ru_global",
-		"date": "2023-04-13T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.3.0.SLLRUXM/miui_ZIYIRUGlobal_V14.0.3.0.SLLRUXM_9dd0384e1a_12.0.zip",
-		"md5": "9dd0384e1a101d3663f159aec7098c7b",
-		"method": "Recovery",
-		"name": "Xiaomi Civi 2 / 13 Lite Russia",
-		"size": "4.6 GB",
-		"version": "V14.0.3.0.SLLRUXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable Beta",
-		"codename": "ziyi_tr_global",
-		"date": "2023-04-13T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.3.0.SLLTRXM/miui_ZIYITRGlobal_V14.0.3.0.SLLTRXM_5171b33fdc_12.0.zip",
-		"md5": "5171b33fdc5cbea8309f38cf03b41422",
-		"method": "Recovery",
-		"name": "Xiaomi 13 Lite Turkey",
-		"size": "4.6 GB",
-		"version": "V14.0.3.0.SLLTRXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
-		"codename": "cmi_eea_global",
-		"date": "2023-04-12T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.1.0.TJAEUXM/miui_CMIEEAGlobal_V14.0.1.0.TJAEUXM_d645b9e7a2_13.0.zip",
-		"md5": "d645b9e7a29890431c82cdf881427a43",
-		"method": "Recovery",
-		"name": "Mi 10 Pro EEA",
-		"size": "4.2 GB",
-		"version": "V14.0.1.0.TJAEUXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable Beta",
 		"codename": "veux_in_global",
 		"date": "2023-04-12T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V13.0.6.0.SKCINXM/miui_VEUXINGlobal_V13.0.6.0.SKCINXM_beedff83a0_12.0.zip",
@@ -1285,18 +1417,6 @@
 		"version": "V13.0.11.0.SMQINXM"
 	},
 	{
-		"android": "12.0",
-		"branch": "Stable Beta",
-		"codename": "vida_in_global",
-		"date": "2023-04-10T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.7.0.SGDINXM/miui_VIDAINGlobal_V13.0.7.0.SGDINXM_23be3fe98d_12.0.zip",
-		"md5": "23be3fe98d6ee2962aef6018faca9ac2",
-		"method": "Recovery",
-		"name": "Redmi Note 11 Pro 4G India",
-		"size": "3.1 GB",
-		"version": "V13.0.7.0.SGDINXM"
-	},
-	{
 		"android": "13.0",
 		"branch": "Stable Beta",
 		"codename": "tapas_tr_global",
@@ -1319,30 +1439,6 @@
 		"name": "Redmi Note 12 4G NFC Indonesia",
 		"size": "4.1 GB",
 		"version": "V14.0.1.0.TMGIDXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
-		"codename": "topaz_ru_global",
-		"date": "2023-04-10T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.1.0.TMGRUXM/miui_TOPAZRUGlobal_V14.0.1.0.TMGRUXM_6487d2c485_13.0.zip",
-		"md5": "6487d2c485fd5b06b7f51c5595d71f8d",
-		"method": "Recovery",
-		"name": "Redmi Note 12 4G NFC Russia",
-		"size": "4.1 GB",
-		"version": "V14.0.1.0.TMGRUXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
-		"codename": "pissarro_in_global",
-		"date": "2023-04-08T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.2.0.TKTINXM/miui_PISSARROINGlobal_V14.0.2.0.TKTINXM_20c3857de7_13.0.zip",
-		"md5": "20c3857de790f7cf44e4cf1923bc6958",
-		"method": "Recovery",
-		"name": "Xiaomi 11i / Hypercharge India",
-		"size": "3.9 GB",
-		"version": "V14.0.2.0.TKTINXM"
 	},
 	{
 		"android": "13.0",
@@ -1549,18 +1645,6 @@
 		"version": "V14.0.2.0.TJUTWXM"
 	},
 	{
-		"android": "12.0",
-		"branch": "Stable Beta",
-		"codename": "lime_tr_global",
-		"date": "2023-03-22T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.2.0.SJQTRXM/miui_LIMETRGlobal_V13.0.2.0.SJQTRXM_8b749da4c6_12.0.zip",
-		"md5": "8b749da4c651d9b02086a4979a9631a5",
-		"method": "Recovery",
-		"name": "Redmi 9T Turkey",
-		"size": "3.3 GB",
-		"version": "V13.0.2.0.SJQTRXM"
-	},
-	{
 		"android": "13.0",
 		"branch": "Stable Beta",
 		"codename": "alioth_id_global",
@@ -1595,6 +1679,18 @@
 		"name": "Redmi K50i / Pro India",
 		"size": "4.9 GB",
 		"version": "V14.0.2.0.TLOINXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable Beta",
+		"codename": "ruby_global",
+		"date": "2023-03-22T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.SMOMIXM/miui_RUBYGlobal_V14.0.2.0.SMOMIXM_4bbfd34dc6_12.0.zip",
+		"md5": "4bbfd34dc68c86454ae6d2e7dee58309",
+		"method": "Recovery",
+		"name": "Redmi Note 12 Pro / Pro+ 5G Global",
+		"size": "4.1 GB",
+		"version": "V14.0.2.0.SMOMIXM"
 	},
 	{
 		"android": "12.0",
@@ -1715,18 +1811,6 @@
 		"name": "Redmi A2 / A2+ / POCO C51 Global",
 		"size": "1.5 GB",
 		"version": "V14.0.9.0.TGOMIXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
-		"codename": "vili_in_global",
-		"date": "2023-03-14T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.1.0.TKDINXM/miui_VILIINGlobal_V14.0.1.0.TKDINXM_f3be20ea63_13.0.zip",
-		"md5": "f3be20ea63a4018e2ed2935c7479ffd8",
-		"method": "Recovery",
-		"name": "Xiaomi 11T Pro India",
-		"size": "4.8 GB",
-		"version": "V14.0.1.0.TKDINXM"
 	},
 	{
 		"android": "13.0",
@@ -1875,18 +1959,6 @@
 	{
 		"android": "13.0",
 		"branch": "Stable Beta",
-		"codename": "agate_tr_global",
-		"date": "2023-03-02T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.1.0.TKWTRXM/miui_AGATETRGlobal_V14.0.1.0.TKWTRXM_cdabc5c927_13.0.zip",
-		"md5": "cdabc5c927ba45ccb9bf41df36ce7ddf",
-		"method": "Recovery",
-		"name": "Xiaomi 11T Turkey",
-		"size": "3.8 GB",
-		"version": "V14.0.1.0.TKWTRXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable Beta",
 		"codename": "munch_id_global",
 		"date": "2023-03-01T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.5.0.TLMIDXM/miui_MUNCHIDGlobal_V14.0.5.0.TLMIDXM_a462aeb077_13.0.zip",
@@ -1969,6 +2041,18 @@
 		"version": "V14.0.1.0.SJKCNXM"
 	},
 	{
+		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "vayu_in_global",
+		"date": "2023-02-22T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.1.0.TJUINXM/miui_VAYUINGlobal_V14.0.1.0.TJUINXM_dece330808_13.0.zip",
+		"md5": "dece330808f85f2dffac752a891c6398",
+		"method": "Recovery",
+		"name": "POCO X3 Pro India",
+		"size": "3.8 GB",
+		"version": "V14.0.1.0.TJUINXM"
+	},
+	{
 		"android": "12.0",
 		"branch": "Stable Beta",
 		"codename": "selene_eea_global",
@@ -1993,28 +2077,16 @@
 		"version": "V14.0.5.0.SMSMIXM"
 	},
 	{
-		"android": "12.0",
+		"android": "13.0",
 		"branch": "Stable Beta",
-		"codename": "redwood_ru_global",
-		"date": "2023-02-22T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.4.0.SMSRUXM/miui_REDWOODRUGlobal_V14.0.4.0.SMSRUXM_0da5d22f40_12.0.zip",
-		"md5": "0da5d22f409fdb7c58267750ffa16c60",
+		"codename": "lightcm",
+		"date": "2023-02-21T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TLSCNXM/miui_LIGHTCM_V14.0.2.0.TLSCNXM_af2de1fc99_13.0.zip",
+		"md5": "af2de1fc99cd84b3fbb3d137d5c89819",
 		"method": "Recovery",
-		"name": "POCO X5 Pro 5G Russia",
-		"size": "4.5 GB",
-		"version": "V14.0.4.0.SMSRUXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable Beta",
-		"codename": "vayu_in_global",
-		"date": "2023-02-13T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.5.0.SJUINXM/miui_VAYUINGlobal_V13.0.5.0.SJUINXM_8897f06659_12.0.zip",
-		"md5": "8897f0665946dc1a1273f9d9f488bd40",
-		"method": "Recovery",
-		"name": "POCO X3 Pro India",
-		"size": "3.3 GB",
-		"version": "V13.0.5.0.SJUINXM"
+		"name": "Redmi Note 11R China",
+		"size": "4.3 GB",
+		"version": "V14.0.2.0.TLSCNXM"
 	},
 	{
 		"android": "12.0",
@@ -2029,18 +2101,6 @@
 		"version": "V14.0.3.0.SMSEUXM"
 	},
 	{
-		"android": "12.0",
-		"branch": "Stable Beta",
-		"codename": "umi_in_global",
-		"date": "2023-02-11T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.7.0.SJBINXM/miui_UMIINGlobal_V13.0.7.0.SJBINXM_b9f7af4d1a_12.0.zip",
-		"md5": "b9f7af4d1a98a034e6e3ba299cc446e2",
-		"method": "Recovery",
-		"name": "Mi 10 India",
-		"size": "3.5 GB",
-		"version": "V13.0.7.0.SJBINXM"
-	},
-	{
 		"android": "13.0",
 		"branch": "Stable Beta",
 		"codename": "marble",
@@ -2051,18 +2111,6 @@
 		"name": "Redmi Note 12 Turbo China",
 		"size": "7.3 GB",
 		"version": "V14.0.1.0.TMRCNXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable Beta",
-		"codename": "apollo_in_global",
-		"date": "2023-02-09T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.7.0.SJDINXM/miui_APOLLOINGlobal_V13.0.7.0.SJDINXM_e6516afaa9_12.0.zip",
-		"md5": "e6516afaa9f4f62ba427a0d0bc322203",
-		"method": "Recovery",
-		"name": "Mi 10T / Mi 10T Pro India",
-		"size": "3.4 GB",
-		"version": "V13.0.7.0.SJDINXM"
 	},
 	{
 		"android": "13.0",
@@ -2161,18 +2209,6 @@
 		"version": "V13.0.5.0.SGMTWXM"
 	},
 	{
-		"android": "12.0",
-		"branch": "Stable Beta",
-		"codename": "camellian_tr_global",
-		"date": "2023-01-13T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.4.0.SKSTRXM/miui_CAMELLIANTRGlobal_V13.0.4.0.SKSTRXM_59e25a3d1c_12.0.zip",
-		"md5": "59e25a3d1c58352ca1c96d1fe7d6dc11",
-		"method": "Recovery",
-		"name": "Redmi Note 10 5G Turkey",
-		"size": "3.2 GB",
-		"version": "V13.0.4.0.SKSTRXM"
-	},
-	{
 		"android": "13.0",
 		"branch": "Stable Beta",
 		"codename": "chopin",
@@ -2211,14 +2247,14 @@
 	{
 		"android": "12.0",
 		"branch": "Stable Beta",
-		"codename": "ziyi",
+		"codename": "vayu_global",
 		"date": "2023-01-10T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.13.0.SLLCNXM/miui_ZIYI_V13.0.13.0.SLLCNXM_f2a3679d64_12.0.zip",
-		"md5": "f2a3679d6463433fcc720d426b140aee",
+		"link": "https://bigota.d.miui.com/V13.0.9.0.SJUMIXM/miui_VAYUGlobal_V13.0.9.0.SJUMIXM_f8087235ab_12.0.zip",
+		"md5": "f8087235abd83f7b07be25731fd63156",
 		"method": "Recovery",
-		"name": "Xiaomi Civi 2 China",
-		"size": "5.6 GB",
-		"version": "V13.0.13.0.SLLCNXM"
+		"name": "POCO X3 Pro Global",
+		"size": "3.4 GB",
+		"version": "V13.0.9.0.SJUMIXM"
 	},
 	{
 		"android": "12.0",
@@ -2473,18 +2509,6 @@
 		"version": "V13.0.3.0.SJOIDXM"
 	},
 	{
-		"android": "12.0",
-		"branch": "Stable Beta",
-		"codename": "nabu_ru_global",
-		"date": "2022-12-12T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.1.4.0.SKXRUXM/miui_NABURUGlobal_V13.1.4.0.SKXRUXM_e6afacdb90_12.0.zip",
-		"md5": "e6afacdb9090bc73326b4fb8a8b9f8bd",
-		"method": "Recovery",
-		"name": "Xiaomi Pad 5 Russia",
-		"size": "3.2 GB",
-		"version": "V13.1.4.0.SKXRUXM"
-	},
-	{
 		"android": "13.0",
 		"branch": "Stable Beta",
 		"codename": "cupid",
@@ -2557,18 +2581,6 @@
 		"version": "V13.0.14.0.SGMMIXM"
 	},
 	{
-		"android": "13.0",
-		"branch": "Stable Beta",
-		"codename": "cupid_eea_global",
-		"date": "2022-12-01T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.2.4.0.TLCEUXM/miui_CUPIDEEAGlobal_V13.2.4.0.TLCEUXM_8ed9066d46_13.0.zip",
-		"md5": "8ed9066d464a54d9e6855ff8cb9567b6",
-		"method": "Recovery",
-		"name": "Xiaomi 12 EEA",
-		"size": "4.8 GB",
-		"version": "V13.2.4.0.TLCEUXM"
-	},
-	{
 		"android": "12.0",
 		"branch": "Stable Beta",
 		"codename": "lancelot_id_global",
@@ -2603,6 +2615,18 @@
 		"name": "Redmi Note 12 5G / Note 12R Pro China",
 		"size": "4.5 GB",
 		"version": "V13.0.2.0.SMQCNXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable Beta",
+		"codename": "ruby",
+		"date": "2022-10-31T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.2.0.SMOCNXM/miui_RUBY_V13.0.2.0.SMOCNXM_147dfbf93c_12.0.zip",
+		"md5": "147dfbf93cd5c40d94afba46f6651943",
+		"method": "Recovery",
+		"name": "Redmi Note 12 Pro / Pro+ / Discovery 5G China",
+		"size": "5.0 GB",
+		"version": "V13.0.2.0.SMOCNXM"
 	},
 	{
 		"android": "12.0",
@@ -2847,18 +2871,6 @@
 	{
 		"android": "12.0",
 		"branch": "Stable Beta",
-		"codename": "evergo",
-		"date": "2022-08-08T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.6.0.SGBCNXM/miui_EVERGO_V13.0.6.0.SGBCNXM_81b235c68d_12.0.zip",
-		"md5": "81b235c68dcdf00a6390cb27b41756c8",
-		"method": "Recovery",
-		"name": "Redmi Note 11 5G China",
-		"size": "3.7 GB",
-		"version": "V13.0.6.0.SGBCNXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable Beta",
 		"codename": "atom",
 		"date": "2022-08-03T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V13.0.3.0.SJHCNXM/miui_ATOM_V13.0.3.0.SJHCNXM_066e584506_12.0.zip",
@@ -2891,18 +2903,6 @@
 		"name": "Redmi K30 Ultra China",
 		"size": "3.9 GB",
 		"version": "V13.0.3.0.SJNCNXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable Beta",
-		"codename": "daumier",
-		"date": "2022-08-03T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.13.0.SLGCNXM/miui_DAUMIER_V13.0.13.0.SLGCNXM_1f66e033c0_12.0.zip",
-		"md5": "1f66e033c0dcc9de54bc02cf0824ddcf",
-		"method": "Recovery",
-		"name": "Xiaomi 12 Pro Dimensity China",
-		"size": "5.5 GB",
-		"version": "V13.0.13.0.SLGCNXM"
 	},
 	{
 		"android": "12.0",
@@ -2963,18 +2963,6 @@
 		"name": "Redmi Note 8 Pro India",
 		"size": "2.4 GB",
 		"version": "V12.5.10.0.RGGINXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable Beta",
-		"codename": "veux",
-		"date": "2022-06-29T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.1.0.SKCCNXM/miui_VEUX_V13.0.1.0.SKCCNXM_077f616321_12.0.zip",
-		"md5": "077f6163214848db1c64146fde439cfa",
-		"method": "Recovery",
-		"name": "Redmi Note 11E Pro China",
-		"size": "4.1 GB",
-		"version": "V13.0.1.0.SKCCNXM"
 	},
 	{
 		"android": "12.0",
@@ -3083,6 +3071,18 @@
 		"name": "Mi 11 LE China",
 		"size": "4.3 GB",
 		"version": "V13.0.2.0.SKOCNXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable Beta",
+		"codename": "cmi",
+		"date": "2022-06-02T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.4.0.SJACNXM/miui_CMI_V13.0.4.0.SJACNXM_ae8b4cc344_12.0.zip",
+		"md5": "ae8b4cc3448ea09faab9b675a4271a7e",
+		"method": "Recovery",
+		"name": "Mi 10 Pro China",
+		"size": "4.7 GB",
+		"version": "V13.0.4.0.SJACNXM"
 	},
 	{
 		"android": "12.0",
@@ -3205,18 +3205,6 @@
 		"version": "V12.5.5.0.RGBRUXM"
 	},
 	{
-		"android": "12.0",
-		"branch": "Stable Beta",
-		"codename": "star",
-		"date": "2022-04-02T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.10.0.SKACNXM/miui_STAR_V13.0.10.0.SKACNXM_ccc25df1dc_12.0.zip",
-		"md5": "ccc25df1dc51a9964a6598246f3dd1d7",
-		"method": "Recovery",
-		"name": "Mi 11 Pro / Ultra China",
-		"size": "4.6 GB",
-		"version": "V13.0.10.0.SKACNXM"
-	},
-	{
 		"android": "11.0",
 		"branch": "Stable Beta",
 		"codename": "nabu",
@@ -3263,6 +3251,18 @@
 		"name": "Redmi 10A China",
 		"size": "3.9 GB",
 		"version": "V12.5.4.0.RCZCNXM"
+	},
+	{
+		"android": "11.0",
+		"branch": "Stable Beta",
+		"codename": "viva_global",
+		"date": "2022-03-08T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.4.0.RGDMIXM/miui_VIVAGlobal_V13.0.4.0.RGDMIXM_9007697299_11.0.zip",
+		"md5": "900769729933108866d9da02c9d38eb2",
+		"method": "Recovery",
+		"name": "Redmi Note 11 Pro 4G Global",
+		"size": "2.8 GB",
+		"version": "V13.0.4.0.RGDMIXM"
 	},
 	{
 		"android": "11.0",
@@ -3433,16 +3433,16 @@
 		"version": "V12.5.1.0.RKXEUXM"
 	},
 	{
-		"android": "11.0",
+		"android": "12.0",
 		"branch": "Stable Beta",
-		"codename": "nabu_tr_global",
-		"date": "2021-10-13T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V12.5.1.0.RKXTRXM/miui_NABUTRGlobal_V12.5.1.0.RKXTRXM_f84ff8e1fb_11.0.zip",
-		"md5": "f84ff8e1fbfddc78f7157ece32fb2e95",
+		"codename": "haydn_global",
+		"date": "2021-10-04T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V12.5.1.0.SKKMIXM/miui_HAYDNGlobal_V12.5.1.0.SKKMIXM_2ceae7a5c3_12.0.zip",
+		"md5": null,
 		"method": "Recovery",
-		"name": "Xiaomi Pad 5 Turkey",
-		"size": "2.7 GB",
-		"version": "V12.5.1.0.RKXTRXM"
+		"name": "Mi 11i Global",
+		"size": "3.4 GB",
+		"version": "V12.5.1.0.SKKMIXM"
 	},
 	{
 		"android": "11.0",
@@ -3519,6 +3519,18 @@
 	{
 		"android": "11.0",
 		"branch": "Stable Beta",
+		"codename": "courbet_global",
+		"date": "2021-09-01T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V12.5.5.0.RKQMIXM/miui_COURBETGlobal_V12.5.5.0.RKQMIXM_5c1bc0ec53_11.0.zip",
+		"md5": "5c1bc0ec53e83234df924b1d20ca28fa",
+		"method": "Recovery",
+		"name": "Mi 11 Lite 4G Global",
+		"size": "2.9 GB",
+		"version": "V12.5.5.0.RKQMIXM"
+	},
+	{
+		"android": "11.0",
+		"branch": "Stable Beta",
 		"codename": "courbet_eea_global",
 		"date": "2021-09-01T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V12.5.4.0.RKQEUXM/miui_COURBETEEAGlobal_V12.5.4.0.RKQEUXM_7861f2118e_11.0.zip",
@@ -3575,6 +3587,18 @@
 		"name": "Mi 10T / Mi 10T Pro Global",
 		"size": "5.3 GB",
 		"version": "V12.5.1.0.RJDMIXM"
+	},
+	{
+		"android": "11.0",
+		"branch": "Stable Beta",
+		"codename": "sweet_eea_global",
+		"date": "2021-06-30T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V12.5.3.0.RKFEUXM/miui_SWEETEEAGlobal_V12.5.3.0.RKFEUXM_dc8f116d70_11.0.zip",
+		"md5": "dc8f116d70774cf9a6c2b1ff540f0b57",
+		"method": "Recovery",
+		"name": "Redmi Note 10 Pro EEA",
+		"size": "3.1 GB",
+		"version": "V12.5.3.0.RKFEUXM"
 	},
 	{
 		"android": "10.0",
@@ -3675,6 +3699,18 @@
 	{
 		"android": "11.0",
 		"branch": "Stable Beta",
+		"codename": "biloba_global",
+		"date": "2021-05-25T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V12.5.1.0.RCUMIXM/miui_BILOBAGlobal_V12.5.1.0.RCUMIXM_852e830201_11.0.zip",
+		"md5": "852e8302014194ef8982b071c4aa6013",
+		"method": "Recovery",
+		"name": "Redmi Note 8 (2021) Global",
+		"size": "2.3 GB",
+		"version": "V12.5.1.0.RCUMIXM"
+	},
+	{
+		"android": "11.0",
+		"branch": "Stable Beta",
 		"codename": "haydn_eea_global",
 		"date": "2021-05-18T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V12.0.3.0.RKKEUXM/miui_HAYDNEEAGlobal_V12.0.3.0.RKKEUXM_3854fa809c_11.0.zip",
@@ -3699,6 +3735,18 @@
 	{
 		"android": "11.0",
 		"branch": "Stable Beta",
+		"codename": "mojito_global",
+		"date": "2021-05-13T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V12.0.9.0.RKGMIXM/miui_MOJITOGlobal_V12.0.9.0.RKGMIXM_dca72f24be_11.0.zip",
+		"md5": "dca72f24bec7080ea498cfecd46a47b2",
+		"method": "Recovery",
+		"name": "Redmi Note 10 Global",
+		"size": "2.5 GB",
+		"version": "V12.0.9.0.RKGMIXM"
+	},
+	{
+		"android": "11.0",
+		"branch": "Stable Beta",
 		"codename": "haydn_in_global",
 		"date": "2021-05-11T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V12.0.1.0.RKKINXM/miui_HAYDNINGlobal_V12.0.1.0.RKKINXM_cb412d82c3_11.0.zip",
@@ -3707,18 +3755,6 @@
 		"name": "Mi 11X Pro India",
 		"size": "2.9 GB",
 		"version": "V12.0.1.0.RKKINXM"
-	},
-	{
-		"android": "11.0",
-		"branch": "Stable Beta",
-		"codename": "rosemary_global",
-		"date": "2021-05-06T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V12.5.2.0.RKLMIXM/miui_ROSEMARYGlobal_V12.5.2.0.RKLMIXM_5d0fbfd3d4_11.0.zip",
-		"md5": "5d0fbfd3d46f5da6a8ebc5dc2da0ae1d",
-		"method": "Recovery",
-		"name": "Redmi Note 10S Global",
-		"size": "2.5 GB",
-		"version": "V12.5.2.0.RKLMIXM"
 	},
 	{
 		"android": "11.0",
@@ -3795,6 +3831,18 @@
 	{
 		"android": "10.0",
 		"branch": "Stable Beta",
+		"codename": "lime_ru_global",
+		"date": "2021-02-05T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V12.0.1.0.QJQRUXM/miui_LIMERUGlobal_V12.0.1.0.QJQRUXM_ff26633b44_10.0.zip",
+		"md5": "ff26633b443f2f8b0d27b188e86b1de6",
+		"method": "Recovery",
+		"name": "Redmi 9T Russia",
+		"size": "2.5 GB",
+		"version": "V12.0.1.0.QJQRUXM"
+	},
+	{
+		"android": "10.0",
+		"branch": "Stable Beta",
 		"codename": "curtana_eea_global",
 		"date": "2021-01-20T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V12.0.3.0.QJWEUXM/miui_CURTANAEEAGlobal_V12.0.3.0.QJWEUXM_d6593b05b9_10.0.zip",
@@ -3863,6 +3911,18 @@
 		"name": "POCO X3 NFC Global",
 		"size": "2.4 GB",
 		"version": "V12.0.6.0.QJGMIXM"
+	},
+	{
+		"android": "11.0",
+		"branch": "Stable Beta",
+		"codename": "umi_in_global",
+		"date": "2020-12-04T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V12.2.2.0.RJBINXM/miui_UMIINGlobal_V12.2.2.0.RJBINXM_6a4ae69df6_11.0.zip",
+		"md5": "6a4ae69df615a4813bda313e8d3fc69d",
+		"method": "Recovery",
+		"name": "Mi 10 India",
+		"size": "3.0 GB",
+		"version": "V12.2.2.0.RJBINXM"
 	},
 	{
 		"android": "10.0",
@@ -4022,6 +4082,510 @@
 	},
 	{
 		"android": "13.0",
+		"branch": "Stable Beta",
+		"codename": "topaz_eea_global",
+		"date": null,
+		"link": "https://bigota.d.miui.com/V14.0.1.0.TMGEUXM/miui_TOPAZEEAGlobal_V14.0.1.0.TMGEUXM_aa5e91ec83_13.0.zip",
+		"md5": "aa5e91ec83dabdbb5c1fd9840c0a9705",
+		"method": "Recovery",
+		"name": "Redmi Note 12 4G NFC EEA",
+		"size": "344 Bytes",
+		"version": "V14.0.1.0.TMGEUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "pearl",
+		"date": "2023-05-29T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TLHCNXM/miui_PEARL_V14.0.2.0.TLHCNXM_b743ea0619_13.0.zip",
+		"md5": "b743ea06199ad5b5ffc592783b6bc567",
+		"method": "Recovery",
+		"name": "Redmi Note 12T Pro China",
+		"size": "5.9 GB",
+		"version": "V14.0.2.0.TLHCNXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "viva_ru_global",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.4.0.SGDRUXM/miui_VIVARUGlobal_V13.0.4.0.SGDRUXM_d1ade66912_12.0.zip",
+		"md5": "d1ade669128fd1d7f86745bf9eebee80",
+		"method": "Recovery",
+		"name": "Redmi Note 11 Pro 4G Russia",
+		"size": "3.1 GB",
+		"version": "V13.0.4.0.SGDRUXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "earth_global",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.7.0.SCVMIXM/miui_EARTHGlobal_V13.0.7.0.SCVMIXM_df45be6a45_12.0.zip",
+		"md5": "df45be6a454b0c221f43ffa1c3a35407",
+		"method": "Recovery",
+		"name": "Redmi 12C / POCO C55 Global",
+		"size": "3.3 GB",
+		"version": "V13.0.7.0.SCVMIXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "earth_eea_global",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.8.0.SCVEUXM/miui_EARTHEEAGlobal_V13.0.8.0.SCVEUXM_e06861504f_12.0.zip",
+		"md5": "e06861504f599343aae6d359f215aa8e",
+		"method": "Recovery",
+		"name": "Redmi 12C / POCO C55 EEA",
+		"size": "3.3 GB",
+		"version": "V13.0.8.0.SCVEUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "umi_global",
+		"date": "2023-05-25T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.5.0.TJBMIXM/miui_UMIGlobal_V14.0.5.0.TJBMIXM_4934d391e7_13.0.zip",
+		"md5": "4934d391e79c29532fa8ad90871789e0",
+		"method": "Recovery",
+		"name": "Mi 10 Global",
+		"size": "4.2 GB",
+		"version": "V14.0.5.0.TJBMIXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "mojito_tr_global",
+		"date": "2023-05-25T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.SKGTRXM/miui_MOJITOTRGlobal_V14.0.3.0.SKGTRXM_7c8a3b4d0b_12.0.zip",
+		"md5": "7c8a3b4d0b103d00d5bad1412710de3e",
+		"method": "Recovery",
+		"name": "Redmi Note 10 Turkey",
+		"size": "2.9 GB",
+		"version": "V14.0.3.0.SKGTRXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "water_global",
+		"date": "2023-05-25T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.11.0.TGOMIXM/miui_WATERGlobal_V14.0.11.0.TGOMIXM_66556ac043_13.0.zip",
+		"md5": "66556ac043c5d73bf8b58330e12b34d9",
+		"method": "Recovery",
+		"name": "Redmi A2 / A2+ / POCO C51 Global",
+		"size": "1.5 GB",
+		"version": "V14.0.11.0.TGOMIXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "yuechu",
+		"date": "2023-05-25T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.4.0.TMICNXM/miui_YUECHU_V14.0.4.0.TMICNXM_957a8a2821_13.0.zip",
+		"md5": "957a8a282154c512aa7cc597f1b42729",
+		"method": "Recovery",
+		"name": "Xiaomi Civi 3 China",
+		"size": "6.2 GB",
+		"version": "V14.0.4.0.TMICNXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "munch_tw_global",
+		"date": "2023-05-24T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TLMTWXM/miui_MUNCHTWGlobal_V14.0.2.0.TLMTWXM_9c00638a7c_13.0.zip",
+		"md5": "9c00638a7ca73231a43f2fcc0692e10f",
+		"method": "Recovery",
+		"name": "POCO F4 Taiwan",
+		"size": "3.7 GB",
+		"version": "V14.0.2.0.TLMTWXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "ishtar_global",
+		"date": "2023-05-24T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.1.0.TMAMIXM/miui_ISHTARGlobal_V14.0.1.0.TMAMIXM_ffe251741c_13.0.zip",
+		"md5": "ffe251741caac17a9bbf952fffcf96ef",
+		"method": "Recovery",
+		"name": "Xiaomi 13 Ultra Global",
+		"size": "6.0 GB",
+		"version": "V14.0.1.0.TMAMIXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "veux_eea_global",
+		"date": "2023-05-23T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.6.0.SKCEUXM/miui_VEUXEEAGlobal_V13.0.6.0.SKCEUXM_bb374d0952_12.0.zip",
+		"md5": "bb374d0952434126134e0e447a265daa",
+		"method": "Recovery",
+		"name": "Redmi Note 11 Pro 5G / POCO X4 Pro 5G EEA",
+		"size": "3.3 GB",
+		"version": "V13.0.6.0.SKCEUXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "veux_tw_global",
+		"date": "2023-05-23T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.4.0.SKCTWXM/miui_VEUXTWGlobal_V13.0.4.0.SKCTWXM_fedb23ce22_12.0.zip",
+		"md5": "fedb23ce220e17aed7136eda983e7168",
+		"method": "Recovery",
+		"name": "Redmi Note 11 Pro 5G / POCO X4 Pro 5G Taiwan",
+		"size": "3.2 GB",
+		"version": "V13.0.4.0.SKCTWXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "ice_in_global",
+		"date": "2023-05-23T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.10.0.SGMINXM/miui_ICEINGlobal_V13.0.10.0.SGMINXM_46b61c36bf_12.0.zip",
+		"md5": "46b61c36bfb2abfc157d6b529a4671c7",
+		"method": "Recovery",
+		"name": "Redmi A1 / A1+ / POCO C50 India",
+		"size": "1.5 GB",
+		"version": "V13.0.10.0.SGMINXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "camellian_ru_global",
+		"date": "2023-05-22T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TKSRUXM/miui_CAMELLIANRUGlobal_V14.0.2.0.TKSRUXM_83e50e4231_13.0.zip",
+		"md5": "83e50e42312678a037a367604cd8a4d0",
+		"method": "Recovery",
+		"name": "Redmi Note 10T / POCO M3 Pro Russia",
+		"size": "3.8 GB",
+		"version": "V14.0.2.0.TKSRUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "agate_ru_global",
+		"date": "2023-05-22T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TKWRUXM/miui_AGATERUGlobal_V14.0.2.0.TKWRUXM_720ce4f491_13.0.zip",
+		"md5": "720ce4f491a0e1813b228298082efb88",
+		"method": "Recovery",
+		"name": "Xiaomi 11T Russia",
+		"size": "3.8 GB",
+		"version": "V14.0.2.0.TKWRUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "nuwa_ru_global",
+		"date": "2023-05-22T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.6.0.TMBRUXM/miui_NUWARUGlobal_V14.0.6.0.TMBRUXM_e95181d62e_13.0.zip",
+		"md5": "e95181d62ea68775a531c29aa452667c",
+		"method": "Recovery",
+		"name": "Xiaomi 13 Pro Russia",
+		"size": "5.6 GB",
+		"version": "V14.0.6.0.TMBRUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "fuxi_ru_global",
+		"date": "2023-05-22T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.6.0.TMCRUXM/miui_FUXIRUGlobal_V14.0.6.0.TMCRUXM_9833cc6a23_13.0.zip",
+		"md5": "9833cc6a23c2d4df608b594410fa15f1",
+		"method": "Recovery",
+		"name": "Xiaomi 13 Russia",
+		"size": "5.5 GB",
+		"version": "V14.0.6.0.TMCRUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "pissarro_eea_global",
+		"date": "2023-05-21T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.4.0.TKTEUXM/miui_PISSARROEEAGlobal_V14.0.4.0.TKTEUXM_5581eb02dd_13.0.zip",
+		"md5": "5581eb02ddaa0d14cedf4995162ae5f9",
+		"method": "Recovery",
+		"name": "Redmi Note 11 Pro+ 5G EEA",
+		"size": "3.9 GB",
+		"version": "V14.0.4.0.TKTEUXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "veux_jp_global",
+		"date": "2023-05-20T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.3.0.SKCJPXM/miui_VEUXJPGlobal_V13.0.3.0.SKCJPXM_e81c0a5006_12.0.zip",
+		"md5": "e81c0a500616c9119f397419ec7cc980",
+		"method": "Recovery",
+		"name": "Redmi Note 11 Pro 5G Japan",
+		"size": "3.3 GB",
+		"version": "V13.0.3.0.SKCJPXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "ruby_in_global",
+		"date": "2023-05-20T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.SMOINXM/miui_RUBYINGlobal_V14.0.3.0.SMOINXM_b17501a8db_12.0.zip",
+		"md5": "b17501a8db437df31b2b0f79ff968a3b",
+		"method": "Recovery",
+		"name": "Redmi Note 12 Pro / Pro+ 5G India",
+		"size": "4.1 GB",
+		"version": "V14.0.3.0.SMOINXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "pipa",
+		"date": "2023-05-20T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.5.0.TMZCNXM/miui_PIPA_V14.0.5.0.TMZCNXM_bc4f78ac79_13.0.zip",
+		"md5": "bc4f78ac7941188b294ba45c83b1991e",
+		"method": "Recovery",
+		"name": "Xiaomi Pad 6 China",
+		"size": "4.7 GB",
+		"version": "V14.0.5.0.TMZCNXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "citrus_eea_global",
+		"date": "2023-05-19T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.SJFEUXM/miui_CITRUSEEAGlobal_V14.0.2.0.SJFEUXM_30b1d56aba_12.0.zip",
+		"md5": "30b1d56abac7d224b55fd9c893587af5",
+		"method": "Recovery",
+		"name": "POCO M3 EEA",
+		"size": "3.2 GB",
+		"version": "V14.0.2.0.SJFEUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "opal_eea_global",
+		"date": "2023-05-19T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TGLEUXM/miui_OPALEEAGlobal_V14.0.2.0.TGLEUXM_824d082dcc_13.0.zip",
+		"md5": "824d082dcc4a8756542a5ba3963be7f3",
+		"method": "Recovery",
+		"name": "Redmi Note 11S 5G EEA",
+		"size": "3.7 GB",
+		"version": "V14.0.2.0.TGLEUXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "earth_global",
+		"date": "2023-05-19T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.7.0.SCVMIXM/earth_global_images_V13.0.7.0.SCVMIXM_20230519.0000.00_12.0_global_e1aef09046.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Redmi 12C / POCO C55 Global",
+		"size": "6.2 GB",
+		"version": "V13.0.7.0.SCVMIXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "earth_eea_global",
+		"date": "2023-05-19T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.8.0.SCVEUXM/earth_eea_global_images_V13.0.8.0.SCVEUXM_20230519.0000.00_12.0_eea_e045a99a1e.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Redmi 12C / POCO C55 EEA",
+		"size": "5.9 GB",
+		"version": "V13.0.8.0.SCVEUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "pearl",
+		"date": "2023-05-19T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TLHCNXM/pearl_images_V14.0.2.0.TLHCNXM_20230519.0000.00_13.0_cn_ccbd56a777.tgz",
+		"md5": "ccbd56a77702541771cc9a56b5f0d26e",
+		"method": "Fastboot",
+		"name": "Redmi Note 12T Pro China",
+		"size": "7.4 GB",
+		"version": "V14.0.2.0.TLHCNXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "vayu_global",
+		"date": "2023-05-18T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.TJUMIXM/miui_VAYUGlobal_V14.0.3.0.TJUMIXM_6be397120d_13.0.zip",
+		"md5": "6be397120d067503152330f6266eb121",
+		"method": "Recovery",
+		"name": "POCO X3 Pro Global",
+		"size": "4.0 GB",
+		"version": "V14.0.3.0.TJUMIXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "mojito_global",
+		"date": "2023-05-18T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.SKGMIXM/miui_MOJITOGlobal_V14.0.3.0.SKGMIXM_da45d2227a_12.0.zip",
+		"md5": "da45d2227a678f217ec3e18870fe1786",
+		"method": "Recovery",
+		"name": "Redmi Note 10 Global",
+		"size": "2.9 GB",
+		"version": "V14.0.3.0.SKGMIXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "fleur_eea_global",
+		"date": "2023-05-18T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TKEEUXM/miui_FLEUREEAGlobal_V14.0.2.0.TKEEUXM_4a037bf6d4_13.0.zip",
+		"md5": "4a037bf6d410f4d5a11a27d2a3708f28",
+		"method": "Recovery",
+		"name": "Redmi Note 11S 4G / POCO M4 Pro 4G EEA",
+		"size": "3.7 GB",
+		"version": "V14.0.2.0.TKEEUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "viva_global",
+		"date": "2023-05-18T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TGDMIXM/miui_VIVAGlobal_V14.0.2.0.TGDMIXM_70e8af00f6_13.0.zip",
+		"md5": "70e8af00f6d2708bb659bd414518cdc6",
+		"method": "Recovery",
+		"name": "Redmi Note 11 Pro 4G Global",
+		"size": "3.7 GB",
+		"version": "V14.0.2.0.TGDMIXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "fog_global",
+		"date": "2023-05-18T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.8.0.SGEMIXM/miui_FOGGlobal_V13.0.8.0.SGEMIXM_6cb016ff3d_12.0.zip",
+		"md5": "6cb016ff3d917d427b70fbe91747112a",
+		"method": "Recovery",
+		"name": "Redmi 10C Global",
+		"size": "2.9 GB",
+		"version": "V13.0.8.0.SGEMIXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "rock_global",
+		"date": "2023-05-18T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.7.0.TLUMIXM/miui_ROCKGlobal_V14.0.7.0.TLUMIXM_b16d8555c3_13.0.zip",
+		"md5": "b16d8555c31114af93b425314e125252",
+		"method": "Recovery",
+		"name": "POCO M5 Global",
+		"size": "3.7 GB",
+		"version": "V14.0.7.0.TLUMIXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "ice_in_global",
+		"date": "2023-05-18T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.10.0.SGMINXM/ice_in_global_images_V13.0.10.0.SGMINXM_20230518.0000.00_12.0_aff20e8a64.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Redmi A1 / A1+ / POCO C50 India",
+		"size": "1.9 GB",
+		"version": "V13.0.10.0.SGMINXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "yuechu",
+		"date": "2023-05-18T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.4.0.TMICNXM/yuechu_images_V14.0.4.0.TMICNXM_20230518.0000.00_13.0_cn_f6d52ecf00.tgz",
+		"md5": "f6d52ecf00346c7c0fa46b965e32583a",
+		"method": "Fastboot",
+		"name": "Xiaomi Civi 3 China",
+		"size": "7.8 GB",
+		"version": "V14.0.4.0.TMICNXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "umi_global",
+		"date": "2023-05-17T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.5.0.TJBMIXM/umi_global_images_V14.0.5.0.TJBMIXM_20230517.0000.00_13.0_global_c9af1b1404.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Mi 10 Global",
+		"size": "5.5 GB",
+		"version": "V14.0.5.0.TJBMIXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "cannong_tw_global",
+		"date": "2023-05-17T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.SJETWXM/miui_CANNONGTWGlobal_V14.0.2.0.SJETWXM_7dd370f970_12.0.zip",
+		"md5": "7dd370f9707a5f23feda166cba7c8d89",
+		"method": "Recovery",
+		"name": "Redmi Note 9T Taiwan",
+		"size": "3.2 GB",
+		"version": "V14.0.2.0.SJETWXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "lime_eea_global",
+		"date": "2023-05-17T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.SJQEUXM/miui_LIMEEEAGlobal_V14.0.3.0.SJQEUXM_e92886abdd_12.0.zip",
+		"md5": "e92886abdd66ca5e9875f19270842f5f",
+		"method": "Recovery",
+		"name": "Redmi 9T EEA",
+		"size": "3.3 GB",
+		"version": "V14.0.3.0.SJQEUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "camellian_ru_global",
+		"date": "2023-05-17T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TKSRUXM/camellian_ru_global_images_V14.0.2.0.TKSRUXM_20230517.0000.00_13.0_ru_135c0c826a.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Redmi Note 10T / POCO M3 Pro Russia",
+		"size": "5.7 GB",
+		"version": "V14.0.2.0.TKSRUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "biloba_global",
+		"date": "2023-05-17T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.4.0.TCUMIXM/miui_BILOBAGlobal_V14.0.4.0.TCUMIXM_bf1ba493fe_13.0.zip",
+		"md5": "bf1ba493fe3bb28fe7b75fe1ff8ff0db",
+		"method": "Recovery",
+		"name": "Redmi Note 8 (2021) Global",
+		"size": "3.3 GB",
+		"version": "V14.0.4.0.TCUMIXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "pissarro_global",
+		"date": "2023-05-17T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.5.0.TKTMIXM/miui_PISSARROGlobal_V14.0.5.0.TKTMIXM_1874280b0e_13.0.zip",
+		"md5": "1874280b0e51782dc536fa368f627fc8",
+		"method": "Recovery",
+		"name": "Redmi Note 11 Pro+ 5G Global",
+		"size": "4.0 GB",
+		"version": "V14.0.5.0.TKTMIXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "viva_ru_global",
+		"date": "2023-05-17T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.4.0.SGDRUXM/viva_ru_global_images_V13.0.4.0.SGDRUXM_20230517.0000.00_12.0_global_276b96e6ce.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Redmi Note 11 Pro 4G Russia",
+		"size": "5.7 GB",
+		"version": "V13.0.4.0.SGDRUXM"
+	},
+	{
+		"android": "13.0",
 		"branch": "Stable",
 		"codename": "unicorn",
 		"date": "2023-05-17T00:00:00.000Z",
@@ -4045,6 +4609,114 @@
 		"version": "V14.0.9.1.TLFCNXM"
 	},
 	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "earth_in_global",
+		"date": "2023-05-17T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.3.0.SCVINXM/miui_EARTHINGlobal_V13.0.3.0.SCVINXM_1bfad882c9_12.0.zip",
+		"md5": "1bfad882c9771748ab344e9c629700e8",
+		"method": "Recovery",
+		"name": "Redmi 12C / POCO C55 India",
+		"size": "3.1 GB",
+		"version": "V13.0.3.0.SCVINXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "courbet_global",
+		"date": "2023-05-16T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.TKQMIXM/miui_COURBETGlobal_V14.0.3.0.TKQMIXM_6497cb2f42_13.0.zip",
+		"md5": "6497cb2f4224c003d1843f58e92e9a68",
+		"method": "Recovery",
+		"name": "Mi 11 Lite 4G Global",
+		"size": "3.9 GB",
+		"version": "V14.0.3.0.TKQMIXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "haydn_global",
+		"date": "2023-05-16T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.5.0.TKKMIXM/miui_HAYDNGlobal_V14.0.5.0.TKKMIXM_c49481499a_13.0.zip",
+		"md5": "c49481499aad6ac86ff566e80dc91293",
+		"method": "Recovery",
+		"name": "Mi 11i Global",
+		"size": "4.7 GB",
+		"version": "V14.0.5.0.TKKMIXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "sweet_eea_global",
+		"date": "2023-05-16T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.TKFEUXM/miui_SWEETEEAGlobal_V14.0.3.0.TKFEUXM_d1f402084b_13.0.zip",
+		"md5": "d1f402084be72661f6f27c1e4f3bd5be",
+		"method": "Recovery",
+		"name": "Redmi Note 10 Pro EEA",
+		"size": "4.0 GB",
+		"version": "V14.0.3.0.TKFEUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "lisa_tr_global",
+		"date": "2023-05-16T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.TKOTRXM/miui_LISATRGlobal_V14.0.3.0.TKOTRXM_c09d64f1f9_13.0.zip",
+		"md5": "c09d64f1f9b94b3de4f2d20ee3f80d27",
+		"method": "Recovery",
+		"name": "Xiaomi 11 Lite 5G NE Turkey",
+		"size": "4.6 GB",
+		"version": "V14.0.3.0.TKOTRXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "lisa_tw_global",
+		"date": "2023-05-16T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.TKOTWXM/miui_LISATWGlobal_V14.0.3.0.TKOTWXM_39481cc2ff_13.0.zip",
+		"md5": "39481cc2ff80daec50d745da61836516",
+		"method": "Recovery",
+		"name": "Xiaomi 11 Lite 5G NE Taiwan",
+		"size": "4.5 GB",
+		"version": "V14.0.3.0.TKOTWXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "selenes",
+		"date": "2023-05-16T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TKUCNXM/miui_SELENE_V14.0.2.0.TKUCNXM_f349844cfd_13.0.zip",
+		"md5": null,
+		"method": "Recovery",
+		"name": "Redmi Note 11 4G China",
+		"size": "4.1 GB",
+		"version": "V14.0.2.0.TKUCNXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "water_global",
+		"date": "2023-05-16T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.11.0.TGOMIXM/water_global_images_V14.0.11.0.TGOMIXM_20230516.0000.00_13.0_dc558dcbf3.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Redmi A2 / A2+ / POCO C51 Global",
+		"size": "2.2 GB",
+		"version": "V14.0.11.0.TGOMIXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "tapas_global",
+		"date": "2023-05-16T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.7.0.TMTMIXM/miui_TAPASGlobal_V14.0.7.0.TMTMIXM_4a86538101_13.0.zip",
+		"md5": "4a8653810133fcb57207686fc0d07b0d",
+		"method": "Recovery",
+		"name": "Redmi Note 12 4G Global",
+		"size": "4.2 GB",
+		"version": "V14.0.7.0.TMTMIXM"
+	},
+	{
 		"android": "11.0",
 		"branch": "Stable",
 		"codename": "sweet_k6a_global",
@@ -4059,6 +4731,114 @@
 	{
 		"android": "13.0",
 		"branch": "Stable",
+		"codename": "lightcm",
+		"date": "2023-05-16T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.4.0.TLSCNXM/miui_LIGHTCM_V14.0.4.0.TLSCNXM_38112ac52e_13.0.zip",
+		"md5": "38112ac52ec612a74b439ec7abf028a6",
+		"method": "Recovery",
+		"name": "Redmi Note 11R China",
+		"size": "4.2 GB",
+		"version": "V14.0.4.0.TLSCNXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "cmi",
+		"date": "2023-05-15T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.TJACNXM/miui_CMI_V14.0.3.0.TJACNXM_03a653ca7b_13.0.zip",
+		"md5": "03a653ca7bba73cda4250e65b87ddaf2",
+		"method": "Recovery",
+		"name": "Mi 10 Pro China",
+		"size": "4.5 GB",
+		"version": "V14.0.3.0.TJACNXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "mojito_tr_global",
+		"date": "2023-05-15T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.SKGTRXM/mojito_tr_global_images_V14.0.3.0.SKGTRXM_20230515.0000.00_12.0_global_a164256107.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Redmi Note 10 Turkey",
+		"size": "4.5 GB",
+		"version": "V14.0.3.0.SKGTRXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "earth",
+		"date": "2023-05-15T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.8.0.SCVCNXM/miui_EARTH_V13.0.8.0.SCVCNXM_dbc7475907_12.0.zip",
+		"md5": "dbc7475907319869146f2fc106e183b4",
+		"method": "Recovery",
+		"name": "Redmi 12C China",
+		"size": "3.4 GB",
+		"version": "V13.0.8.0.SCVCNXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "ruby_in_global",
+		"date": "2023-05-15T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.SMOINXM/ruby_in_global_images_V14.0.3.0.SMOINXM_20230515.0000.00_12.0_in_bf4f1e33c0.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Redmi Note 12 Pro / Pro+ 5G India",
+		"size": "5.6 GB",
+		"version": "V14.0.3.0.SMOINXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "topaz_eea_global",
+		"date": "2023-05-15T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.8.0.TMGEUXM/miui_TOPAZEEAGlobal_V14.0.8.0.TMGEUXM_b52dd70b6e_13.0.zip",
+		"md5": "b52dd70b6e7531c4b5fbc6255ba7b7b2",
+		"method": "Recovery",
+		"name": "Redmi Note 12 4G NFC EEA",
+		"size": "4.3 GB",
+		"version": "V14.0.8.0.TMGEUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "pipa",
+		"date": "2023-05-15T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.5.0.TMZCNXM/pipa_images_V14.0.5.0.TMZCNXM_20230515.0000.00_13.0_cn_b00ef495af.tgz",
+		"md5": "b00ef495aff7143e23812bc5fc16ff96",
+		"method": "Fastboot",
+		"name": "Xiaomi Pad 6 China",
+		"size": "5.4 GB",
+		"version": "V14.0.5.0.TMZCNXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "veux_eea_global",
+		"date": "2023-05-13T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.6.0.SKCEUXM/veux_eea_global_images_V13.0.6.0.SKCEUXM_20230513.0000.00_12.0_eea_a29230a474.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Redmi Note 11 Pro 5G / POCO X4 Pro 5G EEA",
+		"size": "6.2 GB",
+		"version": "V13.0.6.0.SKCEUXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "lime_ru_global",
+		"date": "2023-05-12T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.SJQRUXM/miui_LIMERUGlobal_V14.0.2.0.SJQRUXM_59c28ef472_12.0.zip",
+		"md5": "59c28ef472585ba8ed9657935dcfac25",
+		"method": "Recovery",
+		"name": "Redmi 9T Russia",
+		"size": "3.3 GB",
+		"version": "V14.0.2.0.SJQRUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
 		"codename": "nabu_eea_global",
 		"date": "2023-05-12T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.5.0.TKXEUXM/miui_NABUEEAGlobal_V14.0.5.0.TKXEUXM_81d00ede6e_13.0.zip",
@@ -4067,6 +4847,66 @@
 		"name": "Xiaomi Pad 5 EEA",
 		"size": "3.3 GB",
 		"version": "V14.0.5.0.TKXEUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "agate_ru_global",
+		"date": "2023-05-12T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TKWRUXM/agate_ru_global_images_V14.0.2.0.TKWRUXM_20230512.0000.00_13.0_ru_8353a34e8a.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Xiaomi 11T Russia",
+		"size": "5.9 GB",
+		"version": "V14.0.2.0.TKWRUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "pissarro_eea_global",
+		"date": "2023-05-12T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.4.0.TKTEUXM/pissarro_eea_global_images_V14.0.4.0.TKTEUXM_20230512.0000.00_13.0_eea_1aff8c2476.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Redmi Note 11 Pro+ 5G EEA",
+		"size": "6.2 GB",
+		"version": "V14.0.4.0.TKTEUXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "veux_jp_global",
+		"date": "2023-05-12T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.3.0.SKCJPXM/veux_jp_global_images_V13.0.3.0.SKCJPXM_20230512.0000.00_12.0_global_6ef91f2486.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Redmi Note 11 Pro 5G Japan",
+		"size": "5.6 GB",
+		"version": "V13.0.3.0.SKCJPXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "ishtar_global",
+		"date": "2023-05-12T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.1.0.TMAMIXM/ishtar_global_images_V14.0.1.0.TMAMIXM_20230512.0000.00_13.0_global_c73aaef30e.tgz",
+		"md5": "c73aaef30ec15ecfcf7a25f1ea0e59ba",
+		"method": "Fastboot",
+		"name": "Xiaomi 13 Ultra Global",
+		"size": "8.0 GB",
+		"version": "V14.0.1.0.TMAMIXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "ruby_global",
+		"date": "2023-05-12T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.6.0.SMOMIXM/miui_RUBYGlobal_V14.0.6.0.SMOMIXM_8d6c74adfa_12.0.zip",
+		"md5": "8d6c74adfa4793168b82815c76ebc0ba",
+		"method": "Recovery",
+		"name": "Redmi Note 12 Pro / Pro+ 5G Global",
+		"size": "4.2 GB",
+		"version": "V14.0.6.0.SMOMIXM"
 	},
 	{
 		"android": "11.0",
@@ -4105,6 +4945,18 @@
 		"version": "V14.0.2.0.TKHRUXM"
 	},
 	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "biloba_global",
+		"date": "2023-05-11T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.4.0.TCUMIXM/biloba_global_images_V14.0.4.0.TCUMIXM_20230511.0000.00_13.0_global_5bb1fd7252.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Redmi Note 8 (2021) Global",
+		"size": "5.4 GB",
+		"version": "V14.0.4.0.TCUMIXM"
+	},
+	{
 		"android": "12.0",
 		"branch": "Stable",
 		"codename": "fleur_in_global",
@@ -4127,6 +4979,54 @@
 		"name": "Redmi Note 11S 4G / POCO M4 Pro 4G Indonesia",
 		"size": "3.1 GB",
 		"version": "V13.0.5.0.SKEIDXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "opal_eea_global",
+		"date": "2023-05-11T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TGLEUXM/opal_eea_global_images_V14.0.2.0.TGLEUXM_20230511.0000.00_13.0_eea_024fda614e.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Redmi Note 11S 5G EEA",
+		"size": "6.2 GB",
+		"version": "V14.0.2.0.TGLEUXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "fog_global",
+		"date": "2023-05-11T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.8.0.SGEMIXM/fog_global_images_V13.0.8.0.SGEMIXM_20230511.0000.00_12.0_global_89485409d4.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Redmi 10C Global",
+		"size": "5.9 GB",
+		"version": "V13.0.8.0.SGEMIXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "ruby",
+		"date": "2023-05-11T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.4.0.SMOCNXM/miui_RUBY_V14.0.4.0.SMOCNXM_c5b34104b1_12.0.zip",
+		"md5": "c5b34104b16649735a00a71f8b6b0425",
+		"method": "Recovery",
+		"name": "Redmi Note 12 Pro / Pro+ / Discovery 5G China",
+		"size": "5.3 GB",
+		"version": "V14.0.4.0.SMOCNXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "earth_in_global",
+		"date": "2023-05-11T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.3.0.SCVINXM/earth_in_global_images_V13.0.3.0.SCVINXM_20230511.0000.00_12.0_in_1bd255cb41.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Redmi 12C / POCO C55 India",
+		"size": "4.6 GB",
+		"version": "V13.0.3.0.SCVINXM"
 	},
 	{
 		"android": "13.0",
@@ -4155,10 +5055,34 @@
 	{
 		"android": "13.0",
 		"branch": "Stable",
+		"codename": "fleur_eea_global",
+		"date": "2023-05-10T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TKEEUXM/fleur_eea_global_images_V14.0.2.0.TKEEUXM_20230510.0000.00_13.0_eea_81068cf3f2.tgz",
+		"md5": "81068cf3f2716706da32b6e76e1aa34b",
+		"method": "Fastboot",
+		"name": "Redmi Note 11S 4G / POCO M4 Pro 4G EEA",
+		"size": "6.4 GB",
+		"version": "V14.0.2.0.TKEEUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "viva_global",
+		"date": "2023-05-10T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TGDMIXM/viva_global_images_V14.0.2.0.TGDMIXM_20230510.0000.00_13.0_global_6f092b8122.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Redmi Note 11 Pro 4G Global",
+		"size": "6.6 GB",
+		"version": "V14.0.2.0.TGDMIXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
 		"codename": "mondrian_global",
 		"date": "2023-05-10T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.4.0.TMNMIXM/miui_MONDRIANGlobal_V14.0.4.0.TMNMIXM_80961dabba_13.0.zip",
-		"md5": null,
+		"md5": "80961dabba64c861d937658822710237",
 		"method": "Recovery",
 		"name": "POCO F5 Pro Global",
 		"size": "4.9 GB",
@@ -4237,6 +5161,18 @@
 		"version": "V14.0.1.0.THZEUXM"
 	},
 	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "lightcm",
+		"date": "2023-05-10T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.4.0.TLSCNXM/lightcm_images_V14.0.4.0.TLSCNXM_20230510.0000.00_13.0_cn_351954239e.tgz",
+		"md5": "351954239e326af6a1c72ed60fca2489",
+		"method": "Fastboot",
+		"name": "Redmi Note 11R China",
+		"size": "5.6 GB",
+		"version": "V14.0.4.0.TLSCNXM"
+	},
+	{
 		"android": "11.0",
 		"branch": "Stable",
 		"codename": "sweet_k6a_global",
@@ -4263,6 +5199,18 @@
 	{
 		"android": "12.0",
 		"branch": "Stable",
+		"codename": "citrus_eea_global",
+		"date": "2023-05-09T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.SJFEUXM/citrus_eea_global_images_V14.0.2.0.SJFEUXM_20230509.0000.00_12.0_eea_170ad598a5.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "POCO M3 EEA",
+		"size": "5.0 GB",
+		"version": "V14.0.2.0.SJFEUXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
 		"codename": "citrus_id_global",
 		"date": "2023-05-09T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.2.0.SJFIDXM/miui_CITRUSIDGlobal_V14.0.2.0.SJFIDXM_109ea1f944_12.0.zip",
@@ -4271,6 +5219,30 @@
 		"name": "POCO M3 Indonesia",
 		"size": "3.2 GB",
 		"version": "V14.0.2.0.SJFIDXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "lime_eea_global",
+		"date": "2023-05-09T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.SJQEUXM/lime_eea_global_images_V14.0.3.0.SJQEUXM_20230509.0000.00_12.0_eea_f5f3bd7e38.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Redmi 9T EEA",
+		"size": "5.0 GB",
+		"version": "V14.0.3.0.SJQEUXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "mojito_global",
+		"date": "2023-05-09T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.SKGMIXM/mojito_global_images_V14.0.3.0.SKGMIXM_20230509.0000.00_12.0_global_e23e5df8e8.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Redmi Note 10 Global",
+		"size": "5.0 GB",
+		"version": "V14.0.3.0.SKGMIXM"
 	},
 	{
 		"android": "13.0",
@@ -4299,6 +5271,18 @@
 	{
 		"android": "13.0",
 		"branch": "Stable",
+		"codename": "vili_global",
+		"date": "2023-05-09T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TKDMIXM/miui_VILIGlobal_V14.0.2.0.TKDMIXM_a419b72ee9_13.0.zip",
+		"md5": "a419b72ee9d909b3f3c28f6166648df7",
+		"method": "Recovery",
+		"name": "Xiaomi 11T Pro Global",
+		"size": "4.8 GB",
+		"version": "V14.0.2.0.TKDMIXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
 		"codename": "lisa",
 		"date": "2023-05-09T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.8.0.TKOCNXM/miui_LISA_V14.0.8.0.TKOCNXM_dfe39b006e_13.0.zip",
@@ -4307,6 +5291,30 @@
 		"name": "Mi 11 LE China",
 		"size": "5.5 GB",
 		"version": "V14.0.8.0.TKOCNXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "lisa_in_global",
+		"date": "2023-05-09T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.5.0.TKOINXM/miui_LISAINGlobal_V14.0.5.0.TKOINXM_80e214deb0_13.0.zip",
+		"md5": "80e214deb0687cc08f774c7fe30fc519",
+		"method": "Recovery",
+		"name": "Xiaomi 11 Lite 5G NE India",
+		"size": "4.6 GB",
+		"version": "V14.0.5.0.TKOINXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "veux_tw_global",
+		"date": "2023-05-09T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.4.0.SKCTWXM/veux_tw_global_images_V13.0.4.0.SKCTWXM_20230509.0000.00_12.0_global_6879765af2.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Redmi Note 11 Pro 5G / POCO X4 Pro 5G Taiwan",
+		"size": "5.2 GB",
+		"version": "V13.0.4.0.SKCTWXM"
 	},
 	{
 		"android": "13.0",
@@ -4331,6 +5339,18 @@
 		"name": "Redmi Note 12 5G / Note 12R Pro China",
 		"size": "4.3 GB",
 		"version": "V14.0.4.0.TMQCNXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "earth",
+		"date": "2023-05-09T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.8.0.SCVCNXM/earth_images_V13.0.8.0.SCVCNXM_20230509.0000.00_12.0_cn_72c2889db7.tgz",
+		"md5": "72c2889db75e14ccf07db207f8c10e46",
+		"method": "Fastboot",
+		"name": "Redmi 12C China",
+		"size": "4.5 GB",
+		"version": "V13.0.8.0.SCVCNXM"
 	},
 	{
 		"android": "13.0",
@@ -4395,6 +5415,42 @@
 	{
 		"android": "13.0",
 		"branch": "Stable",
+		"codename": "ishtar",
+		"date": "2023-05-09T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.8.DEV/ishtar_images_V14.0.23.5.8.DEV_20230509.0000.00_13.0_cn_e55347aa81.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Xiaomi 13 Ultra China",
+		"size": "8.6 GB",
+		"version": "V14.0.23.5.8.DEV"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "cmi",
+		"date": "2023-05-08T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.TJACNXM/cmi_images_V14.0.3.0.TJACNXM_20230508.0000.00_13.0_cn_728f7c9c02.tgz",
+		"md5": "728f7c9c02932fc2ca9d6d6fa907d565",
+		"method": "Fastboot",
+		"name": "Mi 10 Pro China",
+		"size": "5.8 GB",
+		"version": "V14.0.3.0.TJACNXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "courbet_global",
+		"date": "2023-05-08T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.TKQMIXM/courbet_global_images_V14.0.3.0.TKQMIXM_20230508.0000.00_13.0_global_1d43ddaf63.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Mi 11 Lite 4G Global",
+		"size": "5.6 GB",
+		"version": "V14.0.3.0.TKQMIXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
 		"codename": "renoir",
 		"date": "2023-05-08T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.9.0.TKICNXM/miui_RENOIR_V14.0.9.0.TKICNXM_3f8cca133b_13.0.zip",
@@ -4403,6 +5459,30 @@
 		"name": "Mi 11 Lite 5G China",
 		"size": "5.6 GB",
 		"version": "V14.0.9.0.TKICNXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "vayu_global",
+		"date": "2023-05-08T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.TJUMIXM/vayu_global_images_V14.0.3.0.TJUMIXM_20230508.0000.00_13.0_global_f76ca8a5c3.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "POCO X3 Pro Global",
+		"size": "5.6 GB",
+		"version": "V14.0.3.0.TJUMIXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "sweet_eea_global",
+		"date": "2023-05-08T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.TKFEUXM/sweet_eea_global_images_V14.0.3.0.TKFEUXM_20230508.0000.00_13.0_eea_3b81153ef9.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Redmi Note 10 Pro EEA",
+		"size": "6.4 GB",
+		"version": "V14.0.3.0.TKFEUXM"
 	},
 	{
 		"android": "13.0",
@@ -4419,6 +5499,30 @@
 	{
 		"android": "13.0",
 		"branch": "Stable",
+		"codename": "pissarro_global",
+		"date": "2023-05-08T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.5.0.TKTMIXM/pissarro_global_images_V14.0.5.0.TKTMIXM_20230508.0000.00_13.0_global_7458d05267.tgz",
+		"md5": "7458d05267cdb519c961dbfda544c6af",
+		"method": "Fastboot",
+		"name": "Redmi Note 11 Pro+ 5G Global",
+		"size": "6.7 GB",
+		"version": "V14.0.5.0.TKTMIXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "rock_global",
+		"date": "2023-05-08T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.7.0.TLUMIXM/rock_global_images_V14.0.7.0.TLUMIXM_20230508.0000.00_13.0_global_a508bc807e.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "POCO M5 Global",
+		"size": "6.5 GB",
+		"version": "V14.0.7.0.TLUMIXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
 		"codename": "ziyi_global",
 		"date": "2023-05-08T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.1.0.TLLMIXM/miui_ZIYIGlobal_V14.0.1.0.TLLMIXM_e6aa6b27b2_13.0.zip",
@@ -4427,6 +5531,30 @@
 		"name": "Xiaomi Civi 2 / 13 Lite Global",
 		"size": "4.9 GB",
 		"version": "V14.0.1.0.TLLMIXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "fuxi",
+		"date": "2023-05-08T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.27.0.TMCCNXM/miui_FUXI_V14.0.27.0.TMCCNXM_15d7021adf_13.0.zip",
+		"md5": null,
+		"method": "Recovery",
+		"name": "Xiaomi 13 China",
+		"size": "6.6 GB",
+		"version": "V14.0.27.0.TMCCNXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "nuwa_ru_global",
+		"date": "2023-05-08T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.6.0.TMBRUXM/nuwa_ru_global_images_V14.0.6.0.TMBRUXM_20230508.0000.00_13.0_ru_64d8ac78d6.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Xiaomi 13 Pro Russia",
+		"size": "6.9 GB",
+		"version": "V14.0.6.0.TMBRUXM"
 	},
 	{
 		"android": "13.0",
@@ -4455,14 +5583,26 @@
 	{
 		"android": "13.0",
 		"branch": "Stable",
-		"codename": "umi_global",
+		"codename": "fuxi_ru_global",
+		"date": "2023-05-08T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.6.0.TMCRUXM/fuxi_ru_global_images_V14.0.6.0.TMCRUXM_20230508.0000.00_13.0_ru_272683d291.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Xiaomi 13 Russia",
+		"size": "7.0 GB",
+		"version": "V14.0.6.0.TMCRUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "cmi_global",
 		"date": "2023-05-06T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.3.0.TJBMIXM/miui_UMIGlobal_V14.0.3.0.TJBMIXM_b4a2f47398_13.0.zip",
-		"md5": "b4a2f4739886f45e61e95f0e92ff38ff",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.TJAMIXM/miui_CMIGlobal_V14.0.3.0.TJAMIXM_911f5f8a5c_13.0.zip",
+		"md5": "911f5f8a5c77c42c1d97dfb1ae9f8168",
 		"method": "Recovery",
-		"name": "Mi 10 Global",
+		"name": "Mi 10 Pro Global",
 		"size": "4.2 GB",
-		"version": "V14.0.3.0.TJBMIXM"
+		"version": "V14.0.3.0.TJAMIXM"
 	},
 	{
 		"android": "12.0",
@@ -4499,6 +5639,18 @@
 		"name": "Xiaomi 12X Taiwan",
 		"size": "3.7 GB",
 		"version": "V14.0.4.0.TLDTWXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "munch_tw_global",
+		"date": "2023-05-06T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TLMTWXM/munch_tw_global_images_V14.0.2.0.TLMTWXM_20230506.0000.00_13.0_tw_a657d5b2ce.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "POCO F4 Taiwan",
+		"size": "5.2 GB",
+		"version": "V14.0.2.0.TLMTWXM"
 	},
 	{
 		"android": "13.0",
@@ -4563,6 +5715,18 @@
 	{
 		"android": "13.0",
 		"branch": "Stable",
+		"codename": "topaz_eea_global",
+		"date": "2023-05-06T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.8.0.TMGEUXM/topaz_eea_global_images_V14.0.8.0.TMGEUXM_20230506.0000.00_13.0_eea_bd18f4ca3d.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Redmi Note 12 4G NFC EEA",
+		"size": "6.7 GB",
+		"version": "V14.0.8.0.TMGEUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
 		"codename": "topaz_id_global",
 		"date": "2023-05-06T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.3.0.TMGIDXM/miui_TOPAZIDGlobal_V14.0.3.0.TMGIDXM_fb33b01791_13.0.zip",
@@ -4583,6 +5747,42 @@
 		"name": "Xiaomi 13 Ultra EEA",
 		"size": "5.9 GB",
 		"version": "V14.0.1.0.TMAEUXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "cannong_tw_global",
+		"date": "2023-05-05T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.SJETWXM/cannong_tw_global_images_V14.0.2.0.SJETWXM_20230505.0000.00_12.0_global_89cc26f8fc.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Redmi Note 9T Taiwan",
+		"size": "4.5 GB",
+		"version": "V14.0.2.0.SJETWXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "camellian_global",
+		"date": "2023-05-05T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.TKSMIXM/miui_CAMELLIANGlobal_V14.0.3.0.TKSMIXM_4d9be1df29_13.0.zip",
+		"md5": "4d9be1df290aa06d575fba403770209c",
+		"method": "Recovery",
+		"name": "Redmi Note 10 5G Global",
+		"size": "3.9 GB",
+		"version": "V14.0.3.0.TKSMIXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "lisa_tr_global",
+		"date": "2023-05-05T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.TKOTRXM/lisa_tr_global_images_V14.0.3.0.TKOTRXM_20230505.0000.00_13.0_tr_ef8f204389.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Xiaomi 11 Lite 5G NE Turkey",
+		"size": "6.1 GB",
+		"version": "V14.0.3.0.TKOTRXM"
 	},
 	{
 		"android": "13.0",
@@ -4607,6 +5807,42 @@
 		"name": "Xiaomi 12X Russia",
 		"size": "3.8 GB",
 		"version": "V14.0.3.0.TLDRUXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "ruby",
+		"date": "2023-05-05T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.4.0.SMOCNXM/ruby_images_V14.0.4.0.SMOCNXM_20230505.0000.00_12.0_cn_765d532918.tgz",
+		"md5": "765d532918a1f2770bd2ddf89eb1a90d",
+		"method": "Fastboot",
+		"name": "Redmi Note 12 Pro / Pro+ / Discovery 5G China",
+		"size": "6.7 GB",
+		"version": "V14.0.4.0.SMOCNXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "tapas_global",
+		"date": "2023-05-05T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.7.0.TMTMIXM/tapas_global_images_V14.0.7.0.TMTMIXM_20230505.0000.00_13.0_global_d82ec537d3.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Redmi Note 12 4G Global",
+		"size": "6.7 GB",
+		"version": "V14.0.7.0.TMTMIXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "ruby_global",
+		"date": "2023-05-05T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.6.0.SMOMIXM/ruby_global_images_V14.0.6.0.SMOMIXM_20230505.0000.00_12.0_global_8fc00befb1.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Redmi Note 12 Pro / Pro+ 5G Global",
+		"size": "7.0 GB",
+		"version": "V14.0.6.0.SMOMIXM"
 	},
 	{
 		"android": "13.0",
@@ -4643,6 +5879,30 @@
 		"name": "Mi 11 LE China",
 		"size": "7.0 GB",
 		"version": "V14.0.8.0.TKOCNXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "lisa_in_global",
+		"date": "2023-05-04T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.5.0.TKOINXM/lisa_in_global_images_V14.0.5.0.TKOINXM_20230504.0000.00_13.0_in_0b4c907ab5.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Xiaomi 11 Lite 5G NE India",
+		"size": "5.4 GB",
+		"version": "V14.0.5.0.TKOINXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "lisa_tw_global",
+		"date": "2023-05-04T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.TKOTWXM/lisa_tw_global_images_V14.0.3.0.TKOTWXM_20230504.0000.00_13.0_tw_d269a54e9c.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Xiaomi 11 Lite 5G NE Taiwan",
+		"size": "5.7 GB",
+		"version": "V14.0.3.0.TKOTWXM"
 	},
 	{
 		"android": "12.0",
@@ -4899,14 +6159,14 @@
 	{
 		"android": "13.0",
 		"branch": "Stable",
-		"codename": "umi_global",
+		"codename": "cmi_global",
 		"date": "2023-04-27T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.3.0.TJBMIXM/umi_global_images_V14.0.3.0.TJBMIXM_20230427.0000.00_13.0_global_48daaa0642.tgz",
-		"md5": null,
+		"link": "https://bigota.d.miui.com/V14.0.3.0.TJAMIXM/cmi_global_images_V14.0.3.0.TJAMIXM_20230427.0000.00_13.0_global_1f1e164d4b.tgz",
+		"md5": "1f1e164d4b7d2fff6cdbcf2d9054d32d",
 		"method": "Fastboot",
-		"name": "Mi 10 Global",
-		"size": "5.6 GB",
-		"version": "V14.0.3.0.TJBMIXM"
+		"name": "Mi 10 Pro Global",
+		"size": "5.4 GB",
+		"version": "V14.0.3.0.TJAMIXM"
 	},
 	{
 		"android": "13.0",
@@ -4947,18 +6207,6 @@
 	{
 		"android": "13.0",
 		"branch": "Stable",
-		"codename": "fuxi_tw_global",
-		"date": "2023-04-27T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.6.0.TMCTWXM/miui_FUXITWGlobal_V14.0.6.0.TMCTWXM_24f3434ca9_13.0.zip",
-		"md5": "24f3434ca93c587ca6d58cbfb8768387",
-		"method": "Recovery",
-		"name": "Xiaomi 13 Taiwan",
-		"size": "5.5 GB",
-		"version": "V14.0.6.0.TMCTWXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
 		"codename": "sunstone",
 		"date": "2023-04-27T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.4.0.TMQCNXM/sunstone_images_V14.0.4.0.TMQCNXM_20230427.0000.00_13.0_cn_a80d8580a6.tgz",
@@ -4967,6 +6215,18 @@
 		"name": "Redmi Note 12 5G / Note 12R Pro China",
 		"size": "6.2 GB",
 		"version": "V14.0.4.0.TMQCNXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "fuxi_tw_global",
+		"date": "2023-04-27T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.6.0.TMCTWXM/miui_FUXITWGlobal_V14.0.6.0.TMCTWXM_24f3434ca9_13.0.zip",
+		"md5": "24f3434ca93c587ca6d58cbfb8768387",
+		"method": "Recovery",
+		"name": "Xiaomi 13 Taiwan",
+		"size": "5.5 GB",
+		"version": "V14.0.6.0.TMCTWXM"
 	},
 	{
 		"android": "13.0",
@@ -4991,18 +6251,6 @@
 		"name": "Xiaomi 13 Pro Taiwan",
 		"size": "5.5 GB",
 		"version": "V14.0.6.0.TMBTWXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "ishtar",
-		"date": "2023-04-27T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.11.0.TMACNXM/ishtar_images_V14.0.11.0.TMACNXM_20230427.0000.00_13.0_cn_5cae2e5e5a.tgz",
-		"md5": "5cae2e5e5a353182d68c6518250d52f3",
-		"method": "Fastboot",
-		"name": "Xiaomi 13 Ultra China",
-		"size": "8.7 GB",
-		"version": "V14.0.11.0.TMACNXM"
 	},
 	{
 		"android": "13.0",
@@ -5257,18 +6505,6 @@
 		"version": "V14.0.3.0.TMYCNXM"
 	},
 	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "pipa",
-		"date": "2023-04-25T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.4.0.TMZCNXM/miui_PIPA_V14.0.4.0.TMZCNXM_cde299f766_13.0.zip",
-		"md5": "cde299f7660ed0b865debc1a8bd8f9fb",
-		"method": "Recovery",
-		"name": "Xiaomi Pad 6 China",
-		"size": "4.7 GB",
-		"version": "V14.0.4.0.TMZCNXM"
-	},
-	{
 		"android": "12.0",
 		"branch": "Stable",
 		"codename": "ruby_eea_global",
@@ -5319,6 +6555,18 @@
 	{
 		"android": "13.0",
 		"branch": "Stable",
+		"codename": "camellian_global",
+		"date": "2023-04-24T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.3.0.TKSMIXM/camellian_global_images_V14.0.3.0.TKSMIXM_20230424.0000.00_13.0_global_4b7b81eb16.tgz",
+		"md5": "4b7b81eb16022d4ae3e34cbfd9a6aa9b",
+		"method": "Fastboot",
+		"name": "Redmi Note 10 5G Global",
+		"size": "6.2 GB",
+		"version": "V14.0.3.0.TKSMIXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
 		"codename": "nabu_ru_global",
 		"date": "2023-04-24T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.2.0.TKXRUXM/miui_NABURUGlobal_V14.0.2.0.TKXRUXM_8f060368b8_13.0.zip",
@@ -5327,6 +6575,18 @@
 		"name": "Xiaomi Pad 5 Russia",
 		"size": "3.3 GB",
 		"version": "V14.0.2.0.TKXRUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "vili_global",
+		"date": "2023-04-24T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TKDMIXM/vili_global_images_V14.0.2.0.TKDMIXM_20230424.0000.00_13.0_global_1fd2fce3f8.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Xiaomi 11T Pro Global",
+		"size": "6.8 GB",
+		"version": "V14.0.2.0.TKDMIXM"
 	},
 	{
 		"android": "13.0",
@@ -5399,18 +6659,6 @@
 		"name": "Xiaomi 12X Taiwan",
 		"size": "5.1 GB",
 		"version": "V14.0.4.0.TLDTWXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "earth",
-		"date": "2023-04-24T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.7.0.SCVCNXM/miui_EARTH_V13.0.7.0.SCVCNXM_0837c6a70d_12.0.zip",
-		"md5": "0837c6a70d8d6f820e028788b79daf9f",
-		"method": "Recovery",
-		"name": "Redmi 12C China",
-		"size": "3.4 GB",
-		"version": "V13.0.7.0.SCVCNXM"
 	},
 	{
 		"android": "13.0",
@@ -5497,18 +6745,6 @@
 		"version": "V14.0.3.0.TLMTRXM"
 	},
 	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "fuxi",
-		"date": "2023-04-23T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.24.0.TMCCNXM/miui_FUXI_V14.0.24.0.TMCCNXM_bad43a4e6f_13.0.zip",
-		"md5": "bad43a4e6f95701353d76d740a29e857",
-		"method": "Recovery",
-		"name": "Xiaomi 13 China",
-		"size": "6.7 GB",
-		"version": "V14.0.24.0.TMCCNXM"
-	},
-	{
 		"android": "12.0",
 		"branch": "Stable",
 		"codename": "redwood_ru_global",
@@ -5545,18 +6781,6 @@
 		"version": "V14.0.3.0.TMYCNXM"
 	},
 	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "pipa",
-		"date": "2023-04-22T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.4.0.TMZCNXM/pipa_images_V14.0.4.0.TMZCNXM_20230422.0000.00_13.0_cn_dbc25f30be.tgz",
-		"md5": "dbc25f30be2d5afe079adf9d4c421439",
-		"method": "Fastboot",
-		"name": "Xiaomi Pad 6 China",
-		"size": "5.3 GB",
-		"version": "V14.0.4.0.TMZCNXM"
-	},
-	{
 		"android": "12.0",
 		"branch": "Stable",
 		"codename": "gauguin_global",
@@ -5567,6 +6791,18 @@
 		"name": "Mi 10T Lite Global",
 		"size": "5.0 GB",
 		"version": "V14.0.2.0.SJSMIXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "lime_ru_global",
+		"date": "2023-04-21T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.SJQRUXM/lime_ru_global_images_V14.0.2.0.SJQRUXM_20230421.0000.00_12.0_global_e3fd29a7df.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Redmi 9T Russia",
+		"size": "4.7 GB",
+		"version": "V14.0.2.0.SJQRUXM"
 	},
 	{
 		"android": "13.0",
@@ -5631,6 +6867,18 @@
 	{
 		"android": "13.0",
 		"branch": "Stable",
+		"codename": "haydn_global",
+		"date": "2023-04-20T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.5.0.TKKMIXM/haydn_global_images_V14.0.5.0.TKKMIXM_20230420.0000.00_13.0_global_09189f0e61.tgz",
+		"md5": null,
+		"method": "Fastboot",
+		"name": "Mi 11i Global",
+		"size": "6.6 GB",
+		"version": "V14.0.5.0.TKKMIXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
 		"codename": "zeus",
 		"date": "2023-04-20T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.13.0.TLBCNXM/miui_ZEUS_V14.0.13.0.TLBCNXM_800e3c12d0_13.0.zip",
@@ -5677,18 +6925,6 @@
 		"version": "V14.0.1.0.TMSEUXM"
 	},
 	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "tapas_global",
-		"date": "2023-04-20T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.6.0.TMTMIXM/miui_TAPASGlobal_V14.0.6.0.TMTMIXM_028282f682_13.0.zip",
-		"md5": "028282f6823abc35ed7d30e47c77b4e5",
-		"method": "Recovery",
-		"name": "Redmi Note 12 4G Global",
-		"size": "4.2 GB",
-		"version": "V14.0.6.0.TMTMIXM"
-	},
-	{
 		"android": "12.0",
 		"branch": "Stable",
 		"codename": "sunstone_global",
@@ -5699,6 +6935,18 @@
 		"name": "Redmi Note 12 5G Global",
 		"size": "6.3 GB",
 		"version": "V14.0.6.0.SMQMIXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "umi_eea_global",
+		"date": "2023-04-19T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.1.0.TJBEUXM/miui_UMIEEAGlobal_V14.0.1.0.TJBEUXM_60c8bc7945_13.0.zip",
+		"md5": "60c8bc7945bd1d3cfa3349ecb596ae02",
+		"method": "Recovery",
+		"name": "Mi 10 EEA",
+		"size": "4.2 GB",
+		"version": "V14.0.1.0.TJBEUXM"
 	},
 	{
 		"android": "13.0",
@@ -5855,30 +7103,6 @@
 		"name": "POCO F5 Pro Russia",
 		"size": "6.7 GB",
 		"version": "V14.0.3.0.TMNRUXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "earth",
-		"date": "2023-04-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.7.0.SCVCNXM/earth_images_V13.0.7.0.SCVCNXM_20230419.0000.00_12.0_cn_398562b7d8.tgz",
-		"md5": "398562b7d8ad919df164298dd2ddb33f",
-		"method": "Fastboot",
-		"name": "Redmi 12C China",
-		"size": "4.4 GB",
-		"version": "V13.0.7.0.SCVCNXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "lightcm",
-		"date": "2023-04-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.20.0.SLSCNXM/miui_LIGHTCM_V13.0.20.0.SLSCNXM_a7ee87644c_12.0.zip",
-		"md5": "a7ee87644cc7c60b7c829bf89cd93121",
-		"method": "Recovery",
-		"name": "Redmi Note 11R China",
-		"size": "3.9 GB",
-		"version": "V13.0.20.0.SLSCNXM"
 	},
 	{
 		"android": "12.0",
@@ -6042,7 +7266,7 @@
 		"codename": "redwood_ru_global",
 		"date": "2023-04-18T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.8.0.SMSRUXM/redwood_ru_global_images_V14.0.8.0.SMSRUXM_20230418.0000.00_12.0_global_76936199b4.tgz",
-		"md5": null,
+		"md5": "76936199b4b0146bec4746336e98a9ce",
 		"method": "Fastboot",
 		"name": "POCO X5 Pro 5G Russia",
 		"size": "6.5 GB",
@@ -6157,6 +7381,18 @@
 		"version": "V14.0.3.0.TKDJPXM"
 	},
 	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "evergo",
+		"date": "2023-04-17T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.0.12.TGBCNXM/miui_EVERGO_V14.0.0.12.TGBCNXM_8ff1024913_13.0.zip",
+		"md5": null,
+		"method": "Recovery",
+		"name": "Redmi Note 11 5G China",
+		"size": "4.2 GB",
+		"version": "V14.0.0.12.TGBCNXM"
+	},
+	{
 		"android": "12.0",
 		"branch": "Stable",
 		"codename": "fleur_global",
@@ -6203,30 +7439,6 @@
 		"name": "Xiaomi 12 Lite Indonesia",
 		"size": "4.8 GB",
 		"version": "V14.0.4.0.TLIIDXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "topaz_eea_global",
-		"date": "2023-04-17T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.7.0.TMGEUXM/miui_TOPAZEEAGlobal_V14.0.7.0.TMGEUXM_7a3fcbf5d9_13.0.zip",
-		"md5": "7a3fcbf5d95277329875868727dd135c",
-		"method": "Recovery",
-		"name": "Redmi Note 12 4G NFC EEA",
-		"size": "4.3 GB",
-		"version": "V14.0.7.0.TMGEUXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "topaz_eea_global",
-		"date": "2023-04-15T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.7.0.TMGEUXM/topaz_eea_global_images_V14.0.7.0.TMGEUXM_20230415.0000.00_13.0_eea_d5c12b65b5.tgz",
-		"md5": "d5c12b65b5b25e7bf29298de79edec90",
-		"method": "Fastboot",
-		"name": "Redmi Note 12 4G NFC EEA",
-		"size": "6.7 GB",
-		"version": "V14.0.7.0.TMGEUXM"
 	},
 	{
 		"android": "12.0",
@@ -6447,18 +7659,6 @@
 	{
 		"android": "13.0",
 		"branch": "Stable",
-		"codename": "water_global",
-		"date": "2023-04-14T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.10.0.TGOMIXM/miui_WATERGlobal_V14.0.10.0.TGOMIXM_4c835c75b8_13.0.zip",
-		"md5": "4c835c75b8d7601f477392c30b09afb5",
-		"method": "Recovery",
-		"name": "Redmi A2 / A2+ / POCO C51 Global",
-		"size": "1.5 GB",
-		"version": "V14.0.10.0.TGOMIXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
 		"codename": "tapas_in_global",
 		"date": "2023-04-14T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.4.0.TMTINXM/miui_TAPASINGlobal_V14.0.4.0.TMTINXM_57face25e9_13.0.zip",
@@ -6531,14 +7731,26 @@
 	{
 		"android": "12.0",
 		"branch": "Stable",
-		"codename": "lightcm",
+		"codename": "ziyi_tr_global",
 		"date": "2023-04-13T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.20.0.SLSCNXM/lightcm_images_V13.0.20.0.SLSCNXM_20230413.0000.00_12.0_cn_aecc489276.tgz",
-		"md5": "aecc489276212a2fede561da14dd15d3",
-		"method": "Fastboot",
-		"name": "Redmi Note 11R China",
-		"size": "5.4 GB",
-		"version": "V13.0.20.0.SLSCNXM"
+		"link": "https://bigota.d.miui.com/V14.0.3.0.SLLTRXM/miui_ZIYITRGlobal_V14.0.3.0.SLLTRXM_5171b33fdc_12.0.zip",
+		"md5": "5171b33fdc5cbea8309f38cf03b41422",
+		"method": "Recovery",
+		"name": "Xiaomi 13 Lite Turkey",
+		"size": "4.6 GB",
+		"version": "V14.0.3.0.SLLTRXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "cmi_eea_global",
+		"date": "2023-04-12T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.1.0.TJAEUXM/miui_CMIEEAGlobal_V14.0.1.0.TJAEUXM_d645b9e7a2_13.0.zip",
+		"md5": "d645b9e7a29890431c82cdf881427a43",
+		"method": "Recovery",
+		"name": "Mi 10 Pro EEA",
+		"size": "4.2 GB",
+		"version": "V14.0.1.0.TJAEUXM"
 	},
 	{
 		"android": "13.0",
@@ -6903,6 +8115,18 @@
 	{
 		"android": "12.0",
 		"branch": "Stable",
+		"codename": "vida_in_global",
+		"date": "2023-04-10T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.7.0.SGDINXM/miui_VIDAINGlobal_V13.0.7.0.SGDINXM_23be3fe98d_12.0.zip",
+		"md5": "23be3fe98d6ee2962aef6018faca9ac2",
+		"method": "Recovery",
+		"name": "Redmi Note 11 Pro 4G India",
+		"size": "3.1 GB",
+		"version": "V13.0.7.0.SGDINXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
 		"codename": "fog_tw_global",
 		"date": "2023-04-10T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V13.0.4.0.SGETWXM/fog_tw_global_images_V13.0.4.0.SGETWXM_20230410.0000.00_12.0_global_e9a6410a2d.tgz",
@@ -6959,6 +8183,18 @@
 		"name": "POCO X5 5G  Russia",
 		"size": "3.8 GB",
 		"version": "V13.0.4.0.SMPRUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "pissarro_in_global",
+		"date": "2023-04-08T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TKTINXM/miui_PISSARROINGlobal_V14.0.2.0.TKTINXM_20c3857de7_13.0.zip",
+		"md5": "20c3857de790f7cf44e4cf1923bc6958",
+		"method": "Recovery",
+		"name": "Xiaomi 11i / Hypercharge India",
+		"size": "3.9 GB",
+		"version": "V14.0.2.0.TKTINXM"
 	},
 	{
 		"android": "13.0",
@@ -7091,18 +8327,6 @@
 		"name": "Redmi Pad Global",
 		"size": "4.5 GB",
 		"version": "V14.0.1.0.TLYMIXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "ruby_in_global",
-		"date": "2023-04-07T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.2.0.SMOINXM/miui_RUBYINGlobal_V14.0.2.0.SMOINXM_f78cdd949b_12.0.zip",
-		"md5": "f78cdd949b0da6c03ff95af5aeb129a3",
-		"method": "Recovery",
-		"name": "Redmi Note 12 Pro / Pro+ 5G India",
-		"size": "4.1 GB",
-		"version": "V14.0.2.0.SMOINXM"
 	},
 	{
 		"android": "13.0",
@@ -7386,7 +8610,7 @@
 		"codename": "rosemary_p_global",
 		"date": "2023-04-04T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V13.0.10.0.SFFMIXM/rosemary_p_global_images_V13.0.10.0.SFFMIXM_20230404.0000.00_12.0_global_ecc84c9058.tgz",
-		"md5": null,
+		"md5": "ecc84c9058b0e45f56ecb1adae0a3d2a",
 		"method": "Fastboot",
 		"name": "POCO M5S Global",
 		"size": "6.7 GB",
@@ -7429,16 +8653,16 @@
 		"version": "V13.0.5.0.SMPTWXM"
 	},
 	{
-		"android": "13.0",
+		"android": "12.0",
 		"branch": "Stable",
-		"codename": "water_global",
+		"codename": "ziyi_tr_global",
 		"date": "2023-04-04T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.10.0.TGOMIXM/water_global_images_V14.0.10.0.TGOMIXM_20230404.0000.00_13.0_90dfffe33c.tgz",
-		"md5": null,
+		"link": "https://bigota.d.miui.com/V14.0.3.0.SLLTRXM/ziyi_tr_global_images_V14.0.3.0.SLLTRXM_20230404.0000.00_12.0_global_55f577229e.tgz",
+		"md5": "55f577229ed19b9b18f171bea8a689eb",
 		"method": "Fastboot",
-		"name": "Redmi A2 / A2+ / POCO C51 Global",
-		"size": "2.1 GB",
-		"version": "V14.0.10.0.TGOMIXM"
+		"name": "Xiaomi 13 Lite Turkey",
+		"size": "6.5 GB",
+		"version": "V14.0.3.0.SLLTRXM"
 	},
 	{
 		"android": "13.0",
@@ -7451,6 +8675,30 @@
 		"name": "Redmi Note 12 4G India",
 		"size": "5.4 GB",
 		"version": "V14.0.4.0.TMTINXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "cmi_eea_global",
+		"date": "2023-04-03T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.1.0.TJAEUXM/cmi_eea_global_images_V14.0.1.0.TJAEUXM_20230403.0000.00_13.0_eea_d8bf5f8040.tgz",
+		"md5": "d8bf5f80405c37af37443871d586916c",
+		"method": "Fastboot",
+		"name": "Mi 10 Pro EEA",
+		"size": "5.3 GB",
+		"version": "V14.0.1.0.TJAEUXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "umi_eea_global",
+		"date": "2023-04-03T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.1.0.TJBEUXM/umi_eea_global_images_V14.0.1.0.TJBEUXM_20230403.0000.00_13.0_eea_d0f38bfd24.tgz",
+		"md5": "d0f38bfd24991552946d214ff3d05c6d",
+		"method": "Fastboot",
+		"name": "Mi 10 EEA",
+		"size": "5.4 GB",
+		"version": "V14.0.1.0.TJBEUXM"
 	},
 	{
 		"android": "13.0",
@@ -7547,6 +8795,18 @@
 		"name": "Redmi Note 11 Pro+ 5G Turkey",
 		"size": "3.9 GB",
 		"version": "V14.0.2.0.TKTTRXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "vida_in_global",
+		"date": "2023-04-03T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.7.0.SGDINXM/vida_in_global_images_V13.0.7.0.SGDINXM_20230403.0000.00_12.0_in_770c43dedb.tgz",
+		"md5": "770c43dedbf472c226bf7992b2a34d33",
+		"method": "Fastboot",
+		"name": "Redmi Note 11 Pro 4G India",
+		"size": "4.7 GB",
+		"version": "V13.0.7.0.SGDINXM"
 	},
 	{
 		"android": "12.0",
@@ -7789,6 +9049,18 @@
 		"version": "V14.0.3.0.TKORUXM"
 	},
 	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "pissarro_in_global",
+		"date": "2023-03-30T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.2.0.TKTINXM/pissarro_in_global_images_V14.0.2.0.TKTINXM_20230330.0000.00_13.0_in_dddc58a845.tgz",
+		"md5": "dddc58a84530b8bf7fb0a051e652e437",
+		"method": "Fastboot",
+		"name": "Xiaomi 11i / Hypercharge India",
+		"size": "5.3 GB",
+		"version": "V14.0.2.0.TKTINXM"
+	},
+	{
 		"android": "12.0",
 		"branch": "Stable",
 		"codename": "veux_global",
@@ -7799,18 +9071,6 @@
 		"name": "Redmi Note 11 Pro 5G / POCO X4 Pro 5G Global",
 		"size": "3.4 GB",
 		"version": "V13.0.7.0.SKCMIXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "veux_eea_global",
-		"date": "2023-03-30T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.5.0.SKCEUXM/miui_VEUXEEAGlobal_V13.0.5.0.SKCEUXM_10e4d8ddf8_12.0.zip",
-		"md5": "10e4d8ddf8738e7becb7aa31ba48268a",
-		"method": "Recovery",
-		"name": "Redmi Note 11 Pro 5G / POCO X4 Pro 5G EEA",
-		"size": "3.3 GB",
-		"version": "V13.0.5.0.SKCEUXM"
 	},
 	{
 		"android": "13.0",
@@ -7890,23 +9150,11 @@
 		"codename": "ziyi_tw_global",
 		"date": "2023-03-30T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.3.0.SLLTWXM/ziyi_tw_global_images_V14.0.3.0.SLLTWXM_20230330.0000.00_12.0_global_f20485e8e2.tgz",
-		"md5": null,
+		"md5": "f20485e8e2a2039d61b7ec299ab49e7a",
 		"method": "Fastboot",
 		"name": "Xiaomi Civi 2 / 13 Lite Taiwan",
 		"size": "6.0 GB",
 		"version": "V14.0.3.0.SLLTWXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "ruby_in_global",
-		"date": "2023-03-30T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.2.0.SMOINXM/ruby_in_global_images_V14.0.2.0.SMOINXM_20230330.0000.00_12.0_in_93347c2540.tgz",
-		"md5": "93347c25407319435be0983027ea5203",
-		"method": "Fastboot",
-		"name": "Redmi Note 12 Pro / Pro+ 5G India",
-		"size": "5.6 GB",
-		"version": "V14.0.2.0.SMOINXM"
 	},
 	{
 		"android": "12.0",
@@ -8039,18 +9287,6 @@
 		"name": "Redmi Note 11 NFC Global",
 		"size": "6.3 GB",
 		"version": "V13.0.8.0.SGKMIXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "fog_global",
-		"date": "2023-03-29T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.6.0.SGEMIXM/miui_FOGGlobal_V13.0.6.0.SGEMIXM_2fb738a0f4_12.0.zip",
-		"md5": "2fb738a0f496ae5ea56862c1007ac031",
-		"method": "Recovery",
-		"name": "Redmi 10C Global",
-		"size": "2.9 GB",
-		"version": "V13.0.6.0.SGEMIXM"
 	},
 	{
 		"android": "13.0",
@@ -8281,18 +9517,6 @@
 		"version": "V14.0.2.0.TKLEUXM"
 	},
 	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "lime_ru_global",
-		"date": "2023-03-27T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.3.0.SJQRUXM/miui_LIMERUGlobal_V13.0.3.0.SJQRUXM_10f986615e_12.0.zip",
-		"md5": "10f986615ec68bc2dbbce7f6222bd2f5",
-		"method": "Recovery",
-		"name": "Redmi 9T Russia",
-		"size": "3.2 GB",
-		"version": "V13.0.3.0.SJQRUXM"
-	},
-	{
 		"android": "13.0",
 		"branch": "Stable",
 		"codename": "chopin_global",
@@ -8509,18 +9733,6 @@
 		"version": "V13.0.6.0.SKUTRXM"
 	},
 	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "cmi",
-		"date": "2023-03-24T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.2.0.TJACNXM/miui_CMI_V14.0.2.0.TJACNXM_40bb8418f6_13.0.zip",
-		"md5": "40bb8418f645a74ae9320f5125956aec",
-		"method": "Recovery",
-		"name": "Mi 10 Pro China",
-		"size": "4.3 GB",
-		"version": "V14.0.2.0.TJACNXM"
-	},
-	{
 		"android": "12.0",
 		"branch": "Stable",
 		"codename": "lmi_global",
@@ -8603,18 +9815,6 @@
 		"name": "Xiaomi 11 Lite 5G NE Global",
 		"size": "6.7 GB",
 		"version": "V14.0.3.0.TKOMIXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "evergo",
-		"date": "2023-03-24T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.9.0.SGBCNXM/miui_EVERGO_V13.0.9.0.SGBCNXM_9be671db27_12.0.zip",
-		"md5": "9be671db2732fadea3e8a056a5489e79",
-		"method": "Recovery",
-		"name": "Redmi Note 11 5G China",
-		"size": "3.9 GB",
-		"version": "V13.0.9.0.SGBCNXM"
 	},
 	{
 		"android": "13.0",
@@ -8821,6 +10021,18 @@
 		"version": "V14.0.1.0.SJDEUXM"
 	},
 	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "lime_tr_global",
+		"date": "2023-03-22T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.2.0.SJQTRXM/miui_LIMETRGlobal_V13.0.2.0.SJQTRXM_8b749da4c6_12.0.zip",
+		"md5": "8b749da4c651d9b02086a4979a9631a5",
+		"method": "Recovery",
+		"name": "Redmi 9T Turkey",
+		"size": "3.3 GB",
+		"version": "V13.0.2.0.SJQTRXM"
+	},
+	{
 		"android": "13.0",
 		"branch": "Stable",
 		"codename": "sweet_tw_global",
@@ -8831,18 +10043,6 @@
 		"name": "Redmi Note 10 Pro Taiwan",
 		"size": "3.9 GB",
 		"version": "V14.0.1.0.TKFTWXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "fleur_eea_global",
-		"date": "2023-03-22T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.3.0.SKEEUXM/miui_FLEUREEAGlobal_V13.0.3.0.SKEEUXM_57b47e8037_12.0.zip",
-		"md5": "57b47e8037bce5dc21f6d7815d14ec5b",
-		"method": "Recovery",
-		"name": "Redmi Note 11S 4G / POCO M4 Pro 4G EEA",
-		"size": "3.1 GB",
-		"version": "V13.0.3.0.SKEEUXM"
 	},
 	{
 		"android": "12.0",
@@ -8919,18 +10119,6 @@
 	{
 		"android": "12.0",
 		"branch": "Stable",
-		"codename": "ruby_global",
-		"date": "2023-03-22T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.3.0.SMOMIXM/miui_RUBYGlobal_V14.0.3.0.SMOMIXM_9921be72c5_12.0.zip",
-		"md5": "9921be72c51419e2b04b71638b892dff",
-		"method": "Recovery",
-		"name": "Redmi Note 12 Pro / Pro+ 5G Global",
-		"size": "4.2 GB",
-		"version": "V14.0.3.0.SMOMIXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
 		"codename": "ruby_ru_global",
 		"date": "2023-03-22T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.5.0.SMORUXM/miui_RUBYRUGlobal_V14.0.5.0.SMORUXM_d95b9a6070_12.0.zip",
@@ -9001,18 +10189,6 @@
 		"version": "V14.0.2.0.TKFIDXM"
 	},
 	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "lime_ru_global",
-		"date": "2023-03-21T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.3.0.SJQRUXM/lime_ru_global_images_V13.0.3.0.SJQRUXM_20230321.0000.00_12.0_global_8cb03e4bcd.tgz",
-		"md5": "8cb03e4bcd47b366abbe0db827e4bb88",
-		"method": "Fastboot",
-		"name": "Redmi 9T Russia",
-		"size": "4.8 GB",
-		"version": "V13.0.3.0.SJQRUXM"
-	},
-	{
 		"android": "13.0",
 		"branch": "Stable",
 		"codename": "star_in_global",
@@ -9047,30 +10223,6 @@
 		"name": "Redmi 10 / Redmi 10 2022 Indonesia",
 		"size": "5.4 GB",
 		"version": "V13.0.10.0.SKUIDXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "pissarro_eea_global",
-		"date": "2023-03-21T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.3.0.TKTEUXM/miui_PISSARROEEAGlobal_V14.0.3.0.TKTEUXM_c2f97abcba_13.0.zip",
-		"md5": "c2f97abcbaac7b62d5f53f8d9f1c8d9a",
-		"method": "Recovery",
-		"name": "Redmi Note 11 Pro+ 5G EEA",
-		"size": "4.0 GB",
-		"version": "V14.0.3.0.TKTEUXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "veux_eea_global",
-		"date": "2023-03-21T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.5.0.SKCEUXM/veux_eea_global_images_V13.0.5.0.SKCEUXM_20230321.0000.00_12.0_eea_4dcaecdfb5.tgz",
-		"md5": null,
-		"method": "Fastboot",
-		"name": "Redmi Note 11 Pro 5G / POCO X4 Pro 5G EEA",
-		"size": "6.1 GB",
-		"version": "V13.0.5.0.SKCEUXM"
 	},
 	{
 		"android": "13.0",
@@ -9191,30 +10343,6 @@
 		"name": "POCO X5 5G  India",
 		"size": "4.6 GB",
 		"version": "V13.0.3.0.SMPINXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "ziyi_tr_global",
-		"date": "2023-03-21T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.2.0.SLLTRXM/miui_ZIYITRGlobal_V14.0.2.0.SLLTRXM_c4a948afb8_12.0.zip",
-		"md5": "c4a948afb8dc158b34b1b6d5a0d9b1c9",
-		"method": "Recovery",
-		"name": "Xiaomi 13 Lite Turkey",
-		"size": "4.6 GB",
-		"version": "V14.0.2.0.SLLTRXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "cmi",
-		"date": "2023-03-20T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.2.0.TJACNXM/cmi_images_V14.0.2.0.TJACNXM_20230320.0000.00_13.0_cn_af177e7e85.tgz",
-		"md5": "af177e7e85887a386e80d75e43dc210a",
-		"method": "Fastboot",
-		"name": "Mi 10 Pro China",
-		"size": "5.9 GB",
-		"version": "V14.0.2.0.TJACNXM"
 	},
 	{
 		"android": "13.0",
@@ -9351,18 +10479,6 @@
 	{
 		"android": "12.0",
 		"branch": "Stable",
-		"codename": "earth_global",
-		"date": "2023-03-20T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.5.0.SCVMIXM/miui_EARTHGlobal_V13.0.5.0.SCVMIXM_65e757e671_12.0.zip",
-		"md5": "65e757e6718c13b499215ef8ed4eca46",
-		"method": "Recovery",
-		"name": "Redmi 12C / POCO C55 Global",
-		"size": "3.3 GB",
-		"version": "V13.0.5.0.SCVMIXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
 		"codename": "rosemary_in_global",
 		"date": "2023-03-18T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V13.0.11.0.SKLINXM/miui_ROSEMARYINGlobal_V13.0.11.0.SKLINXM_595432337a_12.0.zip",
@@ -9395,42 +10511,6 @@
 		"name": "Mi 10T / Mi 10T Pro EEA",
 		"size": "4.9 GB",
 		"version": "V14.0.1.0.SJDEUXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "mojito_tr_global",
-		"date": "2023-03-17T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.2.0.SKGTRXM/miui_MOJITOTRGlobal_V14.0.2.0.SKGTRXM_e1e25f8f5e_12.0.zip",
-		"md5": "e1e25f8f5eb77bf87561cc18d3d41259",
-		"method": "Recovery",
-		"name": "Redmi Note 10 Turkey",
-		"size": "2.9 GB",
-		"version": "V14.0.2.0.SKGTRXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "camellian_global",
-		"date": "2023-03-17T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.6.0.SKSMIXM/miui_CAMELLIANGlobal_V13.0.6.0.SKSMIXM_b7ebae1b71_12.0.zip",
-		"md5": "b7ebae1b715a3fd1fcc52ad62c43351d",
-		"method": "Recovery",
-		"name": "Redmi Note 10 5G Global",
-		"size": "3.2 GB",
-		"version": "V13.0.6.0.SKSMIXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "camellian_ru_global",
-		"date": "2023-03-17T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.5.0.SKSRUXM/miui_CAMELLIANRUGlobal_V13.0.5.0.SKSRUXM_148c07fb83_12.0.zip",
-		"md5": "148c07fb83519c51e1c17c7370ad31c4",
-		"method": "Recovery",
-		"name": "Redmi Note 10T / POCO M3 Pro Russia",
-		"size": "3.2 GB",
-		"version": "V13.0.5.0.SKSRUXM"
 	},
 	{
 		"android": "13.0",
@@ -9491,18 +10571,6 @@
 		"name": "POCO M4 Pro 5G Russia",
 		"size": "3.2 GB",
 		"version": "V13.0.5.0.SGBRUXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "fog_global",
-		"date": "2023-03-17T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.6.0.SGEMIXM/fog_global_images_V13.0.6.0.SGEMIXM_20230317.0000.00_12.0_global_731877389d.tgz",
-		"md5": null,
-		"method": "Fastboot",
-		"name": "Redmi 10C Global",
-		"size": "5.8 GB",
-		"version": "V13.0.6.0.SGEMIXM"
 	},
 	{
 		"android": "11.0",
@@ -9599,30 +10667,6 @@
 		"name": "Xiaomi 11T Taiwan",
 		"size": "5.4 GB",
 		"version": "V14.0.2.0.TKWTWXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "pissarro_global",
-		"date": "2023-03-16T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.4.0.TKTMIXM/miui_PISSARROGlobal_V14.0.4.0.TKTMIXM_8f50b7ddb8_13.0.zip",
-		"md5": "8f50b7ddb82a85487b8814f7b3d47ffa",
-		"method": "Recovery",
-		"name": "Redmi Note 11 Pro+ 5G Global",
-		"size": "4.0 GB",
-		"version": "V14.0.4.0.TKTMIXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "tapas_global",
-		"date": "2023-03-16T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.6.0.TMTMIXM/tapas_global_images_V14.0.6.0.TMTMIXM_20230316.0000.00_13.0_global_5ed52b0dba.tgz",
-		"md5": null,
-		"method": "Fastboot",
-		"name": "Redmi Note 12 4G Global",
-		"size": "6.7 GB",
-		"version": "V14.0.6.0.TMTMIXM"
 	},
 	{
 		"android": "10.0",
@@ -9759,6 +10803,18 @@
 	{
 		"android": "12.0",
 		"branch": "Stable",
+		"codename": "lime_tr_global",
+		"date": "2023-03-14T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.2.0.SJQTRXM/lime_tr_global_images_V13.0.2.0.SJQTRXM_20230314.0000.00_12.0_global_bc3b70c29d.tgz",
+		"md5": "bc3b70c29dc2f67457a0e8111f3ee9c9",
+		"method": "Fastboot",
+		"name": "Redmi 9T Turkey",
+		"size": "4.7 GB",
+		"version": "V13.0.2.0.SJQTRXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
 		"codename": "mojito_in_global",
 		"date": "2023-03-14T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.2.0.SKGINXM/miui_MOJITOINGlobal_V14.0.2.0.SKGINXM_70dc101f9d_12.0.zip",
@@ -9767,6 +10823,18 @@
 		"name": "Redmi Note 10 India",
 		"size": "2.9 GB",
 		"version": "V14.0.2.0.SKGINXM"
+	},
+	{
+		"android": "13.0",
+		"branch": "Stable",
+		"codename": "vili_in_global",
+		"date": "2023-03-14T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.1.0.TKDINXM/miui_VILIINGlobal_V14.0.1.0.TKDINXM_f3be20ea63_13.0.zip",
+		"md5": "f3be20ea63a4018e2ed2935c7479ffd8",
+		"method": "Recovery",
+		"name": "Xiaomi 11T Pro India",
+		"size": "4.8 GB",
+		"version": "V14.0.1.0.TKDINXM"
 	},
 	{
 		"android": "12.0",
@@ -9901,18 +10969,6 @@
 		"version": "V14.0.4.0.TKMCNXM"
 	},
 	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "fleur_eea_global",
-		"date": "2023-03-13T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.3.0.SKEEUXM/fleur_eea_global_images_V13.0.3.0.SKEEUXM_20230313.0000.00_12.0_eea_985da13a98.tgz",
-		"md5": "985da13a98ae60bbaaa804ce0c50c811",
-		"method": "Fastboot",
-		"name": "Redmi Note 11S 4G / POCO M4 Pro 4G EEA",
-		"size": "6.3 GB",
-		"version": "V13.0.3.0.SKEEUXM"
-	},
-	{
 		"android": "13.0",
 		"branch": "Stable",
 		"codename": "pissarro_ru_global",
@@ -9949,18 +11005,6 @@
 		"version": "V14.0.1.0.TLSEUXM"
 	},
 	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "ice_in_global",
-		"date": "2023-03-13T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.9.0.SGMINXM/miui_ICEINGlobal_V13.0.9.0.SGMINXM_a97effad97_12.0.zip",
-		"md5": "a97effad97b31da744af825c1016c93b",
-		"method": "Recovery",
-		"name": "Redmi A1 / A1+ / POCO C50 India",
-		"size": "1.5 GB",
-		"version": "V13.0.9.0.SGMINXM"
-	},
-	{
 		"android": "13.0",
 		"branch": "Stable",
 		"codename": "plato_ru_global",
@@ -9971,30 +11015,6 @@
 		"name": "Xiaomi 12T Russia",
 		"size": "5.0 GB",
 		"version": "V14.0.1.0.TLQRUXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "mojito_global",
-		"date": "2023-03-12T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.2.0.SKGMIXM/miui_MOJITOGlobal_V14.0.2.0.SKGMIXM_aa6b0021f8_12.0.zip",
-		"md5": "aa6b0021f80b20dec987ae6c4800b6cc",
-		"method": "Recovery",
-		"name": "Redmi Note 10 Global",
-		"size": "2.9 GB",
-		"version": "V14.0.2.0.SKGMIXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "pissarro_eea_global",
-		"date": "2023-03-12T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.3.0.TKTEUXM/pissarro_eea_global_images_V14.0.3.0.TKTEUXM_20230312.0000.00_13.0_eea_b866d3cf73.tgz",
-		"md5": null,
-		"method": "Fastboot",
-		"name": "Redmi Note 11 Pro+ 5G EEA",
-		"size": "6.3 GB",
-		"version": "V14.0.3.0.TKTEUXM"
 	},
 	{
 		"android": "13.0",
@@ -10009,36 +11029,12 @@
 		"version": "V14.0.2.0.TLMMIXM"
 	},
 	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "courbet_global",
-		"date": "2023-03-11T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.2.0.TKQMIXM/miui_COURBETGlobal_V14.0.2.0.TKQMIXM_480ceb4179_13.0.zip",
-		"md5": "480ceb4179ed141fe4a74d5209ffc026",
-		"method": "Recovery",
-		"name": "Mi 11 Lite 4G Global",
-		"size": "3.9 GB",
-		"version": "V14.0.2.0.TKQMIXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "mojito_tr_global",
-		"date": "2023-03-11T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.2.0.SKGTRXM/mojito_tr_global_images_V14.0.2.0.SKGTRXM_20230311.0000.00_12.0_global_0650e91623.tgz",
-		"md5": null,
-		"method": "Fastboot",
-		"name": "Redmi Note 10 Turkey",
-		"size": "4.6 GB",
-		"version": "V14.0.2.0.SKGTRXM"
-	},
-	{
 		"android": "12.0",
 		"branch": "Stable",
 		"codename": "mojito_id_global",
 		"date": "2023-03-11T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.3.0.SKGIDXM/mojito_id_global_images_V14.0.3.0.SKGIDXM_20230311.0000.00_12.0_global_9362c69741.tgz",
-		"md5": null,
+		"md5": "9362c69741e3fac96a919aafb11e5770",
 		"method": "Fastboot",
 		"name": "Redmi Note 10 Indonesia",
 		"size": "4.5 GB",
@@ -10074,7 +11070,7 @@
 		"codename": "chopin_global",
 		"date": "2023-03-10T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.2.0.TKPMIXM/chopin_global_images_V14.0.2.0.TKPMIXM_20230310.0000.00_13.0_global_0e80a3dd08.tgz",
-		"md5": null,
+		"md5": "0e80a3dd0877d6493c7f7c007092dba1",
 		"method": "Fastboot",
 		"name": "POCO X3 GT Global",
 		"size": "6.2 GB",
@@ -10151,18 +11147,6 @@
 		"name": "Xiaomi 12T Pro Taiwan",
 		"size": "6.3 GB",
 		"version": "V14.0.2.0.TLFTWXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "earth_global",
-		"date": "2023-03-10T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.5.0.SCVMIXM/earth_global_images_V13.0.5.0.SCVMIXM_20230310.0000.00_12.0_global_596373c569.tgz",
-		"md5": null,
-		"method": "Fastboot",
-		"name": "Redmi 12C / POCO C55 Global",
-		"size": "5.9 GB",
-		"version": "V13.0.5.0.SCVMIXM"
 	},
 	{
 		"android": "12.0",
@@ -10259,18 +11243,6 @@
 		"name": "Xiaomi 12 Pro Russia",
 		"size": "4.8 GB",
 		"version": "V14.0.2.0.TLBRUXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "earth_eea_global",
-		"date": "2023-03-09T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.6.0.SCVEUXM/miui_EARTHEEAGlobal_V13.0.6.0.SCVEUXM_02f7206dba_12.0.zip",
-		"md5": "02f7206dbaa060a81b9d465fb481c9e3",
-		"method": "Recovery",
-		"name": "Redmi 12C / POCO C55 EEA",
-		"size": "3.3 GB",
-		"version": "V13.0.6.0.SCVEUXM"
 	},
 	{
 		"android": "12.0",
@@ -10429,18 +11401,6 @@
 		"version": "V13.0.6.0.SKURUXM"
 	},
 	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "pissarro_global",
-		"date": "2023-03-07T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.4.0.TKTMIXM/pissarro_global_images_V14.0.4.0.TKTMIXM_20230307.0000.00_13.0_global_c6d0d61b3d.tgz",
-		"md5": null,
-		"method": "Fastboot",
-		"name": "Redmi Note 11 Pro+ 5G Global",
-		"size": "6.7 GB",
-		"version": "V14.0.4.0.TKTMIXM"
-	},
-	{
 		"android": "11.0",
 		"branch": "Stable",
 		"codename": "dandelion_c3l2_id_global",
@@ -10451,42 +11411,6 @@
 		"name": "Redmi 10A Indonesia",
 		"size": "4.2 GB",
 		"version": "V12.5.8.0.RCZIDXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "munch_tw_global",
-		"date": "2023-03-07T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.1.0.TLMTWXM/munch_tw_global_images_V14.0.1.0.TLMTWXM_20230307.0000.00_13.0_tw_00b3c4369b.tgz",
-		"md5": null,
-		"method": "Fastboot",
-		"name": "POCO F4 Taiwan",
-		"size": "5.1 GB",
-		"version": "V14.0.1.0.TLMTWXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "rock_global",
-		"date": "2023-03-07T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.6.0.TLUMIXM/miui_ROCKGlobal_V14.0.6.0.TLUMIXM_b64ad54537_13.0.zip",
-		"md5": "b64ad545371bd50edefe46b4fa65819a",
-		"method": "Recovery",
-		"name": "POCO M5 Global",
-		"size": "3.7 GB",
-		"version": "V14.0.6.0.TLUMIXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "ice_in_global",
-		"date": "2023-03-07T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.9.0.SGMINXM/ice_in_global_images_V13.0.9.0.SGMINXM_20230307.0000.00_12.0_928cb72eaf.tgz",
-		"md5": null,
-		"method": "Fastboot",
-		"name": "Redmi A1 / A1+ / POCO C50 India",
-		"size": "1.9 GB",
-		"version": "V13.0.9.0.SGMINXM"
 	},
 	{
 		"android": "12.0",
@@ -10525,30 +11449,6 @@
 		"version": "V14.0.1.0.TKBMIXM"
 	},
 	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "courbet_global",
-		"date": "2023-03-06T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.2.0.TKQMIXM/courbet_global_images_V14.0.2.0.TKQMIXM_20230306.0000.00_13.0_global_7ee23bf78b.tgz",
-		"md5": "7ee23bf78b5a6690784db7448d4bbdce",
-		"method": "Fastboot",
-		"name": "Mi 11 Lite 4G Global",
-		"size": "5.6 GB",
-		"version": "V14.0.2.0.TKQMIXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "mojito_global",
-		"date": "2023-03-06T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.2.0.SKGMIXM/mojito_global_images_V14.0.2.0.SKGMIXM_20230306.0000.00_12.0_global_0edcbe0f39.tgz",
-		"md5": "0edcbe0f39e041eb90617df0b218e6ab",
-		"method": "Fastboot",
-		"name": "Redmi Note 10 Global",
-		"size": "5.0 GB",
-		"version": "V14.0.2.0.SKGMIXM"
-	},
-	{
 		"android": "12.0",
 		"branch": "Stable",
 		"codename": "mojito_in_global",
@@ -10573,24 +11473,12 @@
 		"version": "V13.0.6.0.SKSIDXM"
 	},
 	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "camellian_ru_global",
-		"date": "2023-03-06T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.5.0.SKSRUXM/camellian_ru_global_images_V13.0.5.0.SKSRUXM_20230306.0000.00_12.0_global_77a3ecebb1.tgz",
-		"md5": null,
-		"method": "Fastboot",
-		"name": "Redmi Note 10T / POCO M3 Pro Russia",
-		"size": "5.4 GB",
-		"version": "V13.0.5.0.SKSRUXM"
-	},
-	{
 		"android": "13.0",
 		"branch": "Stable",
 		"codename": "rosemary_global",
 		"date": "2023-03-06T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.2.0.TKLMIXM/rosemary_global_images_V14.0.2.0.TKLMIXM_20230306.0000.00_13.0_global_93e323fe6b.tgz",
-		"md5": null,
+		"md5": "93e323fe6b4443522f53f058f354c2e8",
 		"method": "Fastboot",
 		"name": "Redmi Note 10S Global",
 		"size": "6.5 GB",
@@ -10643,18 +11531,6 @@
 		"name": "Redmi 10 5G / POCO M4 5G EEA",
 		"size": "5.9 GB",
 		"version": "V14.0.1.0.TLSEUXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "earth_in_global",
-		"date": "2023-03-06T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.2.0.SCVINXM/miui_EARTHINGlobal_V13.0.2.0.SCVINXM_16af528b85_12.0.zip",
-		"md5": "16af528b85fb22aa360ffa08cae75440",
-		"method": "Recovery",
-		"name": "Redmi 12C / POCO C55 India",
-		"size": "3.1 GB",
-		"version": "V13.0.2.0.SCVINXM"
 	},
 	{
 		"android": "12.0",
@@ -10741,18 +11617,6 @@
 		"version": "V14.0.2.0.TKKINXM"
 	},
 	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "camellian_global",
-		"date": "2023-03-03T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.6.0.SKSMIXM/camellian_global_images_V13.0.6.0.SKSMIXM_20230303.0000.00_12.0_global_0a66927a9c.tgz",
-		"md5": "0a66927a9c54304ed7768879c69a2e06",
-		"method": "Fastboot",
-		"name": "Redmi Note 10 5G Global",
-		"size": "6.0 GB",
-		"version": "V13.0.6.0.SKSMIXM"
-	},
-	{
 		"android": "13.0",
 		"branch": "Stable",
 		"codename": "thyme",
@@ -10775,18 +11639,6 @@
 		"name": "Mi 11 Indonesia",
 		"size": "6.0 GB",
 		"version": "V14.0.1.0.TKBIDXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "biloba_global",
-		"date": "2023-03-03T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.3.0.TCUMIXM/miui_BILOBAGlobal_V14.0.3.0.TCUMIXM_a18fae7bdf_13.0.zip",
-		"md5": "a18fae7bdf8c005161c6622dfcccd028",
-		"method": "Recovery",
-		"name": "Redmi Note 8 (2021) Global",
-		"size": "3.3 GB",
-		"version": "V14.0.3.0.TCUMIXM"
 	},
 	{
 		"android": "13.0",
@@ -10911,18 +11763,6 @@
 	{
 		"android": "12.0",
 		"branch": "Stable",
-		"codename": "ruby",
-		"date": "2023-03-02T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.3.0.SMOCNXM/miui_RUBY_V14.0.3.0.SMOCNXM_9ba641ef47_12.0.zip",
-		"md5": "9ba641ef47f08b0432163a1d742bc3a9",
-		"method": "Recovery",
-		"name": "Redmi Note 12 Pro / Pro+ / Discovery 5G China",
-		"size": "5.3 GB",
-		"version": "V14.0.3.0.SMOCNXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
 		"codename": "redwood_tr_global",
 		"date": "2023-03-02T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.3.0.SMSTRXM/miui_REDWOODTRGlobal_V14.0.3.0.SMSTRXM_6f0a251be4_12.0.zip",
@@ -10931,18 +11771,6 @@
 		"name": "POCO X5 Pro 5G Turkey",
 		"size": "4.5 GB",
 		"version": "V14.0.3.0.SMSTRXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "earth_eea_global",
-		"date": "2023-03-02T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.6.0.SCVEUXM/earth_eea_global_images_V13.0.6.0.SCVEUXM_20230302.0000.00_12.0_eea_5a8a43b62a.tgz",
-		"md5": "5a8a43b62aa321dd5c1e6570956ea405",
-		"method": "Fastboot",
-		"name": "Redmi 12C / POCO C55 EEA",
-		"size": "5.6 GB",
-		"version": "V13.0.6.0.SCVEUXM"
 	},
 	{
 		"android": "11.0",
@@ -11029,30 +11857,6 @@
 		"version": "V14.0.1.0.TLOTRXM"
 	},
 	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "rock_global",
-		"date": "2023-03-01T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.6.0.TLUMIXM/rock_global_images_V14.0.6.0.TLUMIXM_20230301.0000.00_13.0_global_7764f158f1.tgz",
-		"md5": "7764f158f19f906d36fe38798edfca29",
-		"method": "Fastboot",
-		"name": "POCO M5 Global",
-		"size": "6.3 GB",
-		"version": "V14.0.6.0.TLUMIXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "earth_in_global",
-		"date": "2023-03-01T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.2.0.SCVINXM/earth_in_global_images_V13.0.2.0.SCVINXM_20230301.0000.00_12.0_in_8495ffb4bd.tgz",
-		"md5": "8495ffb4bd20de5a4f248bac798e7460",
-		"method": "Fastboot",
-		"name": "Redmi 12C / POCO C55 India",
-		"size": "4.5 GB",
-		"version": "V13.0.2.0.SCVINXM"
-	},
-	{
 		"android": "10.0",
 		"branch": "Stable",
 		"codename": "dandelion_id_global",
@@ -11125,30 +11929,6 @@
 		"version": "V13.1.3.0.SLYTRXM"
 	},
 	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "ziyi_tr_global",
-		"date": "2023-02-28T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.2.0.SLLTRXM/ziyi_tr_global_images_V14.0.2.0.SLLTRXM_20230228.0000.00_12.0_global_2170332a0d.tgz",
-		"md5": "2170332a0d0eb1440b6499c0f7e02a2c",
-		"method": "Fastboot",
-		"name": "Xiaomi 13 Lite Turkey",
-		"size": "6.3 GB",
-		"version": "V14.0.2.0.SLLTRXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "sweet_eea_global",
-		"date": "2023-02-27T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.2.0.TKFEUXM/miui_SWEETEEAGlobal_V14.0.2.0.TKFEUXM_d0e173e130_13.0.zip",
-		"md5": "d0e173e1301ba19c013e0676b08f0205",
-		"method": "Recovery",
-		"name": "Redmi Note 10 Pro EEA",
-		"size": "4.0 GB",
-		"version": "V14.0.2.0.TKFEUXM"
-	},
-	{
 		"android": "13.0",
 		"branch": "Stable",
 		"codename": "thyme",
@@ -11159,18 +11939,6 @@
 		"name": "Mi 10S China",
 		"size": "6.3 GB",
 		"version": "V14.0.4.0.TGACNXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "lisa_in_global",
-		"date": "2023-02-27T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.4.0.TKOINXM/miui_LISAINGlobal_V14.0.4.0.TKOINXM_fb1eea8cc0_13.0.zip",
-		"md5": "fb1eea8cc0be15f36d8be6e5c2dae146",
-		"method": "Recovery",
-		"name": "Xiaomi 11 Lite 5G NE India",
-		"size": "4.5 GB",
-		"version": "V14.0.4.0.TKOINXM"
 	},
 	{
 		"android": "13.0",
@@ -11195,18 +11963,6 @@
 		"name": "Xiaomi 13 Turkey",
 		"size": "5.5 GB",
 		"version": "V14.0.3.0.TMCTRXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "nuwa_ru_global",
-		"date": "2023-02-27T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.5.0.TMBRUXM/miui_NUWARUGlobal_V14.0.5.0.TMBRUXM_a12808c0ab_13.0.zip",
-		"md5": "a12808c0ab9e2d6b144a868837599936",
-		"method": "Recovery",
-		"name": "Xiaomi 13 Pro Russia",
-		"size": "5.5 GB",
-		"version": "V14.0.5.0.TMBRUXM"
 	},
 	{
 		"android": "13.0",
@@ -11243,18 +11999,6 @@
 		"name": "Redmi Note 12 Pro / Pro+ 5G Russia",
 		"size": "6.2 GB",
 		"version": "V14.0.5.0.SMORUXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "fuxi_ru_global",
-		"date": "2023-02-27T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.5.0.TMCRUXM/miui_FUXIRUGlobal_V14.0.5.0.TMCRUXM_48d8f2649c_13.0.zip",
-		"md5": "48d8f2649c9b19672d680e9e76d36b2e",
-		"method": "Recovery",
-		"name": "Xiaomi 13 Russia",
-		"size": "5.5 GB",
-		"version": "V14.0.5.0.TMCRUXM"
 	},
 	{
 		"android": "13.0",
@@ -11319,30 +12063,6 @@
 	{
 		"android": "13.0",
 		"branch": "Stable",
-		"codename": "biloba_global",
-		"date": "2023-02-24T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.3.0.TCUMIXM/biloba_global_images_V14.0.3.0.TCUMIXM_20230224.0000.00_13.0_global_e347dad5e7.tgz",
-		"md5": "e347dad5e71b2bd64758dbbf61b05e58",
-		"method": "Fastboot",
-		"name": "Redmi Note 8 (2021) Global",
-		"size": "5.4 GB",
-		"version": "V14.0.3.0.TCUMIXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "lisa_tw_global",
-		"date": "2023-02-24T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.2.0.TKOTWXM/miui_LISATWGlobal_V14.0.2.0.TKOTWXM_74d87014e2_13.0.zip",
-		"md5": "74d87014e290f2c432e268f1c94bd5a7",
-		"method": "Recovery",
-		"name": "Xiaomi 11 Lite 5G NE Taiwan",
-		"size": "4.4 GB",
-		"version": "V14.0.2.0.TKOTWXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
 		"codename": "xaga_ru_global",
 		"date": "2023-02-24T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.1.0.TLORUXM/xaga_ru_global_images_V14.0.1.0.TLORUXM_20230224.0000.00_13.0_ru_6a95bae0a1.tgz",
@@ -11379,18 +12099,6 @@
 	{
 		"android": "12.0",
 		"branch": "Stable",
-		"codename": "ruby",
-		"date": "2023-02-24T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.3.0.SMOCNXM/ruby_images_V14.0.3.0.SMOCNXM_20230224.0000.00_12.0_cn_1b145fd304.tgz",
-		"md5": "1b145fd30454115d220519d34e3f1c57",
-		"method": "Fastboot",
-		"name": "Redmi Note 12 Pro / Pro+ / Discovery 5G China",
-		"size": "6.8 GB",
-		"version": "V14.0.3.0.SMOCNXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
 		"codename": "courbet_in_global",
 		"date": "2023-02-23T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V13.0.10.0.SKQINXM/courbet_in_global_images_V13.0.10.0.SKQINXM_20230223.0000.00_12.0_in_b176ad818b.tgz",
@@ -11415,14 +12123,14 @@
 	{
 		"android": "13.0",
 		"branch": "Stable",
-		"codename": "lisa_tr_global",
+		"codename": "vili_in_global",
 		"date": "2023-02-23T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.2.0.TKOTRXM/miui_LISATRGlobal_V14.0.2.0.TKOTRXM_c9eca1abaf_13.0.zip",
-		"md5": "c9eca1abaf591d62917bedd4f7b38f2f",
-		"method": "Recovery",
-		"name": "Xiaomi 11 Lite 5G NE Turkey",
-		"size": "4.5 GB",
-		"version": "V14.0.2.0.TKOTRXM"
+		"link": "https://bigota.d.miui.com/V14.0.1.0.TKDINXM/vili_in_global_images_V14.0.1.0.TKDINXM_20230223.0000.00_13.0_in_aae469b1fe.tgz",
+		"md5": "aae469b1fe78937d02e13c171439859e",
+		"method": "Fastboot",
+		"name": "Xiaomi 11T Pro India",
+		"size": "5.6 GB",
+		"version": "V14.0.1.0.TKDINXM"
 	},
 	{
 		"android": "13.0",
@@ -11487,18 +12195,6 @@
 	{
 		"android": "13.0",
 		"branch": "Stable",
-		"codename": "agate_ru_global",
-		"date": "2023-02-22T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.1.0.TKWRUXM/miui_AGATERUGlobal_V14.0.1.0.TKWRUXM_2ec4ad126c_13.0.zip",
-		"md5": "2ec4ad126c19eece556afdbdda73fe0a",
-		"method": "Recovery",
-		"name": "Xiaomi 11T Russia",
-		"size": "3.8 GB",
-		"version": "V14.0.1.0.TKWRUXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
 		"codename": "mona",
 		"date": "2023-02-22T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.2.0.TKVCNXM/miui_MONA_V14.0.2.0.TKVCNXM_ad8252fa6b_13.0.zip",
@@ -11555,18 +12251,6 @@
 		"name": "Redmi 10 / Redmi 10 2022 Taiwan",
 		"size": "4.7 GB",
 		"version": "V13.0.5.0.SKUTWXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "selenes",
-		"date": "2023-02-21T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.6.0.SKUCNXM/miui_SELENE_V13.0.6.0.SKUCNXM_18335b51ac_12.0.zip",
-		"md5": null,
-		"method": "Recovery",
-		"name": "Redmi Note 11 4G China",
-		"size": "3.9 GB",
-		"version": "V13.0.6.0.SKUCNXM"
 	},
 	{
 		"android": "13.0",
@@ -11667,22 +12351,10 @@
 	{
 		"android": "13.0",
 		"branch": "Stable",
-		"codename": "sweet_eea_global",
-		"date": "2023-02-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.2.0.TKFEUXM/sweet_eea_global_images_V14.0.2.0.TKFEUXM_20230219.0000.00_13.0_eea_15c6e7002e.tgz",
-		"md5": "15c6e7002e6e40f7f514755b0b3894ad",
-		"method": "Fastboot",
-		"name": "Redmi Note 10 Pro EEA",
-		"size": "6.2 GB",
-		"version": "V14.0.2.0.TKFEUXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
 		"codename": "haydn_in_global",
 		"date": "2023-02-18T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.2.0.TKKINXM/haydn_in_global_images_V14.0.2.0.TKKINXM_20230218.0000.00_13.0_in_cb09c53152.tgz",
-		"md5": null,
+		"md5": "cb09c53152ac242c5c31d19c5dba3a69",
 		"method": "Fastboot",
 		"name": "Mi 11X Pro India",
 		"size": "5.1 GB",
@@ -11711,30 +12383,6 @@
 		"name": "Xiaomi 12 Taiwan",
 		"size": "5.6 GB",
 		"version": "V14.0.1.0.TLCTWXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "agate_ru_global",
-		"date": "2023-02-17T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.1.0.TKWRUXM/agate_ru_global_images_V14.0.1.0.TKWRUXM_20230217.0000.00_13.0_ru_e5cec35df4.tgz",
-		"md5": null,
-		"method": "Fastboot",
-		"name": "Xiaomi 11T Russia",
-		"size": "6.0 GB",
-		"version": "V14.0.1.0.TKWRUXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "viva_global",
-		"date": "2023-02-17T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.6.0.SGDMIXM/miui_VIVAGlobal_V13.0.6.0.SGDMIXM_c505e65068_12.0.zip",
-		"md5": "c505e65068fb96eeb05d3c480a48e0bb",
-		"method": "Recovery",
-		"name": "Redmi Note 11 Pro 4G Global",
-		"size": "3.2 GB",
-		"version": "V13.0.6.0.SGDMIXM"
 	},
 	{
 		"android": "13.0",
@@ -11785,18 +12433,6 @@
 		"version": "V13.0.6.0.SJHCNXM"
 	},
 	{
-		"android": "11.0",
-		"branch": "Stable",
-		"codename": "lime_eea_global",
-		"date": "2023-02-16T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V12.5.12.0.RJQEUXM/miui_LIMEEEAGlobal_V12.5.12.0.RJQEUXM_2bc03df896_11.0.zip",
-		"md5": "2bc03df8967b9412048331122e8f94a7",
-		"method": "Recovery",
-		"name": "Redmi 9T EEA",
-		"size": "2.8 GB",
-		"version": "V12.5.12.0.RJQEUXM"
-	},
-	{
 		"android": "13.0",
 		"branch": "Stable",
 		"codename": "ares_in_global",
@@ -11807,54 +12443,6 @@
 		"name": "POCO F3 GT India",
 		"size": "3.9 GB",
 		"version": "V14.0.1.0.TKJINXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "vili_global",
-		"date": "2023-02-16T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.1.0.TKDMIXM/miui_VILIGlobal_V14.0.1.0.TKDMIXM_81b331177e_13.0.zip",
-		"md5": "81b331177ec76f1ad36c63ab9b4d4a1d",
-		"method": "Recovery",
-		"name": "Xiaomi 11T Pro Global",
-		"size": "4.8 GB",
-		"version": "V14.0.1.0.TKDMIXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "lisa_in_global",
-		"date": "2023-02-16T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.4.0.TKOINXM/lisa_in_global_images_V14.0.4.0.TKOINXM_20230216.0000.00_13.0_in_eaa39cd496.tgz",
-		"md5": "eaa39cd496d6950c2c9c9445766bfcb7",
-		"method": "Fastboot",
-		"name": "Xiaomi 11 Lite 5G NE India",
-		"size": "5.3 GB",
-		"version": "V14.0.4.0.TKOINXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "lisa_tr_global",
-		"date": "2023-02-16T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.2.0.TKOTRXM/lisa_tr_global_images_V14.0.2.0.TKOTRXM_20230216.0000.00_13.0_tr_ee13c0b16a.tgz",
-		"md5": null,
-		"method": "Fastboot",
-		"name": "Xiaomi 11 Lite 5G NE Turkey",
-		"size": "6.1 GB",
-		"version": "V14.0.2.0.TKOTRXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "lisa_tw_global",
-		"date": "2023-02-16T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.2.0.TKOTWXM/lisa_tw_global_images_V14.0.2.0.TKOTWXM_20230216.0000.00_13.0_tw_5e834f69d1.tgz",
-		"md5": null,
-		"method": "Fastboot",
-		"name": "Xiaomi 11 Lite 5G NE Taiwan",
-		"size": "5.7 GB",
-		"version": "V14.0.2.0.TKOTWXM"
 	},
 	{
 		"android": "12.0",
@@ -11879,30 +12467,6 @@
 		"name": "Redmi Note 11 Pro 4G Indonesia",
 		"size": "3.1 GB",
 		"version": "V13.0.6.0.SGDIDXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "viva_ru_global",
-		"date": "2023-02-16T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.2.0.SGDRUXM/miui_VIVARUGlobal_V13.0.2.0.SGDRUXM_25418c1517_12.0.zip",
-		"md5": "25418c1517ffd14f01feb792c9cd434c",
-		"method": "Recovery",
-		"name": "Redmi Note 11 Pro 4G Russia",
-		"size": "3.1 GB",
-		"version": "V13.0.2.0.SGDRUXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "veux_jp_global",
-		"date": "2023-02-16T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.2.0.SKCJPXM/miui_VEUXJPGlobal_V13.0.2.0.SKCJPXM_5e97ff2cd1_12.0.zip",
-		"md5": "5e97ff2cd1948c69c8e9ad85d66b6b48",
-		"method": "Recovery",
-		"name": "Redmi Note 11 Pro 5G Japan",
-		"size": "3.3 GB",
-		"version": "V13.0.2.0.SKCJPXM"
 	},
 	{
 		"android": "11.0",
@@ -12039,18 +12603,6 @@
 	{
 		"android": "13.0",
 		"branch": "Stable",
-		"codename": "haydn_global",
-		"date": "2023-02-15T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.3.0.TKKMIXM/miui_HAYDNGlobal_V14.0.3.0.TKKMIXM_5c6f79b97e_13.0.zip",
-		"md5": "5c6f79b97e944121d3945dd0c1989562",
-		"method": "Recovery",
-		"name": "Mi 11i Global",
-		"size": "4.7 GB",
-		"version": "V14.0.3.0.TKKMIXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
 		"codename": "agate_id_global",
 		"date": "2023-02-15T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.1.0.TKWIDXM/miui_AGATEIDGlobal_V14.0.1.0.TKWIDXM_6402839a82_13.0.zip",
@@ -12147,18 +12699,6 @@
 	{
 		"android": "13.0",
 		"branch": "Stable",
-		"codename": "pissarro_in_global",
-		"date": "2023-02-14T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.1.0.TKTINXM/miui_PISSARROINGlobal_V14.0.1.0.TKTINXM_fa55b44bd0_13.0.zip",
-		"md5": "fa55b44bd09558c841e9c6525e2d1d0b",
-		"method": "Recovery",
-		"name": "Xiaomi 11i / Hypercharge India",
-		"size": "3.9 GB",
-		"version": "V14.0.1.0.TKTINXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
 		"codename": "ingres_tr_global",
 		"date": "2023-02-14T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.1.0.TLJTRXM/ingres_tr_global_images_V14.0.1.0.TLJTRXM_20230214.0000.00_13.0_tr_59148966c9.tgz",
@@ -12243,6 +12783,18 @@
 	{
 		"android": "12.0",
 		"branch": "Stable",
+		"codename": "umi_in_global",
+		"date": "2023-02-11T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.7.0.SJBINXM/miui_UMIINGlobal_V13.0.7.0.SJBINXM_b9f7af4d1a_12.0.zip",
+		"md5": "b9f7af4d1a98a034e6e3ba299cc446e2",
+		"method": "Recovery",
+		"name": "Mi 10 India",
+		"size": "3.5 GB",
+		"version": "V13.0.7.0.SJBINXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
 		"codename": "bomb",
 		"date": "2023-02-10T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V13.0.5.0.SJLCNXM/bomb_images_V13.0.5.0.SJLCNXM_20230210.0000.00_12.0_cn_5cf493e625.tgz",
@@ -12289,18 +12841,6 @@
 		"version": "V13.0.6.0.SGDIDXM"
 	},
 	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "viva_ru_global",
-		"date": "2023-02-10T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.2.0.SGDRUXM/viva_ru_global_images_V13.0.2.0.SGDRUXM_20230210.0000.00_12.0_global_bf77d52cad.tgz",
-		"md5": null,
-		"method": "Fastboot",
-		"name": "Redmi Note 11 Pro 4G Russia",
-		"size": "5.5 GB",
-		"version": "V13.0.2.0.SGDRUXM"
-	},
-	{
 		"android": "13.0",
 		"branch": "Stable",
 		"codename": "zeus_eea_global",
@@ -12323,18 +12863,6 @@
 		"name": "Redmi Note 12 5G India",
 		"size": "4.5 GB",
 		"version": "V13.0.7.0.SMQINXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "ruby_global",
-		"date": "2023-02-10T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.3.0.SMOMIXM/ruby_global_images_V14.0.3.0.SMOMIXM_20230210.0000.00_12.0_global_20ccbc7d31.tgz",
-		"md5": "20ccbc7d31b0c28261784aa13d783de8",
-		"method": "Fastboot",
-		"name": "Redmi Note 12 Pro / Pro+ 5G Global",
-		"size": "6.8 GB",
-		"version": "V14.0.3.0.SMOMIXM"
 	},
 	{
 		"android": "13.0",
@@ -12469,18 +12997,6 @@
 		"version": "V13.0.6.0.SJHCNXM"
 	},
 	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "haydn_global",
-		"date": "2023-02-07T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.3.0.TKKMIXM/haydn_global_images_V14.0.3.0.TKKMIXM_20230207.0000.00_13.0_global_84038a9f3b.tgz",
-		"md5": "84038a9f3b6c29d3a7d34099ea32e199",
-		"method": "Fastboot",
-		"name": "Mi 11i Global",
-		"size": "6.5 GB",
-		"version": "V14.0.3.0.TKKMIXM"
-	},
-	{
 		"android": "12.0",
 		"branch": "Stable",
 		"codename": "spes_in_global",
@@ -12531,6 +13047,18 @@
 	{
 		"android": "12.0",
 		"branch": "Stable",
+		"codename": "umi_in_global",
+		"date": "2023-02-06T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.7.0.SJBINXM/umi_in_global_images_V13.0.7.0.SJBINXM_20230206.0000.00_12.0_in_ef7105dfbe.tgz",
+		"md5": "ef7105dfbef204777c59b798b6e4d0a5",
+		"method": "Fastboot",
+		"name": "Mi 10 India",
+		"size": "4.2 GB",
+		"version": "V13.0.7.0.SJBINXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
 		"codename": "gauguin_tw_global",
 		"date": "2023-02-06T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V13.0.6.0.SJSTWXM/gauguin_tw_global_images_V13.0.6.0.SJSTWXM_20230206.0000.00_12.0_global_2b02391358.tgz",
@@ -12575,30 +13103,6 @@
 		"name": "Mi MIX Fold China",
 		"size": "6.7 GB",
 		"version": "V14.0.23.2.6.DEV"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "vili_in_global",
-		"date": "2023-02-06T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.12.0.SKDINXM/miui_VILIINGlobal_V13.0.12.0.SKDINXM_443c24b29c_12.0.zip",
-		"md5": "443c24b29c8bca6ff25edd9a6bbc412d",
-		"method": "Recovery",
-		"name": "Xiaomi 11T Pro India",
-		"size": "3.7 GB",
-		"version": "V13.0.12.0.SKDINXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "viva_global",
-		"date": "2023-02-06T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.6.0.SGDMIXM/viva_global_images_V13.0.6.0.SGDMIXM_20230206.0000.00_12.0_global_d3a5c821d1.tgz",
-		"md5": "d3a5c821d1dd111afb7ebbc67306cc74",
-		"method": "Fastboot",
-		"name": "Redmi Note 11 Pro 4G Global",
-		"size": "6.1 GB",
-		"version": "V13.0.6.0.SGDMIXM"
 	},
 	{
 		"android": "12.0",
@@ -12675,30 +13179,6 @@
 	{
 		"android": "13.0",
 		"branch": "Stable",
-		"codename": "vili_global",
-		"date": "2023-02-03T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.1.0.TKDMIXM/vili_global_images_V14.0.1.0.TKDMIXM_20230203.0000.00_13.0_global_ed28e93146.tgz",
-		"md5": "ed28e931463ef730f1b990651bf4cb13",
-		"method": "Fastboot",
-		"name": "Xiaomi 11T Pro Global",
-		"size": "6.7 GB",
-		"version": "V14.0.1.0.TKDMIXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "pissarro_in_global",
-		"date": "2023-02-03T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.1.0.TKTINXM/pissarro_in_global_images_V14.0.1.0.TKTINXM_20230203.0000.00_13.0_in_3f762fea99.tgz",
-		"md5": "3f762fea993ba20b4369eaa3426d3a9d",
-		"method": "Fastboot",
-		"name": "Xiaomi 11i / Hypercharge India",
-		"size": "5.2 GB",
-		"version": "V14.0.1.0.TKTINXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
 		"codename": "xaga_eea_global",
 		"date": "2023-02-03T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.1.0.TLOEUXM/xaga_eea_global_images_V14.0.1.0.TLOEUXM_20230203.0000.00_13.0_eea_9ca2399c81.tgz",
@@ -12707,30 +13187,6 @@
 		"name": "Redmi Note 11T Pro / POCO X4 GT / Pro EEA",
 		"size": "7.2 GB",
 		"version": "V14.0.1.0.TLOEUXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "nuwa_ru_global",
-		"date": "2023-02-03T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.5.0.TMBRUXM/nuwa_ru_global_images_V14.0.5.0.TMBRUXM_20230203.0000.00_13.0_ru_2a50ccb714.tgz",
-		"md5": null,
-		"method": "Fastboot",
-		"name": "Xiaomi 13 Pro Russia",
-		"size": "6.8 GB",
-		"version": "V14.0.5.0.TMBRUXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "fuxi_ru_global",
-		"date": "2023-02-03T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.5.0.TMCRUXM/fuxi_ru_global_images_V14.0.5.0.TMCRUXM_20230203.0000.00_13.0_ru_5755249b3e.tgz",
-		"md5": null,
-		"method": "Fastboot",
-		"name": "Xiaomi 13 Russia",
-		"size": "6.8 GB",
-		"version": "V14.0.5.0.TMCRUXM"
 	},
 	{
 		"android": "12.0",
@@ -12843,18 +13299,6 @@
 	{
 		"android": "13.0",
 		"branch": "Stable",
-		"codename": "vayu_global",
-		"date": "2023-01-30T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.1.0.TJUMIXM/miui_VAYUGlobal_V14.0.1.0.TJUMIXM_050c24042a_13.0.zip",
-		"md5": "050c24042a9f9e1384a80b5ecfd4a148",
-		"method": "Recovery",
-		"name": "POCO X3 Pro Global",
-		"size": "3.9 GB",
-		"version": "V14.0.1.0.TJUMIXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
 		"codename": "agate_id_global",
 		"date": "2023-01-30T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V14.0.1.0.TKWIDXM/agate_id_global_images_V14.0.1.0.TKWIDXM_20230130.0000.00_13.0_id_8d0dc6592b.tgz",
@@ -12875,30 +13319,6 @@
 		"name": "Xiaomi 12 Lite Global",
 		"size": "4.8 GB",
 		"version": "V14.0.3.0.TLIMIXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "cmi_eea_global",
-		"date": "2023-01-29T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.6.0.SJAEUXM/miui_CMIEEAGlobal_V13.0.6.0.SJAEUXM_cd48ee1b15_12.0.zip",
-		"md5": "cd48ee1b154f2c1c50ee9a318e132de4",
-		"method": "Recovery",
-		"name": "Mi 10 Pro EEA",
-		"size": "3.5 GB",
-		"version": "V13.0.6.0.SJAEUXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "umi_eea_global",
-		"date": "2023-01-29T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.10.0.SJBEUXM/miui_UMIEEAGlobal_V13.0.10.0.SJBEUXM_643502960a_12.0.zip",
-		"md5": "643502960a04e989d848332fda542943",
-		"method": "Recovery",
-		"name": "Mi 10 EEA",
-		"size": "3.7 GB",
-		"version": "V13.0.10.0.SJBEUXM"
 	},
 	{
 		"android": "12.0",
@@ -13021,18 +13441,6 @@
 		"version": "V13.0.5.0.SKCIDXM"
 	},
 	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "vida_in_global",
-		"date": "2023-01-17T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.6.0.SGDINXM/miui_VIDAINGlobal_V13.0.6.0.SGDINXM_80fc11f3cd_12.0.zip",
-		"md5": "80fc11f3cd21757aafd5261dea9d41c7",
-		"method": "Recovery",
-		"name": "Redmi Note 11 Pro 4G India",
-		"size": "3.1 GB",
-		"version": "V13.0.6.0.SGDINXM"
-	},
-	{
 		"android": "11.0",
 		"branch": "Stable",
 		"codename": "frost_ru_global",
@@ -13043,18 +13451,6 @@
 		"name": "POCO C40 Russia",
 		"size": "2.6 GB",
 		"version": "V13.0.11.0.RGFRUXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "citrus_eea_global",
-		"date": "2023-01-16T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.1.0.SJFEUXM/miui_CITRUSEEAGlobal_V13.0.1.0.SJFEUXM_b5d2eeb772_12.0.zip",
-		"md5": "b5d2eeb772e927f775dfe3754c812899",
-		"method": "Recovery",
-		"name": "POCO M3 EEA",
-		"size": "3.2 GB",
-		"version": "V13.0.1.0.SJFEUXM"
 	},
 	{
 		"android": "12.0",
@@ -13143,6 +13539,18 @@
 	{
 		"android": "12.0",
 		"branch": "Stable",
+		"codename": "camellian_tr_global",
+		"date": "2023-01-13T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.4.0.SKSTRXM/miui_CAMELLIANTRGlobal_V13.0.4.0.SKSTRXM_59e25a3d1c_12.0.zip",
+		"md5": "59e25a3d1c58352ca1c96d1fe7d6dc11",
+		"method": "Recovery",
+		"name": "Redmi Note 10 5G Turkey",
+		"size": "3.2 GB",
+		"version": "V13.0.4.0.SKSTRXM"
+	},
+	{
+		"android": "12.0",
+		"branch": "Stable",
 		"codename": "toco_eea_global",
 		"date": "2023-01-12T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V13.0.6.0.SFNEUXM/toco_eea_global_images_V13.0.6.0.SFNEUXM_20230112.0000.00_12.0_eea_d2f56fd4e9.tgz",
@@ -13151,18 +13559,6 @@
 		"name": "Mi Note 10 Lite EEA",
 		"size": "4.5 GB",
 		"version": "V13.0.6.0.SFNEUXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "umi_eea_global",
-		"date": "2023-01-12T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.10.0.SJBEUXM/umi_eea_global_images_V13.0.10.0.SJBEUXM_20230112.0000.00_12.0_eea_5e2cd50523.tgz",
-		"md5": "5e2cd505232c191c6ea13dd6b5911b3c",
-		"method": "Fastboot",
-		"name": "Mi 10 EEA",
-		"size": "4.9 GB",
-		"version": "V13.0.10.0.SJBEUXM"
 	},
 	{
 		"android": "12.0",
@@ -13187,18 +13583,6 @@
 		"name": "Redmi Note 11T Pro / POCO X4 GT / Pro Global",
 		"size": "7.5 GB",
 		"version": "V14.0.1.0.TLOMIXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "cmi_eea_global",
-		"date": "2023-01-11T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.6.0.SJAEUXM/cmi_eea_global_images_V13.0.6.0.SJAEUXM_20230111.0000.00_12.0_eea_2fbcfc1019.tgz",
-		"md5": "2fbcfc1019dc61e640a257e2a93da6ca",
-		"method": "Fastboot",
-		"name": "Mi 10 Pro EEA",
-		"size": "4.8 GB",
-		"version": "V13.0.6.0.SJAEUXM"
 	},
 	{
 		"android": "12.0",
@@ -13249,30 +13633,6 @@
 		"version": "V13.0.1.0.SJFINXM"
 	},
 	{
-		"android": "11.0",
-		"branch": "Stable",
-		"codename": "lime_eea_global",
-		"date": "2023-01-11T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V12.5.12.0.RJQEUXM/lime_eea_global_images_V12.5.12.0.RJQEUXM_20230111.0000.00_11.0_eea_5d3fefa01f.tgz",
-		"md5": null,
-		"method": "Fastboot",
-		"name": "Redmi 9T EEA",
-		"size": "4.7 GB",
-		"version": "V12.5.12.0.RJQEUXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "lime_tr_global",
-		"date": "2023-01-11T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.1.0.SJQTRXM/miui_LIMETRGlobal_V13.0.1.0.SJQTRXM_dbabd85b6d_12.0.zip",
-		"md5": "dbabd85b6d0ee5777925f05a906fbead",
-		"method": "Recovery",
-		"name": "Redmi 9T Turkey",
-		"size": "3.2 GB",
-		"version": "V13.0.1.0.SJQTRXM"
-	},
-	{
 		"android": "12.0",
 		"branch": "Stable",
 		"codename": "evergo_in_global",
@@ -13287,42 +13647,6 @@
 	{
 		"android": "12.0",
 		"branch": "Stable",
-		"codename": "vili_in_global",
-		"date": "2023-01-11T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.12.0.SKDINXM/vili_in_global_images_V13.0.12.0.SKDINXM_20230111.0000.00_12.0_in_7d8f29e89f.tgz",
-		"md5": "7d8f29e89f5f56e26aff778e10ea9198",
-		"method": "Fastboot",
-		"name": "Xiaomi 11T Pro India",
-		"size": "4.8 GB",
-		"version": "V13.0.12.0.SKDINXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "veux_jp_global",
-		"date": "2023-01-11T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.2.0.SKCJPXM/veux_jp_global_images_V13.0.2.0.SKCJPXM_20230111.0000.00_12.0_global_63a288d9d2.tgz",
-		"md5": null,
-		"method": "Fastboot",
-		"name": "Redmi Note 11 Pro 5G Japan",
-		"size": "5.6 GB",
-		"version": "V13.0.2.0.SKCJPXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "vida_in_global",
-		"date": "2023-01-11T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.6.0.SGDINXM/vida_in_global_images_V13.0.6.0.SGDINXM_20230111.0000.00_12.0_in_06a9e78c48.tgz",
-		"md5": "06a9e78c4806a1b27fbbb1fe2884f368",
-		"method": "Fastboot",
-		"name": "Redmi Note 11 Pro 4G India",
-		"size": "4.6 GB",
-		"version": "V13.0.6.0.SGDINXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
 		"codename": "citrus_tw_global",
 		"date": "2023-01-10T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V13.0.1.0.SJFTWXM/miui_CITRUSTWGlobal_V13.0.1.0.SJFTWXM_3147e1d9f1_12.0.zip",
@@ -13331,18 +13655,6 @@
 		"name": "POCO M3 Taiwan",
 		"size": "3.1 GB",
 		"version": "V13.0.1.0.SJFTWXM"
-	},
-	{
-		"android": "13.0",
-		"branch": "Stable",
-		"codename": "vayu_global",
-		"date": "2023-01-10T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.1.0.TJUMIXM/vayu_global_images_V14.0.1.0.TJUMIXM_20230110.0000.00_13.0_global_42fe73e53c.tgz",
-		"md5": null,
-		"method": "Fastboot",
-		"name": "POCO X3 Pro Global",
-		"size": "5.5 GB",
-		"version": "V14.0.1.0.TJUMIXM"
 	},
 	{
 		"android": "13.0",
@@ -13585,6 +13897,18 @@
 		"version": "V13.0.7.0.SJDIDXM"
 	},
 	{
+		"android": "12.0",
+		"branch": "Stable",
+		"codename": "camellian_tr_global",
+		"date": "2023-01-03T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V13.0.4.0.SKSTRXM/camellian_tr_global_images_V13.0.4.0.SKSTRXM_20230103.0000.00_12.0_global_35ddda11b8.tgz",
+		"md5": "35ddda11b8e622ba9a72a2d1e48afabd",
+		"method": "Fastboot",
+		"name": "Redmi Note 10 5G Turkey",
+		"size": "5.4 GB",
+		"version": "V13.0.4.0.SKSTRXM"
+	},
+	{
 		"android": "11.0",
 		"branch": "Stable",
 		"codename": "frost_ru_global",
@@ -13731,18 +14055,6 @@
 	{
 		"android": "12.0",
 		"branch": "Stable",
-		"codename": "lime_tr_global",
-		"date": "2022-12-21T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.1.0.SJQTRXM/lime_tr_global_images_V13.0.1.0.SJQTRXM_20221221.0000.00_12.0_global_f1fdb1be37.tgz",
-		"md5": "f1fdb1be37d9140a99b5fc40f25f7fbd",
-		"method": "Fastboot",
-		"name": "Redmi 9T Turkey",
-		"size": "4.7 GB",
-		"version": "V13.0.1.0.SJQTRXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
 		"codename": "light_id_global",
 		"date": "2022-12-21T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V13.0.4.0.SLSIDXM/miui_LIGHTIDGlobal_V13.0.4.0.SLSIDXM_5cf04bbc7f_12.0.zip",
@@ -13775,18 +14087,6 @@
 		"name": "POCO M5S EEA",
 		"size": "6.2 GB",
 		"version": "V13.0.4.0.SFFEUXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "citrus_eea_global",
-		"date": "2022-12-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.1.0.SJFEUXM/citrus_eea_global_images_V13.0.1.0.SJFEUXM_20221219.0000.00_12.0_eea_f424506536.tgz",
-		"md5": "f4245065365c269e491cfb4410e06b9a",
-		"method": "Fastboot",
-		"name": "POCO M3 EEA",
-		"size": "5.4 GB",
-		"version": "V13.0.1.0.SJFEUXM"
 	},
 	{
 		"android": "12.0",
@@ -13921,30 +14221,6 @@
 		"version": "V13.0.2.0.SLFJPXM"
 	},
 	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "umi_in_global",
-		"date": "2022-12-05T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.6.0.SJBINXM/miui_UMIINGlobal_V13.0.6.0.SJBINXM_475842a998_12.0.zip",
-		"md5": "475842a99854a728cfbaba1fd5ea7df8",
-		"method": "Recovery",
-		"name": "Mi 10 India",
-		"size": "3.5 GB",
-		"version": "V13.0.6.0.SJBINXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "opal_eea_global",
-		"date": "2022-12-05T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.4.0.SGLEUXM/miui_OPALEEAGlobal_V13.0.4.0.SGLEUXM_126c41b5a9_12.0.zip",
-		"md5": "126c41b5a98313d942566864b9cf4467",
-		"method": "Recovery",
-		"name": "Redmi Note 11S 5G EEA",
-		"size": "3.2 GB",
-		"version": "V13.0.4.0.SGLEUXM"
-	},
-	{
 		"android": "11.0",
 		"branch": "Stable",
 		"codename": "ginkgo_eea_global",
@@ -13955,18 +14231,6 @@
 		"name": "Redmi Note 8 EEA",
 		"size": "2.6 GB",
 		"version": "V12.5.12.0.RCOEUXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "camellian_tr_global",
-		"date": "2022-12-01T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.3.0.SKSTRXM/miui_CAMELLIANTRGlobal_V13.0.3.0.SKSTRXM_6b33e1cb46_12.0.zip",
-		"md5": "6b33e1cb465adba719ad843aa9ecc162",
-		"method": "Recovery",
-		"name": "Redmi Note 10 5G Turkey",
-		"size": "3.2 GB",
-		"version": "V13.0.3.0.SKSTRXM"
 	},
 	{
 		"android": "12.0",
@@ -13995,18 +14259,6 @@
 	{
 		"android": "12.0",
 		"branch": "Stable",
-		"codename": "umi_in_global",
-		"date": "2022-11-28T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.6.0.SJBINXM/umi_in_global_images_V13.0.6.0.SJBINXM_20221128.0000.00_12.0_in_b0ef02c700.tgz",
-		"md5": "b0ef02c700701c2345dda3ea5b80fe53",
-		"method": "Fastboot",
-		"name": "Mi 10 India",
-		"size": "4.2 GB",
-		"version": "V13.0.6.0.SJBINXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
 		"codename": "chopin_tr_global",
 		"date": "2022-11-28T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V13.0.4.0.SKPTRXM/miui_CHOPINTRGlobal_V13.0.4.0.SKPTRXM_438646750b_12.0.zip",
@@ -14031,18 +14283,6 @@
 	{
 		"android": "12.0",
 		"branch": "Stable",
-		"codename": "camellian_tr_global",
-		"date": "2022-11-27T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.3.0.SKSTRXM/camellian_tr_global_images_V13.0.3.0.SKSTRXM_20221127.0000.00_12.0_global_89563eeb44.tgz",
-		"md5": "89563eeb44128d5242611bd64ea4b548",
-		"method": "Fastboot",
-		"name": "Redmi Note 10 5G Turkey",
-		"size": "5.4 GB",
-		"version": "V13.0.3.0.SKSTRXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
 		"codename": "camellian_tw_global",
 		"date": "2022-11-27T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V13.0.3.0.SKSTWXM/camellian_tw_global_images_V13.0.3.0.SKSTWXM_20221127.0000.00_12.0_global_ed4715149e.tgz",
@@ -14063,18 +14303,6 @@
 		"name": "Redmi Note 10S Indonesia",
 		"size": "3.3 GB",
 		"version": "V13.0.7.0.SKLIDXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "opal_eea_global",
-		"date": "2022-11-24T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.4.0.SGLEUXM/opal_eea_global_images_V13.0.4.0.SGLEUXM_20221124.0000.00_12.0_eea_b64b7aa493.tgz",
-		"md5": "b64b7aa49337fd94aa1729c573722745",
-		"method": "Fastboot",
-		"name": "Redmi Note 11S 5G EEA",
-		"size": "6.3 GB",
-		"version": "V13.0.4.0.SGLEUXM"
 	},
 	{
 		"android": "12.0",
@@ -14219,18 +14447,6 @@
 		"name": "Xiaomi 11T Pro Turkey",
 		"size": "3.7 GB",
 		"version": "V13.0.5.0.SKDTRXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "veux_tw_global",
-		"date": "2022-11-14T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.3.0.SKCTWXM/miui_VEUXTWGlobal_V13.0.3.0.SKCTWXM_b877ea2167_12.0.zip",
-		"md5": "b877ea21677133a7a87864e3a567def4",
-		"method": "Recovery",
-		"name": "Redmi Note 11 Pro 5G / POCO X4 Pro 5G Taiwan",
-		"size": "3.2 GB",
-		"version": "V13.0.3.0.SKCTWXM"
 	},
 	{
 		"android": "12.0",
@@ -14411,18 +14627,6 @@
 		"name": "Mi 10 Lite Taiwan",
 		"size": "5.4 GB",
 		"version": "V13.0.3.0.SJITWXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "veux_tw_global",
-		"date": "2022-11-06T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.3.0.SKCTWXM/veux_tw_global_images_V13.0.3.0.SKCTWXM_20221106.0000.00_12.0_global_d20d3cf361.tgz",
-		"md5": "d20d3cf36171bd4af3a6f0bd4d8f38cb",
-		"method": "Fastboot",
-		"name": "Redmi Note 11 Pro 5G / POCO X4 Pro 5G Taiwan",
-		"size": "5.0 GB",
-		"version": "V13.0.3.0.SKCTWXM"
 	},
 	{
 		"android": "12.0",
@@ -15241,18 +15445,6 @@
 		"version": "V13.0.1.0.SJETRXM"
 	},
 	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "cmi_global",
-		"date": "2022-08-30T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.4.0.SJAMIXM/miui_CMIGlobal_V13.0.4.0.SJAMIXM_b30f26c6f2_12.0.zip",
-		"md5": "b30f26c6f284a25a8a8f0d60e004fac5",
-		"method": "Recovery",
-		"name": "Mi 10 Pro Global",
-		"size": "3.5 GB",
-		"version": "V13.0.4.0.SJAMIXM"
-	},
-	{
 		"android": "11.0",
 		"branch": "Stable",
 		"codename": "ginkgo_in_global",
@@ -15299,18 +15491,6 @@
 		"name": "Redmi 9C NFC Russia",
 		"size": "2.0 GB",
 		"version": "V12.5.3.0.RCSRUXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "munch_tw_global",
-		"date": "2022-08-30T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.3.0.SLMTWXM/miui_MUNCHTWGlobal_V13.0.3.0.SLMTWXM_ae664f4dd2_12.0.zip",
-		"md5": "ae664f4dd277d4a8e3335eb0f71b5729",
-		"method": "Recovery",
-		"name": "POCO F4 Taiwan",
-		"size": "3.3 GB",
-		"version": "V13.0.3.0.SLMTWXM"
 	},
 	{
 		"android": "12.0",
@@ -15443,18 +15623,6 @@
 		"name": "Redmi 8A Indonesia",
 		"size": "2.0 GB",
 		"version": "V12.5.3.0.QCPIDXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "cmi_global",
-		"date": "2022-08-22T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.4.0.SJAMIXM/cmi_global_images_V13.0.4.0.SJAMIXM_20220822.0000.00_12.0_global_59efb457f0.tgz",
-		"md5": "59efb457f096654f7f70aa89917c8717",
-		"method": "Fastboot",
-		"name": "Mi 10 Pro Global",
-		"size": "5.1 GB",
-		"version": "V13.0.4.0.SJAMIXM"
 	},
 	{
 		"android": "10.0",
@@ -15601,18 +15769,6 @@
 		"version": "V12.5.5.0.RCOCNXM"
 	},
 	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "cannong_tw_global",
-		"date": "2022-08-10T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.1.0.SJETWXM/miui_CANNONGTWGlobal_V13.0.1.0.SJETWXM_3e86753946_12.0.zip",
-		"md5": "3e86753946c7f0ed70d8d64760d968a8",
-		"method": "Recovery",
-		"name": "Redmi Note 9T Taiwan",
-		"size": "3.0 GB",
-		"version": "V13.0.1.0.SJETWXM"
-	},
-	{
 		"android": "11.0",
 		"branch": "Stable",
 		"codename": "pyxis_eea_global",
@@ -15719,18 +15875,6 @@
 		"name": "Redmi Note 8 Indonesia",
 		"size": "2.6 GB",
 		"version": "V12.5.3.0.RCOIDXM"
-	},
-	{
-		"android": "12.0",
-		"branch": "Stable",
-		"codename": "cannong_tw_global",
-		"date": "2022-07-28T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V13.0.1.0.SJETWXM/cannong_tw_global_images_V13.0.1.0.SJETWXM_20220728.0000.00_12.0_global_5c5c11cfa3.tgz",
-		"md5": "5c5c11cfa316d0e494756c2ad85c6297",
-		"method": "Fastboot",
-		"name": "Redmi Note 9T Taiwan",
-		"size": "4.4 GB",
-		"version": "V13.0.1.0.SJETWXM"
 	},
 	{
 		"android": "11.0",
@@ -17367,18 +17511,6 @@
 	{
 		"android": "10.0",
 		"branch": "Stable",
-		"codename": "olivelite_in_global",
-		"date": "2021-10-10T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V12.5.2.0.QCPINXM/olivelite_in_global_images_V12.5.2.0.QCPINXM_20211010.0000.00_10.0_in_2070760cb5.tgz",
-		"md5": "2070760cb50a9a9e9909512050c3ee3a",
-		"method": "Fastboot",
-		"name": "Redmi 8A India",
-		"size": "2.5 GB",
-		"version": "V12.5.2.0.QCPINXM"
-	},
-	{
-		"android": "10.0",
-		"branch": "Stable",
 		"codename": "olive_in_global",
 		"date": "2021-10-10T00:00:00.000Z",
 		"link": "https://bigota.d.miui.com/V12.5.2.0.QCNINXM/olive_in_global_images_V12.5.2.0.QCNINXM_20211010.0000.00_10.0_in_1ea0749243.tgz",
@@ -17387,6 +17519,18 @@
 		"name": "Redmi 8 India",
 		"size": "2.7 GB",
 		"version": "V12.5.2.0.QCNINXM"
+	},
+	{
+		"android": "10.0",
+		"branch": "Stable",
+		"codename": "olivelite_in_global",
+		"date": "2021-10-10T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V12.5.2.0.QCPINXM/olivelite_in_global_images_V12.5.2.0.QCPINXM_20211010.0000.00_10.0_in_2070760cb5.tgz",
+		"md5": "2070760cb50a9a9e9909512050c3ee3a",
+		"method": "Fastboot",
+		"name": "Redmi 8A India",
+		"size": "2.5 GB",
+		"version": "V12.5.2.0.QCPINXM"
 	},
 	{
 		"android": "10.0",
@@ -25900,229 +26044,325 @@
 		"android": "13.0",
 		"branch": "Public Beta",
 		"codename": "venus",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_VENUS_V14.0.23.5.15.DEV_9d036db5eb_13.0.zip",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_VENUS_V14.0.23.5.22.DEV_40152b0f48_13.0.zip",
 		"md5": null,
 		"method": "Recovery",
 		"name": "Mi 11 China",
-		"size": "5.7 GB",
-		"version": "V14.0.23.5.15.DEV"
+		"size": "5.6 GB",
+		"version": "V14.0.23.5.22.DEV"
 	},
 	{
 		"android": "13.0",
 		"branch": "Public Beta",
 		"codename": "star",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_STAR_V14.0.23.5.15.DEV_1743e7e33d_13.0.zip",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_STAR_V14.0.23.5.22.DEV_deb559587a_13.0.zip",
 		"md5": null,
 		"method": "Recovery",
 		"name": "Mi 11 Pro / Ultra China",
 		"size": "5.8 GB",
-		"version": "V14.0.23.5.15.DEV"
+		"version": "V14.0.23.5.22.DEV"
+	},
+	{
+		"android": "13.0",
+		"branch": "Public Beta",
+		"codename": "cetus",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_CETUS_V14.0.23.5.22.DEV_8d9c54f410_13.0.zip",
+		"md5": null,
+		"method": "Recovery",
+		"name": "Mi MIX Fold China",
+		"size": "5.5 GB",
+		"version": "V14.0.23.5.22.DEV"
 	},
 	{
 		"android": "13.0",
 		"branch": "Public Beta",
 		"codename": "odin",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_ODIN_V14.0.23.5.15.DEV_1514aac14b_13.0.zip",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_ODIN_V14.0.23.5.22.DEV_b8d3c9af7e_13.0.zip",
 		"md5": null,
 		"method": "Recovery",
 		"name": "MIX 4 China",
 		"size": "5.9 GB",
-		"version": "V14.0.23.5.15.DEV"
+		"version": "V14.0.23.5.22.DEV"
 	},
 	{
 		"android": "13.0",
 		"branch": "Public Beta",
 		"codename": "nabu",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_NABU_V14.0.23.5.15.DEV_8264acbd8f_13.0.zip",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_NABU_V14.0.23.5.22.DEV_c048eb44ed_13.0.zip",
 		"md5": null,
 		"method": "Recovery",
 		"name": "Xiaomi Pad 5 China",
 		"size": "4.3 GB",
-		"version": "V14.0.23.5.15.DEV"
+		"version": "V14.0.23.5.22.DEV"
 	},
 	{
 		"android": "13.0",
 		"branch": "Public Beta",
 		"codename": "elish",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_ELISH_V14.0.23.5.15.DEV_48e2b7bca7_13.0.zip",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_ELISH_V14.0.23.5.22.DEV_91d1344478_13.0.zip",
 		"md5": null,
 		"method": "Recovery",
 		"name": "Xiaomi Pad 5 Pro Wi-Fi China",
-		"size": "4.5 GB",
-		"version": "V14.0.23.5.15.DEV"
+		"size": "4.4 GB",
+		"version": "V14.0.23.5.22.DEV"
 	},
 	{
 		"android": "13.0",
 		"branch": "Public Beta",
 		"codename": "enuma",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_ENUMA_V14.0.23.5.15.DEV_c8140b25d2_13.0.zip",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_ENUMA_V14.0.23.5.22.DEV_6fb37e30da_13.0.zip",
 		"md5": null,
 		"method": "Recovery",
 		"name": "Xiaomi Pad 5 Pro 5G China",
 		"size": "4.5 GB",
-		"version": "V14.0.23.5.15.DEV"
+		"version": "V14.0.23.5.22.DEV"
 	},
 	{
 		"android": "13.0",
 		"branch": "Public Beta",
 		"codename": "mona",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_MONA_V14.0.23.5.15.DEV_18911907b8_13.0.zip",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_MONA_V14.0.23.5.22.DEV_df3cc521e4_13.0.zip",
 		"md5": null,
 		"method": "Recovery",
 		"name": "Xiaomi Civi China",
-		"size": "5.7 GB",
-		"version": "V14.0.23.5.15.DEV"
+		"size": "5.6 GB",
+		"version": "V14.0.23.5.22.DEV"
 	},
 	{
 		"android": "13.0",
 		"branch": "Public Beta",
 		"codename": "pissarro",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_PISSARRO_V14.0.23.5.15.DEV_79d85a131b_13.0.zip",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_PISSARRO_V14.0.23.5.22.DEV_0f7b254507_13.0.zip",
 		"md5": null,
 		"method": "Recovery",
 		"name": "Redmi Note 11 Pro / Pro+ China",
 		"size": "4.2 GB",
-		"version": "V14.0.23.5.15.DEV"
+		"version": "V14.0.23.5.22.DEV"
 	},
 	{
 		"android": "13.0",
 		"branch": "Public Beta",
 		"codename": "psyche",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_PSYCHE_V14.0.23.5.15.DEV_bc5f76f945_13.0.zip",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_PSYCHE_V14.0.23.5.22.DEV_18348e8e43_13.0.zip",
 		"md5": null,
 		"method": "Recovery",
 		"name": "Xiaomi 12X China",
 		"size": "4.1 GB",
-		"version": "V14.0.23.5.15.DEV"
+		"version": "V14.0.23.5.22.DEV"
 	},
 	{
 		"android": "13.0",
 		"branch": "Public Beta",
 		"codename": "cupid",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_CUPID_V14.0.23.5.15.DEV_9a19a8da93_13.0.zip",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_CUPID_V14.0.23.5.22.DEV_ae72a9d194_13.0.zip",
 		"md5": null,
 		"method": "Recovery",
 		"name": "Xiaomi 12 China",
 		"size": "5.7 GB",
-		"version": "V14.0.23.5.15.DEV"
+		"version": "V14.0.23.5.22.DEV"
 	},
 	{
 		"android": "13.0",
 		"branch": "Public Beta",
 		"codename": "zeus",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_ZEUS_V14.0.23.5.15.DEV_8ad9ec3190_13.0.zip",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_ZEUS_V14.0.23.5.22.DEV_a4d8a440c1_13.0.zip",
 		"md5": null,
 		"method": "Recovery",
 		"name": "Xiaomi 12 Pro China",
 		"size": "5.8 GB",
-		"version": "V14.0.23.5.15.DEV"
+		"version": "V14.0.23.5.22.DEV"
 	},
 	{
 		"android": "13.0",
 		"branch": "Public Beta",
 		"codename": "ingres",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_INGRES_V14.0.23.5.15.DEV_b460205f7a_13.0.zip",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_INGRES_V14.0.23.5.22.DEV_5f4cce4b6a_13.0.zip",
 		"md5": null,
 		"method": "Recovery",
 		"name": "Redmi K50G China",
 		"size": "5.8 GB",
-		"version": "V14.0.23.5.15.DEV"
+		"version": "V14.0.23.5.22.DEV"
 	},
 	{
 		"android": "13.0",
 		"branch": "Public Beta",
 		"codename": "munch",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_MUNCH_V14.0.23.5.15.DEV_a25b084eaf_13.0.zip",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_MUNCH_V14.0.23.5.22.DEV_a366407a0a_13.0.zip",
 		"md5": null,
 		"method": "Recovery",
 		"name": "Redmi K40S China",
 		"size": "4.1 GB",
-		"version": "V14.0.23.5.15.DEV"
+		"version": "V14.0.23.5.22.DEV"
 	},
 	{
 		"android": "13.0",
 		"branch": "Public Beta",
 		"codename": "rubens",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_RUBENS_V14.0.23.5.15.DEV_adaae77f30_13.0.zip",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_RUBENS_V14.0.23.5.22.DEV_80cfbd1ba9_13.0.zip",
 		"md5": null,
 		"method": "Recovery",
 		"name": "Redmi K50 China",
 		"size": "5.9 GB",
-		"version": "V14.0.23.5.15.DEV"
+		"version": "V14.0.23.5.22.DEV"
 	},
 	{
 		"android": "13.0",
 		"branch": "Public Beta",
 		"codename": "matisse",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_MATISSE_V14.0.23.5.15.DEV_4e3c032860_13.0.zip",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_MATISSE_V14.0.23.5.22.DEV_0774084642_13.0.zip",
 		"md5": null,
 		"method": "Recovery",
 		"name": "Redmi K50 Pro China",
-		"size": "6.0 GB",
-		"version": "V14.0.23.5.15.DEV"
+		"size": "5.9 GB",
+		"version": "V14.0.23.5.22.DEV"
 	},
 	{
 		"android": "13.0",
 		"branch": "Public Beta",
 		"codename": "xaga",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_XAGA_V14.0.23.5.15.DEV_79033ee593_13.0.zip",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_XAGA_V14.0.23.5.22.DEV_da39849cf0_13.0.zip",
 		"md5": null,
 		"method": "Recovery",
 		"name": "Redmi Note 11T Pro / Pro+ China",
-		"size": "5.9 GB",
-		"version": "V14.0.23.5.15.DEV"
+		"size": "5.8 GB",
+		"version": "V14.0.23.5.22.DEV"
 	},
 	{
 		"android": "13.0",
 		"branch": "Public Beta",
 		"codename": "unicorn",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_UNICORN_V14.0.23.5.15.DEV_2669be042b_13.0.zip",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_UNICORN_V14.0.23.5.22.DEV_bc6ddfb5e7_13.0.zip",
 		"md5": null,
 		"method": "Recovery",
 		"name": "Xiaomi 12S Pro China",
-		"size": "6.0 GB",
-		"version": "V14.0.23.5.15.DEV"
+		"size": "5.9 GB",
+		"version": "V14.0.23.5.22.DEV"
 	},
 	{
 		"android": "13.0",
 		"branch": "Public Beta",
 		"codename": "thor",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_THOR_V14.0.23.5.15.DEV_f7e7e50eb6_13.0.zip",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_THOR_V14.0.23.5.22.DEV_f11e563826_13.0.zip",
 		"md5": null,
 		"method": "Recovery",
 		"name": "Xiaomi 12S Ultra China",
-		"size": "6.1 GB",
-		"version": "V14.0.23.5.15.DEV"
+		"size": "6.0 GB",
+		"version": "V14.0.23.5.22.DEV"
 	},
 	{
 		"android": "13.0",
 		"branch": "Public Beta",
 		"codename": "mayfly",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_MAYFLY_V14.0.23.5.15.DEV_2c836dc571_13.0.zip",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_MAYFLY_V14.0.23.5.22.DEV_fd45577076_13.0.zip",
 		"md5": null,
 		"method": "Recovery",
 		"name": "Xiaomi 12S China",
+		"size": "5.8 GB",
+		"version": "V14.0.23.5.22.DEV"
+	},
+	{
+		"android": "13.0",
+		"branch": "Public Beta",
+		"codename": "dagu",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_DAGU_V14.0.23.5.22.DEV_f3fe4cbcd3_13.0.zip",
+		"md5": null,
+		"method": "Recovery",
+		"name": "Xiaomi Pad 5 Pro 12.4 China",
+		"size": "4.3 GB",
+		"version": "V14.0.23.5.22.DEV"
+	},
+	{
+		"android": "13.0",
+		"branch": "Public Beta",
+		"codename": "diting",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_DITING_V14.0.23.5.22.DEV_c8991828e1_13.0.zip",
+		"md5": null,
+		"method": "Recovery",
+		"name": "Redmi K50 Ultra China",
 		"size": "5.9 GB",
-		"version": "V14.0.23.5.15.DEV"
+		"version": "V14.0.23.5.22.DEV"
+	},
+	{
+		"android": "13.0",
+		"branch": "Public Beta",
+		"codename": "fuxi",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_FUXI_V14.0.23.5.22.DEV_ed0a144cb8_13.0.zip",
+		"md5": null,
+		"method": "Recovery",
+		"name": "Xiaomi 13 China",
+		"size": "6.5 GB",
+		"version": "V14.0.23.5.22.DEV"
+	},
+	{
+		"android": "13.0",
+		"branch": "Public Beta",
+		"codename": "nuwa",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_NUWA_V14.0.23.5.22.DEV_9fb02dcea0_13.0.zip",
+		"md5": null,
+		"method": "Recovery",
+		"name": "Xiaomi 13 Pro China",
+		"size": "6.6 GB",
+		"version": "V14.0.23.5.22.DEV"
+	},
+	{
+		"android": "13.0",
+		"branch": "Public Beta",
+		"codename": "socrates",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_SOCRATES_V14.0.23.5.22.DEV_6092d612af_13.0.zip",
+		"md5": null,
+		"method": "Recovery",
+		"name": "Redmi K60 Pro China",
+		"size": "6.4 GB",
+		"version": "V14.0.23.5.22.DEV"
+	},
+	{
+		"android": "13.0",
+		"branch": "Public Beta",
+		"codename": "mondrian",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_MONDRIAN_V14.0.23.5.22.DEV_06c57e2e02_13.0.zip",
+		"md5": null,
+		"method": "Recovery",
+		"name": "Redmi K60 China",
+		"size": "5.9 GB",
+		"version": "V14.0.23.5.22.DEV"
+	},
+	{
+		"android": "13.0",
+		"branch": "Public Beta",
+		"codename": "ishtar",
+		"date": "2023-05-26T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/V14.0.23.5.22.DEV/miui_ISHTAR_V14.0.23.5.22.DEV_c4c9677a5b_13.0.zip",
+		"md5": null,
+		"method": "Recovery",
+		"name": "Xiaomi 13 Ultra China",
+		"size": "6.9 GB",
+		"version": "V14.0.23.5.22.DEV"
 	},
 	{
 		"android": "13.0",
@@ -26149,100 +26389,76 @@
 		"version": "V14.0.23.5.15.DEV"
 	},
 	{
-		"android": "13.0",
+		"android": "14.0",
 		"branch": "Public Beta",
-		"codename": "dagu",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_DAGU_V14.0.23.5.15.DEV_8d816878ef_13.0.zip",
+		"codename": "plato_global",
+		"date": "2023-05-06T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/23.5.6/plato_pre_dpp_global_images_23.5.6_20230506.0000.00_14.0_global_189c41d4ac.tgz",
 		"md5": null,
-		"method": "Recovery",
-		"name": "Xiaomi Pad 5 Pro 12.4 China",
-		"size": "4.4 GB",
-		"version": "V14.0.23.5.15.DEV"
+		"method": "Fastboot",
+		"name": "Xiaomi 12T Global",
+		"size": "6.8 GB",
+		"version": "23.5.6"
 	},
 	{
-		"android": "13.0",
-		"branch": "Public Beta",
-		"codename": "diting",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_DITING_V14.0.23.5.15.DEV_0591b85de6_13.0.zip",
-		"md5": null,
-		"method": "Recovery",
-		"name": "Redmi K50 Ultra China",
-		"size": "5.9 GB",
-		"version": "V14.0.23.5.15.DEV"
-	},
-	{
-		"android": "13.0",
+		"android": "14.0",
 		"branch": "Public Beta",
 		"codename": "fuxi",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_FUXI_V14.0.23.5.15.DEV_c3ba951569_13.0.zip",
+		"date": "2023-05-06T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/23.5.6/fuxi_pre_dpp_images_23.5.6_20230506.0000.00_14.0_cn_5cfc986a7c.tgz",
 		"md5": null,
-		"method": "Recovery",
+		"method": "Fastboot",
 		"name": "Xiaomi 13 China",
-		"size": "6.6 GB",
-		"version": "V14.0.23.5.15.DEV"
+		"size": "7.8 GB",
+		"version": "23.5.6"
 	},
 	{
-		"android": "13.0",
+		"android": "14.0",
 		"branch": "Public Beta",
 		"codename": "nuwa",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_NUWA_V14.0.23.5.15.DEV_9a623be01f_13.0.zip",
+		"date": "2023-05-06T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/23.5.6/nuwa_pre_dpp_images_23.5.6_20230506.0000.00_14.0_cn_1e7321db36.tgz",
 		"md5": null,
-		"method": "Recovery",
+		"method": "Fastboot",
 		"name": "Xiaomi 13 Pro China",
-		"size": "6.6 GB",
-		"version": "V14.0.23.5.15.DEV"
+		"size": "7.8 GB",
+		"version": "23.5.6"
 	},
 	{
-		"android": "13.0",
+		"android": "14.0",
 		"branch": "Public Beta",
-		"codename": "socrates",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_SOCRATES_V14.0.23.5.15.DEV_ad52bd8ff4_13.0.zip",
+		"codename": "fuxi_global",
+		"date": "2023-05-06T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/23.5.6/fuxi_pre_dpp_global_images_23.5.6_20230506.0000.00_14.0_global_5ebdff21cd.tgz",
 		"md5": null,
-		"method": "Recovery",
-		"name": "Redmi K60 Pro China",
-		"size": "6.5 GB",
-		"version": "V14.0.23.5.15.DEV"
+		"method": "Fastboot",
+		"name": "Xiaomi 13 Global",
+		"size": "7.1 GB",
+		"version": "23.5.6"
 	},
 	{
-		"android": "13.0",
+		"android": "14.0",
 		"branch": "Public Beta",
-		"codename": "mondrian",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_MONDRIAN_V14.0.23.5.15.DEV_0c41529d65_13.0.zip",
+		"codename": "nuwa_global",
+		"date": "2023-05-06T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/23.5.6/nuwa_pre_dpp_global_images_23.5.6_20230506.0000.00_14.0_global_476952a033.tgz",
 		"md5": null,
-		"method": "Recovery",
-		"name": "Redmi K60 China",
-		"size": "5.9 GB",
-		"version": "V14.0.23.5.15.DEV"
+		"method": "Fastboot",
+		"name": "Xiaomi 13 Pro Global",
+		"size": "7.1 GB",
+		"version": "23.5.6"
 	},
 	{
-		"android": "13.0",
+		"android": "14.0",
 		"branch": "Public Beta",
-		"codename": "ishtar",
-		"date": "2023-05-19T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.15.DEV/miui_ISHTAR_V14.0.23.5.15.DEV_afb6999c27_13.0.zip",
+		"codename": "pipa",
+		"date": "2023-05-06T00:00:00.000Z",
+		"link": "https://bigota.d.miui.com/23.5.6/pipa_pre_dpp_images_23.5.6_20230506.0000.00_14.0_cn_7998f8ef2d.tgz",
 		"md5": null,
-		"method": "Recovery",
-		"name": "Xiaomi 13 Ultra China",
-		"size": "7.0 GB",
-		"version": "V14.0.23.5.15.DEV"
-	},
-	{
-		"android": "13.0",
-		"branch": "Public Beta",
-		"codename": "cetus",
-		"date": "2023-05-12T00:00:00.000Z",
-		"link": "https://bigota.d.miui.com/V14.0.23.5.8.DEV/miui_CETUS_V14.0.23.5.8.DEV_8277b33529_13.0.zip",
-		"md5": null,
-		"method": "Recovery",
-		"name": "Mi MIX Fold China",
-		"size": "5.4 GB",
-		"version": "V14.0.23.5.8.DEV"
+		"method": "Fastboot",
+		"name": "Xiaomi Pad 6 China",
+		"size": "4.9 GB",
+		"version": "23.5.6"
 	},
 	{
 		"android": "13.0",
